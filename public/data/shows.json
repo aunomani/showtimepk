@@ -23,17 +23,6 @@
   },
   {
     "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
-    "movie": "Singh vs Kaur 2 (Punjabi)",
-    "format": "2D",
-    "date": "25-Oct-2026",
-    "time": "07:45 PM",
-    "screen": "SILVER 3",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
     "movie": "Carry On Jatta 4",
     "format": "2D",
@@ -51,17 +40,6 @@
     "date": "25-Oct-2026",
     "time": "11:00 PM",
     "screen": "SCREEN3",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Hope",
-    "format": "2D",
-    "date": "25-Oct-2026",
-    "time": "07:45 PM",
-    "screen": "SCREEN 2 - PLATINUM",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -211,17 +189,6 @@
   {
     "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
-    "movie": "Mango Jutt (Punjabi)",
-    "format": "2D",
-    "date": "25-Oct-2026",
-    "time": "08:00 PM",
-    "screen": "C-Max",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
     "movie": "Singh vs Kaur 2 (Punjabi)",
     "format": "2D",
     "date": "25-Oct-2026",
@@ -266,17 +233,6 @@
   {
     "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "25-Oct-2026",
-    "time": "08:00 PM",
-    "screen": "Screen 3",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
     "movie": "Hope (Urdu Dubbed)",
     "format": "2D",
     "date": "25-Oct-2026",
@@ -315,17 +271,6 @@
     "date": "25-Oct-2026",
     "time": "10:00 PM",
     "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "25-Oct-2026",
-    "time": "08:00 PM",
-    "screen": "Screen 1",
     "city": "Lahore",
     "source": "cinestar"
   },
@@ -1788,6 +1733,17 @@
     "format": "2D",
     "date": "26-Oct-2026",
     "time": "03:15 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Hope",
+    "format": "2D",
+    "date": "26-Oct-2026",
+    "time": "07:45 PM",
     "screen": "SCREEN 2 - PLATINUM",
     "city": "RWP/ISB",
     "source": "cinepax"
