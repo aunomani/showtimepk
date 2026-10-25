@@ -15,7 +15,7 @@ import path from 'node:path';
 import type { MovieMetadata, ScrapeStatus, Show } from '../src/types';
 import { normalizeShow, resolveCinemaMapping } from '../src/lib/cinemaMapping';
 import { parseDisplayDate } from '../src/lib/normalize';
-import { TitleAliases, unifyTitles } from '../src/lib/titles';
+import { searchTitle, TitleAliases, unifyTitles } from '../src/lib/titles';
 import { pktToday } from './lib/dates';
 import { readSheetTab } from './lib/sheet';
 import { getMetadata, tmdbEnabled, TmdbCache } from './lib/tmdb';
@@ -144,7 +144,8 @@ async function main() {
   const cache = await readJson<TmdbCache>(CACHE_FILE, {});
   if (!tmdbEnabled) console.warn('TMDB_ACCESS_TOKEN not set — using cached posters only.');
 
-  const nowTitles = [...new Set(shows.map(s => s.movie))].sort();
+  // Now Playing shows one card per film: "Clayface" and "Clayface (Urdu Dubbed)" become one "Clayface" card.
+  const nowTitles = [...new Set(shows.map(s => searchTitle(s.movie)))].sort();
   const nowMeta = await getMetadata(nowTitles, cache);
   const nowPlaying: Record<string, MovieMetadata> = {};
   for (const t of nowTitles) {

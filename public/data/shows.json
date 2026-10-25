@@ -2,17 +2,6 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
-    "movie": "Hope",
-    "format": "2D",
-    "date": "25-Oct-2026",
-    "time": "07:30 PM",
-    "screen": "Gold Screen",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
     "movie": "Hope (Urdu Dubbed)",
     "format": "2D",
     "date": "25-Oct-2026",
@@ -104,17 +93,6 @@
     "movie": "Mango Jutt (Punjabi)",
     "format": "2D",
     "date": "25-Oct-2026",
-    "time": "07:30 PM",
-    "screen": "SCREEN4",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Mango Jutt (Punjabi)",
-    "format": "2D",
-    "date": "25-Oct-2026",
     "time": "08:30 PM",
     "screen": "SCREEN 1- SILVER",
     "city": "RWP/ISB",
@@ -129,17 +107,6 @@
     "time": "08:30 PM",
     "screen": "SCREEN3",
     "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "25-Oct-2026",
-    "time": "07:30 PM",
-    "screen": "GOLD-1",
-    "city": "Karachi",
     "source": "cinepax"
   },
   {
@@ -266,17 +233,6 @@
   {
     "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
-    "movie": "Street Fighter (Urdu Dubbed)",
-    "format": "2D",
-    "date": "25-Oct-2026",
-    "time": "07:30 PM",
-    "screen": "Screen 4",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
     "movie": "Tutt Paini Ne (Punjabi)",
     "format": "2D",
     "date": "25-Oct-2026",
@@ -315,17 +271,6 @@
     "date": "25-Oct-2026",
     "time": "08:00 PM",
     "screen": "Screen 3",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "Hope",
-    "format": "2D",
-    "date": "25-Oct-2026",
-    "time": "07:45 PM",
-    "screen": "Screen 1",
     "city": "Lahore",
     "source": "cinestar"
   },
@@ -1866,6 +1811,17 @@
     "date": "26-Oct-2026",
     "time": "01:00 PM",
     "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Mango Jutt (Punjabi)",
+    "format": "2D",
+    "date": "26-Oct-2026",
+    "time": "07:30 PM",
+    "screen": "SCREEN4",
     "city": "RWP/ISB",
     "source": "cinepax"
   },

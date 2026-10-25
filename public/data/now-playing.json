@@ -1,6 +1,6 @@
 {
-  "CAHIM 2 (URDU DUBBED)": {
-    "title": "Cahim 2 (Urdu Dubbed)",
+  "CAHIM 2": {
+    "title": "Cahim 2",
     "posterUrl": "https://image.tmdb.org/t/p/w500/5yJqyR2jLUBh0ckXcvCmkz96s56.jpg",
     "trailerUrl": "",
     "trailerId": "",
@@ -17,14 +17,6 @@
   },
   "CLAYFACE": {
     "title": "Clayface",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=f7jlCqdtwdM",
-    "trailerId": "f7jlCqdtwdM",
-    "description": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
-    "releaseDate": "2026-10-19"
-  },
-  "CLAYFACE (URDU DUBBED)": {
-    "title": "Clayface (Urdu Dubbed)",
     "posterUrl": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=f7jlCqdtwdM",
     "trailerId": "f7jlCqdtwdM",
@@ -55,14 +47,6 @@
     "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "releaseDate": "2026-07-15"
   },
-  "HOPE (URDU DUBBED)": {
-    "title": "Hope (Urdu Dubbed)",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=OFaJzL83y0Q",
-    "trailerId": "OFaJzL83y0Q",
-    "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-    "releaseDate": "2026-07-15"
-  },
   "INSIDIOUS: OUT OF THE FURTHER": {
     "title": "Insidious: Out of the Further",
     "posterUrl": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
@@ -71,16 +55,16 @@
     "description": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
     "releaseDate": "2026-08-19"
   },
-  "KAFIRUN (URDU DUBBED)": {
-    "title": "Kafirun (Urdu Dubbed)",
+  "KAFIRUN": {
+    "title": "Kafirun",
     "posterUrl": "https://image.tmdb.org/t/p/w500/1OHtBiPprK9jRzPj0tieCr8xFBA.jpg",
     "trailerUrl": "",
     "trailerId": "",
     "description": "",
     "releaseDate": "2024-08-30"
   },
-  "MANGO JUTT (PUNJABI)": {
-    "title": "Mango Jutt (Punjabi)",
+  "MANGO JUTT": {
+    "title": "Mango Jutt",
     "posterUrl": "",
     "trailerUrl": "",
     "trailerId": ""
@@ -109,8 +93,8 @@
     "description": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
     "releaseDate": "2026-09-17"
   },
-  "SINGH VS KAUR 2 (PUNJABI)": {
-    "title": "Singh vs Kaur 2 (Punjabi)",
+  "SINGH VS KAUR 2": {
+    "title": "Singh vs Kaur 2",
     "posterUrl": "https://image.tmdb.org/t/p/w500/iV2evheL7ijfzenRueT25bPdosV.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=u3uEBSLt3iU",
     "trailerId": "u3uEBSLt3iU",
@@ -133,14 +117,6 @@
     "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "releaseDate": "2026-10-13"
   },
-  "STREET FIGHTER (URDU DUBBED)": {
-    "title": "Street Fighter (Urdu Dubbed)",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ccxdepKqORLwccbzvO4eAGkN0IC.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=U6sbm1OaJb8",
-    "trailerId": "U6sbm1OaJb8",
-    "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-    "releaseDate": "2026-10-13"
-  },
   "TOM AND JERRY: FORBIDDEN COMPASS": {
     "title": "Tom And Jerry: Forbidden Compass",
     "posterUrl": "https://image.tmdb.org/t/p/w500/5qttWFjsO62k88civZaDMHiBTvy.jpg",
@@ -149,8 +125,8 @@
     "description": "During a chase inside a museum, Tom and Jerry find an ancient magical compass and end up being transported through time. Lost in a distant era, they will need to work together to find a way back home.",
     "releaseDate": "2025-08-02"
   },
-  "TUTT PAINI NE (PUNJABI)": {
-    "title": "Tutt Paini Ne (Punjabi)",
+  "TUTT PAINI NE": {
+    "title": "Tutt Paini Ne",
     "posterUrl": "https://image.tmdb.org/t/p/w500/ad9jhXI8pXAK6uD1V5EhIMFbKFA.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=9PZN30QAmL8",
     "trailerId": "9PZN30QAmL8",

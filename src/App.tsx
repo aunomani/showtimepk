@@ -38,7 +38,7 @@ import {
 import { motion, AnimatePresence } from 'motion/react';
 import { Show, MovieMetadata, ScrapeStatus } from './types';
 import { processRawNetworkData } from './lib/dataProcessor';
-import { unifyTitles, TitleAliases } from './lib/titles';
+import { unifyTitles, searchTitle, TitleAliases } from './lib/titles';
 import { resolveCinemaMapping, normalizeShow, CANONICAL_CINEMAS } from './lib/cinemaMapping';
 import { sheetGvizUrl } from './config';
 import titleAliases from '../config/title-aliases.json';
@@ -954,7 +954,7 @@ export default function App() {
       // 2. Fallback: If no explicit titles, show movies that have active showtimes
       const activeShows = shows || [];
       const showTitles = explicitTitles.length === 0 
-        ? Array.from(new Set(activeShows.map(s => s?.movie).filter((n): n is string => Boolean(n))))
+        ? Array.from(new Set(activeShows.map(s => s?.movie && searchTitle(s.movie)).filter((n): n is string => Boolean(n))))
         : [];
       
       // EXCLUDE any titles that are strictly marked as "Coming Soon" in the other cache if they aren't in shows
