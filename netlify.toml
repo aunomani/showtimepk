@@ -1,0 +1,18 @@
+[build]
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
+
+# Data files change every 12 hours, so browsers must re-check them.
+[[headers]]
+  for = "/data/*"
+  [headers.values]
+    Cache-Control = "public, max-age=0, must-revalidate"
+
+# Single-page app: unknown paths load index.html (real files like /data/shows.json are served first).
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

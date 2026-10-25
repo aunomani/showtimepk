@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "DM Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Bebas Neue", sans-serif;
+  
+  --color-accent: #e63946;
+  --color-accent-hover: #ff6b6b;
+  --color-gold: #f4a261;
+  --color-nueplex: #4cc9f0;
+  --color-arena: #f4a261;
+  --color-cinepax: #a8dadc;
+  
+  --color-bg-main: #0a0a0a;
+  --color-bg-secondary: #111111;
+  --color-bg-tertiary: #1a1a1a;
+  --color-bg-quaternary: #222222;
+  
+  --color-border-subtle: #2a2a2a;
+}
+
+@layer base {
+  body {
+    @apply bg-bg-main text-white font-sans antialiased;
+  }
+}
+
+@layer utilities {
+  .hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .hide-scrollbar {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}

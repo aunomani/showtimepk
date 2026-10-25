@@ -1,0 +1,48 @@
+name: Update showtimes
+
+on:
+  schedule:
+    # Every 12 hours: 06:00 and 18:00 Pakistan time (01:00 and 13:00 UTC).
+    # GitHub may start scheduled runs a few minutes late.
+    - cron: '0 1,13 * * *'
+  # Adds a "Run workflow" button under the Actions tab for manual updates.
+  workflow_dispatch:
+
+permissions:
+  contents: write # needed to commit the updated data files
+
+concurrency:
+  group: update-showtimes
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      - run: npm ci
+
+      - name: Fetch showtimes
+        run: npm run scrape
+        env:
+          TMDB_ACCESS_TOKEN: ${{ secrets.TMDB_ACCESS_TOKEN }}
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+
+      - name: Commit updated data
+        run: |
+          git config user.name "showtimepk-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/data data
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "Update showtimes $(TZ=Asia/Karachi date '+%d-%b-%Y %H:%M') PKT"
+            git push
+          fi

@@ -1,0 +1,4 @@
+{
+  "_help": "Fix movie names here. Left = the name a cinema uses (case and punctuation don't matter), right = the name to show on the site. Keys starting with _ are ignored. Edit this file on GitHub; the next run picks it up.",
+  "_example: Lee Cronin's The Mummy": "The Mummy"
+}
