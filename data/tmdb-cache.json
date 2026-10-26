@@ -772,5 +772,27 @@
       "description": "Shrek and Donkey team up for another whirlwind, big-city adventure, this time in the magical city of Further Further Away.",
       "releaseDate": "2027-06-30"
     }
+  },
+  "merigirlfrienddaviyaah": {
+    "fetchedAt": "2026-10-26T15:09:28.580Z",
+    "meta": {
+      "title": "Meri Girlfriend Da Viyaah",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bIeCwdwwig0CzohFMeKybfhnAKT.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=ewbaODuDd0Q",
+      "trailerId": "ewbaODuDd0Q",
+      "description": "Bittu's peaceful life with his girlfriend Nimrat in Mumbai turns chaotic when his parents arrive unexpectedly. Unable to reveal their relationship, he introduces Nimrat as their housemaid. Their lie grows complicated when the male househelp falls for Nimrat and wants to marry her. As they struggle to keep their charade alive, family pressure and misunderstandings create chaos.",
+      "releaseDate": "2026-10-09"
+    }
+  },
+  "patakkaguddiyan": {
+    "fetchedAt": "2026-10-26T15:09:28.988Z",
+    "meta": {
+      "title": "Patakka Guddiyan",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iXzierTllivIAPYxwfQjcY6x5Ui.jpg",
+      "trailerUrl": "",
+      "trailerId": "",
+      "description": "Roohi, a simple girl, is the complete opposite of her twin sister Mahi, who is sharp, daring, and mischievous. As the story progresses, layers of suspense and drama unfold.",
+      "releaseDate": "2026-10-30"
+    }
   }
 }
