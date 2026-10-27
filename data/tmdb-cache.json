@@ -794,5 +794,16 @@
       "description": "Roohi, a simple girl, is the complete opposite of her twin sister Mahi, who is sharp, daring, and mischievous. As the story progresses, layers of suspense and drama unfold.",
       "releaseDate": "2026-10-30"
     }
+  },
+  "thaapi": {
+    "fetchedAt": "2026-10-27T01:37:09.138Z",
+    "meta": {
+      "title": "Thaapi",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/cBTC5Avl6k23K0KCvPNywnqVSJo.jpg",
+      "trailerUrl": "",
+      "trailerId": "",
+      "description": "The story follows an undefeated 70-year-old wrestler named Bhakhtaur Singh, who is burdened by family legacy.  When his family lacks a male heir, he demands one, but his daughter-in-law Kammo chooses instead to defy patriarchal expectations by forming a girls' kabaddi team.  The climax builds toward a major showdown against New Zealand's national team, pushing Bhakhtaur to recognize Kammo as his true successor.",
+      "releaseDate": "2026-10-16"
+    }
   }
 }
