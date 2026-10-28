@@ -10,12 +10,16 @@ GitHub Actions (every 12 h) ──► scripts/scrape.ts
      │   fetches all 5 cinema websites, cleans movie names,
      │   adds posters/trailers from TMDB
      ▼
-public/data/*.json  ──(commit)──►  Netlify rebuilds  ──►  website
+public/data/*.json  ──(commit to GitHub)──►  visitors load it from GitHub  ──►  website
                                         ▲
 Google Sheet ── prices, ratings, coming soon list, and Sheet1 as a manual fallback
 ```
 
 No server, no AI, no paid services. Everything runs on free tiers.
+
+The website loads `public/data/*.json` straight from this (public) GitHub repo, so the
+twice-daily data commits do **not** trigger a Netlify deploy (`ignore` rule in `netlify.toml`).
+Netlify only rebuilds when you change the website code itself.
 
 | File | What it is |
 |---|---|

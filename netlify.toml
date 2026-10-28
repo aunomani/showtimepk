@@ -1,6 +1,10 @@
 [build]
   command = "npm run build"
   publish = "dist"
+  # Skip the deploy (and its Netlify credits) when a commit only changes data files.
+  # The website reads that data from GitHub directly, so it doesn't need rebuilding.
+  # Exit code 0 = skip, 1 = build. Code/design changes still deploy as normal.
+  ignore = "git diff --quiet $CACHED_COMMIT_REF $COMMIT_REF -- . ':(exclude)public/data' ':(exclude)data'"
 
 [build.environment]
   NODE_VERSION = "22"

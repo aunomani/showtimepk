@@ -40,20 +40,28 @@ import { Show, MovieMetadata, ScrapeStatus } from './types';
 import { processRawNetworkData } from './lib/dataProcessor';
 import { unifyTitles, searchTitle, TitleAliases } from './lib/titles';
 import { resolveCinemaMapping, normalizeShow, CANONICAL_CINEMAS } from './lib/cinemaMapping';
-import { sheetGvizUrl } from './config';
+import { sheetGvizUrl, DATA_BASE_URL } from './config';
 import titleAliases from '../config/title-aliases.json';
 
-/** Fetches one of the JSON files written by scripts/scrape.ts. Returns null if missing or empty. */
+/**
+ * Fetches one of the JSON files written by scripts/scrape.ts: first from GitHub
+ * (always the latest), then from the copy bundled with the site. Returns null if
+ * neither has usable data.
+ */
 async function loadDataFile<T>(name: string): Promise<T | null> {
-  try {
-    const res = await fetch(`/data/${name}`, { cache: 'no-cache' });
-    if (!res.ok || !(res.headers.get('content-type') || '').includes('json')) return null;
-    const data = await res.json();
-    if (Array.isArray(data) ? data.length === 0 : !data || Object.keys(data).length === 0) return null;
-    return data as T;
-  } catch {
-    return null;
+  for (const url of [`${DATA_BASE_URL}/${name}`, `/data/${name}`]) {
+    try {
+      const res = await fetch(url, { cache: 'no-cache' });
+      if (!res.ok) continue;
+      // GitHub serves these as text/plain, and a missing local file returns index.html, so parse defensively
+      const data = JSON.parse(await res.text());
+      if (Array.isArray(data) ? data.length === 0 : !data || Object.keys(data).length === 0) continue;
+      return data as T;
+    } catch {
+      // try the next source
+    }
   }
+  return null;
 }
 
 /**
