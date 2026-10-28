@@ -17,8 +17,10 @@ export interface CacheEntry {
 }
 export type TmdbCache = Record<string, CacheEntry>;
 
-const MISS_RETRY_DAYS = 2;   // retry titles we couldn't find
-const HIT_REFRESH_DAYS = 30; // refresh posters/trailers occasionally
+// Found movies are saved forever and never looked up again (delete an entry from
+// data/tmdb-cache.json to force a re-fetch). Movies TMDB couldn't find are retried
+// every 2 days, in case TMDB adds them later.
+const MISS_RETRY_DAYS = 2;
 
 async function tmdb(path: string, params: Record<string, string> = {}): Promise<any> {
   const url = new URL(`https://api.themoviedb.org/3/${path}`);
@@ -86,8 +88,9 @@ async function lookup(title: string, imdbId?: string): Promise<MovieMetadata | n
 
 function isFresh(entry: CacheEntry | undefined): boolean {
   if (!entry) return false;
+  if (entry.meta) return true;
   const ageDays = (Date.now() - new Date(entry.fetchedAt).getTime()) / 86400000;
-  return ageDays < (entry.meta ? HIT_REFRESH_DAYS : MISS_RETRY_DAYS);
+  return ageDays < MISS_RETRY_DAYS;
 }
 
 /**
