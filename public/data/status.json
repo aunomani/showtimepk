@@ -1,26 +1,42 @@
 {
-  "updatedAt": "2026-10-29T13:52:43.042Z",
-  "totalShows": 519,
+  "updatedAt": "2026-10-30T01:51:40.470Z",
+  "totalShows": 408,
   "sources": {
     "cinepax": {
-      "count": 150,
+      "count": 133,
       "from": "live"
     },
     "nueplex": {
-      "count": 186,
+      "count": 151,
       "from": "live"
     },
     "arena": {
-      "count": 74,
+      "count": 59,
       "from": "live"
     },
     "cinestar": {
-      "count": 60,
+      "count": 57,
       "from": "live"
     },
     "raiha": {
-      "count": 98,
-      "from": "live"
+      "count": 0,
+      "from": "none"
+    },
+    "fallback:raiha-isb": {
+      "count": 2,
+      "from": "previous"
+    },
+    "fallback:raiha-khi": {
+      "count": 3,
+      "from": "previous"
+    },
+    "fallback:raiha-lhr": {
+      "count": 2,
+      "from": "previous"
+    },
+    "fallback:arena-khi": {
+      "count": 1,
+      "from": "previous"
     }
   }
 }
