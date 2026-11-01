@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-11-01T01:54:49.602Z",
-  "totalShows": 649,
+  "updatedAt": "2026-11-01T13:41:44.198Z",
+  "totalShows": 709,
   "sources": {
     "cinepax": {
-      "count": 121,
+      "count": 96,
       "from": "live"
     },
     "arena": {
@@ -15,7 +15,7 @@
       "from": "live"
     },
     "cinestar": {
-      "count": 26,
+      "count": 111,
       "from": "live"
     },
     "raiha": {
