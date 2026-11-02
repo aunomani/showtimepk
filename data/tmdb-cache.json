@@ -813,5 +813,38 @@
   "ghostschool(pakistani)": {
     "fetchedAt": "2026-11-01T01:55:06.516Z",
     "meta": null
+  },
+  "drummerboy": {
+    "fetchedAt": "2026-11-02T14:05:00.106Z",
+    "meta": {
+      "title": "Drummer Boy",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bhjdgMm2fFrysSzVqv5RwRwIbVf.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=rXaR4nXRvOY",
+      "trailerId": "rXaR4nXRvOY",
+      "description": "As America’s fight for independence begins, a young drummer boy, an enslaved woman, and a divided family each search for freedom in a world built to deny it. With music carrying hope through battle and loss, Drummer Boy turns the Revolution into a deeply human story of faith, forgiveness, and the belief that no person is born to live in chains or be forgotten.",
+      "releaseDate": "2026-11-05"
+    }
+  },
+  "ghostsoldier": {
+    "fetchedAt": "2026-11-02T14:05:00.519Z",
+    "meta": {
+      "title": "Ghost Soldier",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=UKaWzMf9Ybc",
+      "trailerId": "UKaWzMf9Ybc",
+      "description": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
+      "releaseDate": "2026-11-04"
+    }
+  },
+  "thecatinthehat": {
+    "fetchedAt": "2026-11-02T14:05:00.881Z",
+    "meta": {
+      "title": "The Cat in the Hat",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=tkZpcypT8Z4",
+      "trailerId": "tkZpcypT8Z4",
+      "description": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+      "releaseDate": "2026-11-04"
+    }
   }
 }

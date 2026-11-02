@@ -15,6 +15,14 @@
     "description": "Matt Hagen's meteoric rise from Gotham street kid to Hollywood leading man is tragically cut short when a local crime boss's actions leave him horribly disfigured. Abandoned by his team and with nothing left, Matt seeks out a cutting edge treatment that miraculously returns him to his former self… but also unexpectedly affects his grip on reality, spiraling him down a destructive path of all-consuming revenge.",
     "releaseDate": "2026-10-19"
   },
+  "DRUMMER BOY": {
+    "title": "Drummer Boy",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bhjdgMm2fFrysSzVqv5RwRwIbVf.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=rXaR4nXRvOY",
+    "trailerId": "rXaR4nXRvOY",
+    "description": "As America’s fight for independence begins, a young drummer boy, an enslaved woman, and a divided family each search for freedom in a world built to deny it. With music carrying hope through battle and loss, Drummer Boy turns the Revolution into a deeply human story of faith, forgiveness, and the belief that no person is born to live in chains or be forgotten.",
+    "releaseDate": "2026-11-05"
+  },
   "GHOST SCHOOL": {
     "title": "Ghost School",
     "posterUrl": "https://image.tmdb.org/t/p/w500/d36eqygq3ReUBgS2ytmjrho26OH.jpg",
@@ -28,6 +36,14 @@
     "posterUrl": "",
     "trailerUrl": "",
     "trailerId": ""
+  },
+  "GHOST SOLDIER": {
+    "title": "Ghost Soldier",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=UKaWzMf9Ybc",
+    "trailerId": "UKaWzMf9Ybc",
+    "description": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
+    "releaseDate": "2026-11-04"
   },
   "HOPE": {
     "title": "Hope",
@@ -121,6 +137,14 @@
     "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "releaseDate": "2026-10-13"
   },
+  "THE CAT IN THE HAT": {
+    "title": "The Cat in the Hat",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=tkZpcypT8Z4",
+    "trailerId": "tkZpcypT8Z4",
+    "description": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
+    "releaseDate": "2026-11-04"
+  },
   "TOM AND JERRY: FORBIDDEN COMPASS": {
     "title": "Tom And Jerry: Forbidden Compass",
     "posterUrl": "https://image.tmdb.org/t/p/w500/5qttWFjsO62k88civZaDMHiBTvy.jpg",
@@ -128,6 +152,14 @@
     "trailerId": "4280xkO7x0w",
     "description": "During a chase inside a museum, Tom and Jerry find an ancient magical compass and end up being transported through time. Lost in a distant era, they will need to work together to find a way back home.",
     "releaseDate": "2025-08-02"
+  },
+  "TUTT PAINI NE": {
+    "title": "Tutt Paini Ne",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ad9jhXI8pXAK6uD1V5EhIMFbKFA.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=9PZN30QAmL8",
+    "trailerId": "9PZN30QAmL8",
+    "description": "Blending comedy with heartfelt family moments, this movie explores the clash between cultural pride and modern aspirations through characters every Punjabi household will recognise.",
+    "releaseDate": "2026-09-25"
   },
   "VERITY": {
     "title": "Verity",
