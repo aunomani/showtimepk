@@ -2,44 +2,11 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
-    "movie": "Carry On Jatta 4",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "12:45 PM",
-    "screen": "SILVER 3",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
-    "movie": "Hope (Urdu Dubbed)",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "03:25 PM",
-    "screen": "SILVER 3",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
     "movie": "Hope (Urdu Dubbed)",
     "format": "2D",
     "date": "03-Nov-2026",
     "time": "08:20 PM",
     "screen": "SILVER 3",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
-    "movie": "Kafirun (Urdu Dubbed)",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "05:05 PM",
-    "screen": "Gold Screen",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -57,44 +24,11 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
-    "movie": "Mango Jutt (Punjabi)",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "02:45 PM",
-    "screen": "Gold Screen",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
-    "movie": "Patakka Guddiyan (Punjabi)",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "05:55 PM",
-    "screen": "SILVER 3",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
     "movie": "Patakka Guddiyan (Punjabi)",
     "format": "2D",
     "date": "03-Nov-2026",
     "time": "10:50 PM",
     "screen": "SILVER 3",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "01:00 PM",
-    "screen": "Gold Screen",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -123,88 +57,11 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
-    "movie": "Carry On Jatta 4",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "01:00 PM",
-    "screen": "SCREEN 1- SILVER",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "01:15 PM",
-    "screen": "SCREEN3",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "06:00 PM",
-    "screen": "SCREEN3",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
     "movie": "Clayface",
     "format": "2D",
     "date": "03-Nov-2026",
     "time": "10:45 PM",
     "screen": "SCREEN3",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "02:30 PM",
-    "screen": "SCREEN 2 - PLATINUM",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "06:30 PM",
-    "screen": "SCREEN 2 - PLATINUM",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Hope",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "05:45 PM",
-    "screen": "SCREEN 1- SILVER",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Hope (Urdu Dubbed)",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "01:45 PM",
-    "screen": "SCREEN5",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -225,19 +82,8 @@
     "movie": "Kafirun (Urdu Dubbed)",
     "format": "2D",
     "date": "03-Nov-2026",
-    "time": "08:45 PM",
+    "time": "08:30 PM",
     "screen": "SCREEN 2 - PLATINUM",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Mango Jutt (Punjabi)",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "04:30 PM",
-    "screen": "SCREEN4",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -249,28 +95,6 @@
     "date": "03-Nov-2026",
     "time": "08:45 PM",
     "screen": "SCREEN2",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Meri Girlfriend Da Viyaah (Punjabi)",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "04:45 PM",
-    "screen": "SCREEN 2 - PLATINUM",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Patakka Guddiyan (Punjabi)",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "01:30 PM",
-    "screen": "SCREEN4",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -291,30 +115,8 @@
     "movie": "Patakka Guddiyan (Punjabi)",
     "format": "2D",
     "date": "03-Nov-2026",
-    "time": "08:30 PM",
+    "time": "08:15 PM",
     "screen": "SCREEN 1- SILVER",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Spider-Man: Brand New Day",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "08:00 PM",
-    "screen": "SCREEN5",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Street Fighter",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "03:30 PM",
-    "screen": "SCREEN3",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -327,28 +129,6 @@
     "time": "08:15 PM",
     "screen": "SCREEN3",
     "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Tom And Jerry: Forbidden Compass",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "03:45 PM",
-    "screen": "SCREEN 1- SILVER",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "06:45 PM",
-    "screen": "PLATINUM",
-    "city": "Karachi",
     "source": "cinepax"
   },
   {
@@ -368,29 +148,7 @@
     "movie": "Ghost School",
     "format": "2D",
     "date": "03-Nov-2026",
-    "time": "05:30 PM",
-    "screen": "GOLD-2",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Ghost School",
-    "format": "2D",
-    "date": "03-Nov-2026",
     "time": "09:15 PM",
-    "screen": "GOLD-2",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Hope (Urdu Dubbed)",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "02:45 PM",
     "screen": "GOLD-2",
     "city": "Karachi",
     "source": "cinepax"
@@ -420,77 +178,11 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
-    "movie": "Other Mommy",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "03:00 PM",
-    "screen": "GOLD-1",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Other Mommy",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "12:45 PM",
-    "screen": "GOLD-2",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Resident Evil",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "05:00 PM",
-    "screen": "GOLD-1",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
     "movie": "Resident Evil",
     "format": "2D",
     "date": "03-Nov-2026",
     "time": "11:45 PM",
     "screen": "GOLD-1",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "01:15 PM",
-    "screen": "GOLD-1",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Spider-Man: Brand New Day",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "03:45 PM",
-    "screen": "PLATINUM",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Street Fighter",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "01:00 PM",
-    "screen": "PLATINUM",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -522,17 +214,6 @@
     "movie": "Carry On Jatta 4",
     "format": "2D",
     "date": "03-Nov-2026",
-    "time": "01:00 PM",
-    "screen": "Screen 5",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Carry On Jatta 4",
-    "format": "2D",
-    "date": "03-Nov-2026",
     "time": "07:30 PM",
     "screen": "C-Max",
     "city": "Lahore",
@@ -552,44 +233,11 @@
   {
     "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
-    "movie": "Hope (Urdu Dubbed)",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "01:15 PM",
-    "screen": "Platinum 2",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
     "movie": "Meri Girlfriend Da Viyaah (Punjabi)",
     "format": "2D",
     "date": "03-Nov-2026",
     "time": "08:15 PM",
     "screen": "Screen 5",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Patakka Guddiyan (Punjabi)",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "03:45 PM",
-    "screen": "Screen 5",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "03:30 PM",
-    "screen": "Screen 4",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -610,54 +258,10 @@
     "movie": "Street Fighter (Urdu Dubbed)",
     "format": "2D",
     "date": "03-Nov-2026",
-    "time": "05:15 PM",
-    "screen": "Screen 4",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Street Fighter (Urdu Dubbed)",
-    "format": "2D",
-    "date": "03-Nov-2026",
     "time": "07:45 PM",
     "screen": "Screen 4",
     "city": "Lahore",
     "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Tom And Jerry: Forbidden Compass",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "01:30 PM",
-    "screen": "Screen 4",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Tutt Paini Ne (Punjabi)",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "06:15 PM",
-    "screen": "Screen 5",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Raya Golf Resort DHA Phase 6 LHR",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "02:30 PM",
-    "screen": "",
-    "city": "Lahore",
-    "source": "cinestar"
   },
   {
     "cinema": "Cinestar",
@@ -673,44 +277,11 @@
   {
     "cinema": "Cinestar",
     "location": "Raya Golf Resort DHA Phase 6 LHR",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "04:30 PM",
-    "screen": "",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Raya Golf Resort DHA Phase 6 LHR",
-    "movie": "Street Fighter",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "06:00 PM",
-    "screen": "",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Raya Golf Resort DHA Phase 6 LHR",
     "movie": "Whalefall",
     "format": "2D",
     "date": "03-Nov-2026",
     "time": "10:00 PM",
     "screen": "",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "02:30 PM",
-    "screen": "Screen 2",
     "city": "Lahore",
     "source": "cinestar"
   },
@@ -739,28 +310,6 @@
   {
     "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
-    "movie": "Meri Girlfriend Da Viyaah (Punjabi)",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "03:00 PM",
-    "screen": "Screen 3",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "Patakka Guddiyan (Punjabi)",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "04:30 PM",
-    "screen": "Screen 3",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
     "movie": "Resident Evil",
     "format": "2D",
     "date": "03-Nov-2026",
@@ -772,55 +321,11 @@
   {
     "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "07:00 PM",
-    "screen": "Screen 3",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "Street Fighter",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "04:15 PM",
-    "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
     "movie": "Street Fighter",
     "format": "2D",
     "date": "03-Nov-2026",
     "time": "08:00 PM",
     "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "Whalefall",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "06:15 PM",
-    "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "04:30 PM",
-    "screen": "Screen 1",
     "city": "Lahore",
     "source": "cinestar"
   },
@@ -849,54 +354,10 @@
   {
     "cinema": "Cinestar",
     "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Hope",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "04:30 PM",
-    "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Meri Girlfriend Da Viyaah (Punjabi)",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "07:00 PM",
-    "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
     "movie": "Patakka Guddiyan (Punjabi)",
     "format": "2D",
     "date": "03-Nov-2026",
     "time": "10:00 PM",
-    "screen": "Screen 1",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Resident Evil",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "06:30 PM",
-    "screen": "Screen 1",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Spider-Man: Brand New Day",
-    "format": "2D",
-    "date": "03-Nov-2026",
-    "time": "02:00 PM",
     "screen": "Screen 1",
     "city": "Lahore",
     "source": "cinestar"
@@ -1124,7 +585,7 @@
   {
     "cinema": "Nueplex DHA",
     "location": "DHA Phase 8",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "03-Nov-2026",
     "time": "06:00 PM",
@@ -1278,7 +739,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Islamabad",
-    "movie": "Tom And Jerry: Forbidden Compass",
+    "movie": "Tom and Jerry: Forbidden Compass",
     "format": "2D",
     "date": "03-Nov-2026",
     "time": "05:30 PM",
@@ -1410,7 +871,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "03-Nov-2026",
     "time": "03:15 PM",
@@ -1421,7 +882,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "03-Nov-2026",
     "time": "02:45 PM",
@@ -1432,7 +893,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "03-Nov-2026",
     "time": "08:30 PM",
@@ -1608,7 +1069,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Tom And Jerry: Forbidden Compass",
+    "movie": "Tom and Jerry: Forbidden Compass",
     "format": "2D",
     "date": "03-Nov-2026",
     "time": "11:30 AM",
@@ -1817,6 +1278,28 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
+    "movie": "Carry On Jatta 4",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "12:45 PM",
+    "screen": "SILVER 3",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Amanah Mall Lahore",
+    "movie": "Hope (Urdu Dubbed)",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "03:25 PM",
+    "screen": "SILVER 3",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Amanah Mall Lahore",
     "movie": "Kafirun (Urdu Dubbed)",
     "format": "2D",
     "date": "04-Nov-2026",
@@ -1883,6 +1366,17 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "01:00 PM",
+    "screen": "Gold Screen",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Amanah Mall Lahore",
     "movie": "Singh vs Kaur 2 (Punjabi)",
     "format": "2D",
     "date": "04-Nov-2026",
@@ -1893,11 +1387,187 @@
   },
   {
     "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Carry On Jatta 4",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "01:00 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "01:15 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "06:00 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "02:30 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "06:30 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Hope",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "05:45 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Hope (Urdu Dubbed)",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "05:00 PM",
+    "screen": "SCREEN5",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Kafirun (Urdu Dubbed)",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "08:45 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Mango Jutt (Punjabi)",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "04:30 PM",
+    "screen": "SCREEN4",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Meri Girlfriend Da Viyaah (Punjabi)",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "04:45 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Patakka Guddiyan (Punjabi)",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "01:30 PM",
+    "screen": "SCREEN4",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Patakka Guddiyan (Punjabi)",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "08:30 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Street Fighter",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "03:30 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Tom and Jerry: Forbidden Compass",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "03:45 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "06:45 PM",
+    "screen": "PLATINUM",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
     "movie": "Ghost School",
     "format": "2D",
     "date": "04-Nov-2026",
     "time": "05:20 PM",
+    "screen": "GOLD-2",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Hope (Urdu Dubbed)",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "02:45 PM",
     "screen": "GOLD-2",
     "city": "Karachi",
     "source": "cinepax"
@@ -1919,8 +1589,63 @@
     "movie": "Other Mommy",
     "format": "2D",
     "date": "04-Nov-2026",
+    "time": "03:00 PM",
+    "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Other Mommy",
+    "format": "2D",
+    "date": "04-Nov-2026",
     "time": "11:50 PM",
     "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Other Mommy",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "12:45 PM",
+    "screen": "GOLD-2",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Resident Evil",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "05:00 PM",
+    "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "01:15 PM",
+    "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Spider-Man: Brand New Day",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "03:45 PM",
+    "screen": "PLATINUM",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -1933,6 +1658,28 @@
     "time": "01:10 PM",
     "screen": "PLATINUM",
     "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Carry On Jatta 4",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "01:00 PM",
+    "screen": "Screen 5",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Hope (Urdu Dubbed)",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "01:15 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
     "source": "cinepax"
   },
   {
@@ -1991,6 +1738,61 @@
     "source": "cinepax"
   },
   {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Patakka Guddiyan (Punjabi)",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "03:45 PM",
+    "screen": "Screen 5",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "03:30 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Street Fighter (Urdu Dubbed)",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "05:15 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Tom and Jerry: Forbidden Compass",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "01:30 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Tutt Paini Ne (Punjabi)",
+    "format": "2D",
+    "date": "04-Nov-2026",
+    "time": "06:15 PM",
+    "screen": "Screen 5",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
     "cinema": "Cinestar",
     "location": "Raya Golf Resort DHA Phase 6 LHR",
     "movie": "Clayface",
@@ -2015,7 +1817,7 @@
   {
     "cinema": "Cinestar",
     "location": "Raya Golf Resort DHA Phase 6 LHR",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "04-Nov-2026",
     "time": "04:30 PM",
@@ -2114,7 +1916,7 @@
   {
     "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "04-Nov-2026",
     "time": "07:00 PM",
@@ -2389,7 +2191,7 @@
   {
     "cinema": "Nueplex Askari IV",
     "location": "Askari IV",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "04-Nov-2026",
     "time": "05:50 PM",
@@ -2510,7 +2312,7 @@
   {
     "cinema": "Nueplex DHA",
     "location": "DHA Phase 8",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "04-Nov-2026",
     "time": "07:10 PM",
@@ -2532,7 +2334,7 @@
   {
     "cinema": "Nueplex DHA",
     "location": "DHA Phase 8",
-    "movie": "Tom And Jerry: Forbidden Compass",
+    "movie": "Tom and Jerry: Forbidden Compass",
     "format": "2D",
     "date": "04-Nov-2026",
     "time": "05:00 PM",
@@ -2840,7 +2642,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "04-Nov-2026",
     "time": "03:15 PM",
@@ -2851,7 +2653,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "04-Nov-2026",
     "time": "02:45 PM",
@@ -2862,7 +2664,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "04-Nov-2026",
     "time": "08:30 PM",
@@ -3071,7 +2873,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Tom And Jerry: Forbidden Compass",
+    "movie": "Tom and Jerry: Forbidden Compass",
     "format": "2D",
     "date": "04-Nov-2026",
     "time": "11:30 AM",
@@ -3346,11 +3148,33 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
+    "movie": "Ghost School",
+    "format": "2D",
+    "date": "05-Nov-2026",
+    "time": "05:30 PM",
+    "screen": "GOLD-2",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
     "movie": "Other Mommy",
     "format": "2D",
     "date": "05-Nov-2026",
     "time": "11:45 PM",
     "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Street Fighter",
+    "format": "2D",
+    "date": "05-Nov-2026",
+    "time": "01:00 PM",
+    "screen": "PLATINUM",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -3379,7 +3203,7 @@
   {
     "cinema": "Cinestar",
     "location": "Raya Golf Resort DHA Phase 6 LHR",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "05-Nov-2026",
     "time": "04:30 PM",
@@ -3478,7 +3302,7 @@
   {
     "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "05-Nov-2026",
     "time": "07:00 PM",
@@ -3863,7 +3687,7 @@
   {
     "cinema": "Nueplex DHA",
     "location": "DHA Phase 8",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "05-Nov-2026",
     "time": "07:30 PM",
@@ -3896,7 +3720,7 @@
   {
     "cinema": "Nueplex DHA",
     "location": "DHA Phase 8",
-    "movie": "Tom And Jerry: Forbidden Compass",
+    "movie": "Tom and Jerry: Forbidden Compass",
     "format": "2D",
     "date": "05-Nov-2026",
     "time": "05:20 PM",
@@ -4050,7 +3874,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Islamabad",
-    "movie": "Tom And Jerry: Forbidden Compass",
+    "movie": "Tom and Jerry: Forbidden Compass",
     "format": "2D",
     "date": "05-Nov-2026",
     "time": "05:30 PM",
@@ -4204,7 +4028,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "05-Nov-2026",
     "time": "03:15 PM",
@@ -4215,7 +4039,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "05-Nov-2026",
     "time": "02:45 PM",
@@ -4226,7 +4050,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "05-Nov-2026",
     "time": "08:30 PM",
@@ -4435,7 +4259,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Tom And Jerry: Forbidden Compass",
+    "movie": "Tom and Jerry: Forbidden Compass",
     "format": "2D",
     "date": "05-Nov-2026",
     "time": "11:30 AM",
@@ -4680,9 +4504,53 @@
     "movie": "Soy (Turkish Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
-    "time": "09:00 PM",
+    "time": "08:15 PM",
     "screen": "SILVER 3",
     "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Carry On Jatta 4",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "02:15 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "07:15 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Soy (Turkish Subtitles)",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "09:00 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "The Cat in the Hat",
+    "format": "3D",
+    "date": "06-Nov-2026",
+    "time": "05:00 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
     "source": "cinepax"
   },
   {
@@ -4710,11 +4578,165 @@
   {
     "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
+    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "07:30 PM",
+    "screen": "Screen 5",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Carry On Jatta 4",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "07:00 PM",
+    "screen": "C-Max",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Drummer Boy",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "03:15 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "05:45 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Hope (Urdu Dubbed)",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "10:15 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Meri Girlfriend Da Viyaah (Punjabi)",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "03:45 PM",
+    "screen": "Screen 5",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Other Mommy",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "09:15 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Patakka Guddiyan (Punjabi)",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "05:15 PM",
+    "screen": "Screen 5",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "03:00 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "04:30 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Singh vs Kaur 2 (Punjabi)",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "10:00 PM",
+    "screen": "Screen 5",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Soy (Turkish Subtitles)",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "07:30 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
     "movie": "Soy (Turkish Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "11:00 PM",
     "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Street Fighter (Urdu Dubbed)",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "08:00 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "The Cat in the Hat",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "06:00 PM",
+    "screen": "Screen 4",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -5160,6 +5182,105 @@
   },
   {
     "cinema": "Cinepax",
+    "location": "Amanah Mall Lahore",
+    "movie": "Soy (Turkish Subtitles)",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "06:15 PM",
+    "screen": "SILVER 3",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "05:15 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Carry On Jatta 4",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "01:45 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Carry On Jatta 4",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "08:00 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "03:00 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "06:45 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Mango Jutt (Punjabi)",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "12:45 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Soy (Turkish Subtitles)",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "08:45 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "The Cat in the Hat",
+    "format": "3D",
+    "date": "07-Nov-2026",
+    "time": "04:30 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
     "movie": "Soy (Turkish Subtitles)",
     "format": "2D",
@@ -5167,6 +5288,39 @@
     "time": "07:45 PM",
     "screen": "GOLD-2",
     "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "01:00 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Tom and Jerry: Forbidden Compass",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "02:30 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Tutt Paini Ne (Punjabi)",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "01:45 PM",
+    "screen": "Screen 5",
+    "city": "Lahore",
     "source": "cinepax"
   },
   {
@@ -5555,6 +5709,116 @@
     "source": "nueplex"
   },
   {
+    "cinema": "Cinepax",
+    "location": "Amanah Mall Lahore",
+    "movie": "Soy (Turkish Subtitles)",
+    "format": "2D",
+    "date": "08-Nov-2026",
+    "time": "08:30 PM",
+    "screen": "SILVER 3",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "format": "2D",
+    "date": "08-Nov-2026",
+    "time": "01:15 PM",
+    "screen": "SCREEN4",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "format": "2D",
+    "date": "08-Nov-2026",
+    "time": "07:30 PM",
+    "screen": "SCREEN4",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Carry On Jatta 4",
+    "format": "2D",
+    "date": "08-Nov-2026",
+    "time": "10:45 PM",
+    "screen": "SCREEN4",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "08-Nov-2026",
+    "time": "04:15 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "08-Nov-2026",
+    "time": "11:15 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "08-Nov-2026",
+    "time": "03:30 PM",
+    "screen": "SCREEN2",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Street Fighter",
+    "format": "2D",
+    "date": "08-Nov-2026",
+    "time": "08:45 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "The Cat in the Hat",
+    "format": "2D",
+    "date": "08-Nov-2026",
+    "time": "02:00 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "The Cat in the Hat",
+    "format": "3D",
+    "date": "08-Nov-2026",
+    "time": "06:30 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
     "cinema": "Nueplex Askari IV",
     "location": "Askari IV",
     "movie": "Clayface",
@@ -5916,5 +6180,115 @@
     "screen": "Royal Cinema",
     "city": "Karachi",
     "source": "nueplex"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "10:00 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "08:30 PM",
+    "screen": "SCREEN2",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Soy (Turkish Subtitles)",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "01:00 PM",
+    "screen": "SCREEN2",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Soy (Turkish Subtitles)",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "06:00 PM",
+    "screen": "SCREEN2",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Soy (Turkish Subtitles)",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "11:00 PM",
+    "screen": "SCREEN2",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Spider-Man: Brand New Day",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "08:00 PM",
+    "screen": "SCREEN5",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Street Fighter",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "07:00 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "The Cat in the Hat",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "04:15 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "01:30 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Tom and Jerry: Forbidden Compass",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "02:00 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
   }
 ]

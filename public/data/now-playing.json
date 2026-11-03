@@ -1,4 +1,10 @@
 {
+  "AASHIQ RANG RANGEELAY": {
+    "title": "Aashiq Rang Rangeelay",
+    "posterUrl": "",
+    "trailerUrl": "",
+    "trailerId": ""
+  },
   "CARRY ON JATTA 4": {
     "title": "Carry On Jatta 4",
     "posterUrl": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
@@ -108,7 +114,7 @@
     "releaseDate": "2026-09-16"
   },
   "SHAUN THE SHEEP: THE BEAST OF MOSSY BOTTOM": {
-    "title": "Shaun The Sheep: The Beast Of Mossy Bottom",
+    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
     "posterUrl": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=daZMq0AyOMc",
     "trailerId": "daZMq0AyOMc",
@@ -154,7 +160,7 @@
     "releaseDate": "2026-11-04"
   },
   "TOM AND JERRY: FORBIDDEN COMPASS": {
-    "title": "Tom And Jerry: Forbidden Compass",
+    "title": "Tom and Jerry: Forbidden Compass",
     "posterUrl": "https://image.tmdb.org/t/p/w500/5qttWFjsO62k88civZaDMHiBTvy.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=4280xkO7x0w",
     "trailerId": "4280xkO7x0w",
