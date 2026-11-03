@@ -5,22 +5,25 @@
  *      "Clayface- 2D English"        -> "Clayface"
  *      "PG-13 Street Fighter (3D)"   -> "Street Fighter"
  *      "Clayface- 2D Urdu"           -> "Clayface (Urdu Dubbed)"
- *      "Mango Jutt Pakistani-Punjabi"-> "Mango Jutt Pakistani (Punjabi)"
+ *      "Ghost School Pakistani"      -> "Ghost School (Pakistani)"
  * 2. unifyTitles() merges spellings that only differ by case/punctuation
- *    ("CLAYFACE" vs "Clayface") and applies config/title-aliases.json.
+ *    ("CLAYFACE" vs "Clayface"), merges every version of a "(Pakistani)" film,
+ *    and applies config/title-aliases.json.
  */
 
 export type TitleAliases = Record<string, string>;
 
 const LANG_URDU = '(Urdu Dubbed)';
 const LANG_PUNJABI = '(Punjabi)';
+const LANG_PAKISTANI = '(Pakistani)';
 
 export function cleanTitle(raw: string): string {
   let t = String(raw || '').replace(/\s+/g, ' ').trim();
   if (!t) return '';
 
   let lang = '';
-  if (/urdu/i.test(t)) lang = LANG_URDU;
+  if (/pakistani/i.test(t)) lang = LANG_PAKISTANI; // a Pakistani film: Urdu or Punjabi, audiences know which
+  else if (/urdu/i.test(t)) lang = LANG_URDU;
   else if (/punjabi/i.test(t)) lang = LANG_PUNJABI;
 
   t = t
@@ -28,7 +31,7 @@ export function cleanTitle(raw: string): string {
     .replace(/^(?:18|15|12)\+\s*/, '')
     .replace(/^(?:PG-1[35]|PG|TBC|U\/A|NC-17|R)\s+/i, '')
     // Language words in any form: "(Urdu Dubbed)", "- 2D English", "(2D Eng)", "English DUbbed", "Mango Jutt Punjabi"
-    .replace(/[-–]?\s*\b(?:english|eng|urdu|punjabi)\b(?:\s*dubbed)?/gi, ' ')
+    .replace(/[-–]?\s*\b(?:english|eng|urdu|punjabi|pakistani)\b(?:\s*dubbed)?/gi, ' ')
     .replace(/\bdubbed\b/gi, ' ')
     // Original-language notes in brackets: "Cahim 2 (Turkish Urdu Dubbed)" -> "Cahim 2"
     .replace(/\(\s*(?:turkish|korean|chinese|japanese|hindi|spanish|french)\s*\)/gi, ' ')
@@ -88,13 +91,26 @@ export function unifyTitles(rawTitles: string[], aliases: TitleAliases = {}): Re
   const variantsByKey: Record<string, Record<string, number>> = {};
 
   for (const raw of rawTitles) {
-    if (!raw) continue;
-    let cleaned = cleanedByRaw[raw];
-    if (cleaned === undefined) {
-      cleaned = lookupAlias(raw, aliases) ?? cleanTitle(raw);
-      cleaned = lookupAlias(cleaned, aliases) ?? cleaned;
-      cleanedByRaw[raw] = cleaned;
+    if (!raw || cleanedByRaw[raw] !== undefined) continue;
+    const cleaned = lookupAlias(raw, aliases) ?? cleanTitle(raw);
+    cleanedByRaw[raw] = lookupAlias(cleaned, aliases) ?? cleaned;
+  }
+
+  // Rule: if any cinema labels a film "(Pakistani)", every version of it becomes "Title (Pakistani)".
+  // "Ghost School", "Ghost School (Urdu Dubbed)", "Ghost School (Pakistani)" -> "Ghost School (Pakistani)".
+  // International films (Hope, Street Fighter) keep "(Urdu Dubbed)" separate: they also play in English.
+  const pakistaniFilms = new Set(
+    Object.values(cleanedByRaw).filter(t => t.includes(LANG_PAKISTANI)).map(t => titleKey(stripLanguageTags(t))),
+  );
+  for (const [raw, cleaned] of Object.entries(cleanedByRaw)) {
+    if (pakistaniFilms.has(titleKey(stripLanguageTags(cleaned)))) {
+      cleanedByRaw[raw] = `${stripLanguageTags(cleaned)} ${LANG_PAKISTANI}`;
     }
+  }
+
+  for (const raw of rawTitles) {
+    if (!raw) continue;
+    const cleaned = cleanedByRaw[raw];
     const key = mergeKey(cleaned);
     variantsByKey[key] = variantsByKey[key] || {};
     variantsByKey[key][cleaned] = (variantsByKey[key][cleaned] || 0) + 1;
@@ -122,7 +138,12 @@ export function unifyTitles(rawTitles: string[], aliases: TitleAliases = {}): Re
   return result;
 }
 
-/** Title without the language tag, used for poster/trailer lookups. */
+/** "Ghost School (Urdu Dubbed)" -> "Ghost School". */
+function stripLanguageTags(title: string): string {
+  return title.replace(/\((?:urdu dubbed|punjabi|pakistani)\)/gi, '').replace(/\s+/g, ' ').trim();
+}
+
+/** Title without the language tag, used for poster/trailer lookups and the Now Playing cards. */
 export function searchTitle(title: string): string {
-  return title.replace(/\((?:urdu dubbed|punjabi)\)/gi, '').replace(/\s+/g, ' ').trim();
+  return stripLanguageTags(title);
 }
