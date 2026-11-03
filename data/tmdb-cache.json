@@ -846,5 +846,16 @@
       "description": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
       "releaseDate": "2026-11-04"
     }
+  },
+  "minionsandmonsters": {
+    "fetchedAt": "2026-11-03T01:53:42.759Z",
+    "meta": {
+      "title": "Minions & Monsters",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/4LwvU9SZc8QQzW1X1FAPhNbXnEU.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=V-O-uBaHk3c",
+      "trailerId": "V-O-uBaHk3c",
+      "description": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "releaseDate": "2026-06-24"
+    }
   }
 }
