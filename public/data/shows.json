@@ -1699,17 +1699,6 @@
     "movie": "Hope",
     "format": "2D",
     "date": "04-Nov-2026",
-    "time": "12:15 AM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "Hope",
-    "format": "2D",
-    "date": "04-Nov-2026",
     "time": "05:30 PM",
     "screen": "",
     "city": "Karachi",
@@ -1755,17 +1744,6 @@
     "format": "2D",
     "date": "04-Nov-2026",
     "time": "10:30 PM",
-    "screen": "",
-    "city": "Lahore",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Orchard",
-    "movie": "Patakka Guddiyan (Punjabi)",
-    "format": "2D",
-    "date": "04-Nov-2026",
-    "time": "12:15 AM",
     "screen": "",
     "city": "Lahore",
     "source": "arena"
@@ -1843,17 +1821,6 @@
     "format": "2D",
     "date": "04-Nov-2026",
     "time": "02:00 PM",
-    "screen": "",
-    "city": "RWP/ISB",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Phase IV Bahria Town",
-    "movie": "Patakka Guddiyan (Punjabi)",
-    "format": "2D",
-    "date": "04-Nov-2026",
-    "time": "12:30 AM",
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
