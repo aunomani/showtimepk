@@ -37,14 +37,6 @@
     "description": "Rabia, a ten-year-old Pakistani girl sets out to find why her only school in the village is closed. This fable is a ghost story with a tinge of magical-realism that explores corruption from a child's perspective.",
     "releaseDate": "2026-07-30"
   },
-  "GHOST SOLDIER": {
-    "title": "Ghost Soldier",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=UKaWzMf9Ybc",
-    "trailerId": "UKaWzMf9Ybc",
-    "description": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
-    "releaseDate": "2026-11-04"
-  },
   "HOPE": {
     "title": "Hope",
     "posterUrl": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
@@ -152,6 +144,14 @@
     "trailerId": "tkZpcypT8Z4",
     "description": "Assigned his toughest mission yet, the Cat must cheer up siblings Gabby and Sebastian as they adjust to life in a new town. Known for pushing boundaries, this agent of chaos must prove himself or risk losing his magical hat forever.",
     "releaseDate": "2026-11-04"
+  },
+  "THE COLOUR OF MY HEART": {
+    "title": "The Colour of My Heart",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/9ToHcjFvWQ0bN2lfrv87PnYxdUn.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=QfmSk6yiw0Q",
+    "trailerId": "QfmSk6yiw0Q",
+    "description": "Zia Mohyeddin, Pakistan's most venerated actor, devotes his final years to resurrecting interest in Urdu poetry and passing it on to a new generation of South Asians.",
+    "releaseDate": "2026-02-06"
   },
   "TOM AND JERRY: FORBIDDEN COMPASS": {
     "title": "Tom and Jerry: Forbidden Compass",

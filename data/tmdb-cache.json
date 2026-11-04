@@ -807,7 +807,7 @@
     }
   },
   "soy(turkishsubtitles)": {
-    "fetchedAt": "2026-11-02T01:55:38.286Z",
+    "fetchedAt": "2026-11-04T14:05:14.462Z",
     "meta": null
   },
   "ghostschool(pakistani)": {
@@ -861,5 +861,16 @@
   "aashiqrangrangeelay": {
     "fetchedAt": "2026-11-03T14:04:19.689Z",
     "meta": null
+  },
+  "thecolourofmyheart": {
+    "fetchedAt": "2026-11-04T14:05:14.989Z",
+    "meta": {
+      "title": "The Colour of My Heart",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9ToHcjFvWQ0bN2lfrv87PnYxdUn.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=QfmSk6yiw0Q",
+      "trailerId": "QfmSk6yiw0Q",
+      "description": "Zia Mohyeddin, Pakistan's most venerated actor, devotes his final years to resurrecting interest in Urdu poetry and passing it on to a new generation of South Asians.",
+      "releaseDate": "2026-02-06"
+    }
   }
 }
