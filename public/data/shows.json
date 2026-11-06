@@ -2,7 +2,7 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "05:30 PM",
@@ -68,7 +68,7 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "10:30 PM",
@@ -299,7 +299,7 @@
   {
     "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "07:30 PM",
@@ -359,17 +359,6 @@
     "date": "06-Nov-2026",
     "time": "05:15 PM",
     "screen": "Screen 5",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "04:30 PM",
-    "screen": "Screen 4",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -530,7 +519,7 @@
   {
     "cinema": "Cinestar",
     "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "06:30 PM",
@@ -596,7 +585,7 @@
   {
     "cinema": "Nueplex Askari IV",
     "location": "Askari IV",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "10:15 PM",
@@ -1377,7 +1366,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "02:15 PM",
@@ -1476,7 +1465,7 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "03:30 PM",
@@ -1564,7 +1553,7 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "01:00 PM",
@@ -1575,7 +1564,7 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "05:30 PM",
@@ -1872,6 +1861,17 @@
   {
     "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
+    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "04:30 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
     "movie": "Tom and Jerry: Forbidden Compass",
     "format": "2D",
     "date": "07-Nov-2026",
@@ -1949,7 +1949,7 @@
   {
     "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "02:00 PM",
@@ -2059,7 +2059,7 @@
   {
     "cinema": "Cinestar",
     "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "06:30 PM",
@@ -2169,7 +2169,7 @@
   {
     "cinema": "Nueplex Askari IV",
     "location": "Askari IV",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "11:30 PM",
@@ -3236,7 +3236,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "02:15 PM",
@@ -3379,7 +3379,7 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "08-Nov-2026",
     "time": "05:15 PM",
@@ -3522,7 +3522,7 @@
   {
     "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "08-Nov-2026",
     "time": "02:00 PM",
@@ -3632,7 +3632,7 @@
   {
     "cinema": "Cinestar",
     "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "08-Nov-2026",
     "time": "06:30 PM",
@@ -3742,7 +3742,7 @@
   {
     "cinema": "Nueplex Askari IV",
     "location": "Askari IV",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "08-Nov-2026",
     "time": "11:30 PM",
@@ -4776,7 +4776,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "08-Nov-2026",
     "time": "02:15 PM",
@@ -5733,7 +5733,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "09-Nov-2026",
     "time": "02:15 PM",
@@ -6415,7 +6415,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "10-Nov-2026",
     "time": "02:15 PM",
@@ -7075,7 +7075,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "11-Nov-2026",
     "time": "02:15 PM",
@@ -7735,7 +7735,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "12-Nov-2026",
     "time": "02:15 PM",

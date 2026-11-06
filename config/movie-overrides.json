@@ -1,0 +1,10 @@
+{
+  "_help": "For Now Playing movies TMDB doesn't have. Left = movie name without any language label. posterUrl and trailerUrl (YouTube) are both optional and win over TMDB. Keys starting with _ are ignored. Edit this file on GitHub; the next run picks it up.",
+  "Ashiq Rang Rangeelay": {
+    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL44waqVxSoKuxlyJTuWLq0jJqID49xqVlKpkOBO7W_fwuHk3IR9psRfP1&s=10",
+    "trailerUrl": "https://www.youtube.com/watch?v=dOXjwr7p_Tw"
+  },
+  "Mango Jutt": {
+    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMGQ0Y2NkYWQtOGI1OS00NmFhLThmZmUtMDFmNmJkMDc4YTllXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg"
+  }
+}

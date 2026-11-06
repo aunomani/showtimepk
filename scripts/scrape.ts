@@ -30,6 +30,7 @@ const OUT_DIR = path.join(ROOT, 'public', 'data');
 const CACHE_FILE = path.join(ROOT, 'data', 'tmdb-cache.json');
 const ALIASES_FILE = path.join(ROOT, 'config', 'title-aliases.json');
 const IMDB_IDS_FILE = path.join(ROOT, 'config', 'imdb-ids.json');
+const OVERRIDES_FILE = path.join(ROOT, 'config', 'movie-overrides.json');
 
 const SCRAPERS: Record<string, () => Promise<Show[]>> = {
   cinepax: scrapeCinepax,
@@ -154,9 +155,17 @@ async function main() {
     if (id) nowIds[t] = id;
   }
   const nowMeta = await getMetadata(nowTitles, cache, nowIds);
+  const overrides = await readJson<Record<string, { posterUrl?: string; trailerUrl?: string }>>(OVERRIDES_FILE, {});
   const nowPlaying: Record<string, MovieMetadata> = {};
   for (const t of nowTitles) {
-    nowPlaying[t.toUpperCase()] = nowMeta[t] ? { ...nowMeta[t]!, title: t } : { title: t, posterUrl: '', trailerUrl: '', trailerId: '' };
+    const meta: MovieMetadata = nowMeta[t] ? { ...nowMeta[t]!, title: t } : { title: t, posterUrl: '', trailerUrl: '', trailerId: '' };
+    const manual = Object.entries(overrides).find(([name]) => !name.startsWith('_') && titleKey(name) === titleKey(t))?.[1];
+    if (manual?.posterUrl) meta.posterUrl = manual.posterUrl;
+    if (manual?.trailerUrl) {
+      meta.trailerUrl = manual.trailerUrl;
+      meta.trailerId = manual.trailerUrl.match(/(?:v=|youtu\.be\/)([\w-]{11})/)?.[1] || '';
+    }
+    nowPlaying[t.toUpperCase()] = meta;
   }
 
   // "coming soon" tab: column A = movie name, B = IMDb ID (optional), C = release date text (optional)

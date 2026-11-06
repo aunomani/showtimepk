@@ -28,6 +28,7 @@ Netlify only rebuilds when you change the website code itself.
 | `src/lib/titles.ts` | Movie name clean-up rules ("Clayface- 2D English" → "Clayface") |
 | `config/title-aliases.json` | Your own name fixes, for anything the rules get wrong |
 | `config/imdb-ids.json` | Pin a Now Playing movie to its IMDb ID when the name search finds nothing or the wrong film |
+| `config/movie-overrides.json` | Set a poster/trailer by hand for movies TMDB doesn't have |
 | `public/data/` | Generated data the website loads (don't edit by hand) |
 | `data/tmdb-cache.json` | Saved TMDB results so movies aren't looked up every run |
 | `.github/workflows/update-showtimes.yml` | The 12-hour schedule |
