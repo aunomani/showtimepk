@@ -125,9 +125,11 @@
   },
   "SOY": {
     "title": "Soy",
-    "posterUrl": "",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/l10MXtbaO8G0IZzWToXnr21zG97.jpg",
     "trailerUrl": "",
-    "trailerId": ""
+    "trailerId": "",
+    "description": "An ancient curse with roots in Egypt resurfaces in a mysterious Istanbul mansion. Summoned to the estate by his dying grandfather, Can and his friends are soon forced to confront the mansion's dark secrets and a supernatural threat.",
+    "releaseDate": "2026-10-09"
   },
   "SPIDER-MAN: BRAND NEW DAY": {
     "title": "Spider-Man: Brand New Day",

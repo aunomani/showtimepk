@@ -87,6 +87,46 @@
     "description": "The intertwined lives of three men in three different eras, three lives intimately linked by sexuality and desire, pain, and legacy.",
     "releaseDate": "Dec 2026"
   },
+  "TRINITY": {
+    "title": "Trinity",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/h5VKtN48YeT9u5NIk2KQB3PRaU4.jpg",
+    "trailerUrl": "",
+    "trailerId": "",
+    "description": "An actress and a detective search for a missing friend, uncovering a path of transformation under the guidance of a mysterious spiritual leader.",
+    "releaseDate": "Dec 2026"
+  },
+  "BAD DAY": {
+    "title": "Bad Day",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5oWFImTHixV6KKGe6YftXVqBn8G.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=zHSYXDLH4io",
+    "trailerId": "zHSYXDLH4io",
+    "description": "On one of the worst and wildest days of her life, single mom Joy fights to keep one little promise to her daughter.",
+    "releaseDate": "Dec 2026"
+  },
+  "BEHEMOTH": {
+    "title": "Behemoth!",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=I6tMFYT9s7E",
+    "trailerId": "I6tMFYT9s7E",
+    "description": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
+    "releaseDate": "Dec 2026"
+  },
+  "JUMANJI: OPEN WORLD": {
+    "title": "Jumanji: Open World",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ntjF2gemedf3ZcWzARGt6cuZlnJ.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=nIw1O3zvOfE",
+    "trailerId": "nIw1O3zvOfE",
+    "description": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us—as Jumanji breaks free of its console, unleashing its chaos into our world.",
+    "releaseDate": "Dec 2026"
+  },
+  "SLAYGROUND": {
+    "title": "Slayground",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/tWeXlQQAQ9GQkZsOW8qxVv6Ki4M.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=XsReYk7AqPg",
+    "trailerId": "XsReYk7AqPg",
+    "description": "Scare-actor \"Metal Mike\" Graves wakes up in a haunted attraction surrounded by the dead bodies of his co-workers with no memory of how they got there. As a state-wide manhunt closes in, he races to uncover the truth — even if the trail leads straight back to himself.",
+    "releaseDate": "Jan 2027"
+  },
   "ICE AGE: BOILING POINT 2027": {
     "title": "Ice Age: Boiling Point",
     "posterUrl": "https://image.tmdb.org/t/p/w500/mPhAreyZLLcZ9pl4KRyEaqSu1Zv.jpg",
@@ -118,5 +158,13 @@
     "trailerId": "Swiz1XyfhcI",
     "description": "Shrek and Donkey team up for another whirlwind, big-city adventure, this time in the magical city of Further Further Away.",
     "releaseDate": "Jun 2027"
+  },
+  "CRIMINAL": {
+    "title": "Criminal",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/vB9AEptQroQmZrPhwy5c0n45yuu.jpg",
+    "trailerUrl": "",
+    "trailerId": "",
+    "description": "Criminal is an animated musical documentary short film that confronts the injustice of people held at the Harris County Jail in Houston, Texas. The vast majority are there because they don’t have enough cash to pay their way out before trial. Because they are poor, thousands are held for months or even shipped to jails out of state when they are supposed to be presumed innocent.",
+    "releaseDate": "Jan 2027"
   }
 }

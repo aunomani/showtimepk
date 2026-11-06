@@ -906,5 +906,86 @@
   "soy(turkishwithsubtitles)": {
     "fetchedAt": "2026-11-06T02:00:33.364Z",
     "meta": null
+  },
+  "tt32651453": {
+    "fetchedAt": "2026-11-06T14:04:41.598Z",
+    "meta": null
+  },
+  "tt42886802": {
+    "fetchedAt": "2026-11-06T14:04:41.985Z",
+    "meta": {
+      "title": "Bloodline",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/l10MXtbaO8G0IZzWToXnr21zG97.jpg",
+      "trailerUrl": "",
+      "trailerId": "",
+      "description": "An ancient curse with roots in Egypt resurfaces in a mysterious Istanbul mansion. Summoned to the estate by his dying grandfather, Can and his friends are soon forced to confront the mansion's dark secrets and a supernatural threat.",
+      "releaseDate": "2026-10-09"
+    }
+  },
+  "tt37433759": {
+    "fetchedAt": "2026-11-06T14:04:42.432Z",
+    "meta": {
+      "title": "Trinity",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/h5VKtN48YeT9u5NIk2KQB3PRaU4.jpg",
+      "trailerUrl": "",
+      "trailerId": "",
+      "description": "An actress and a detective search for a missing friend, uncovering a path of transformation under the guidance of a mysterious spiritual leader.",
+      "releaseDate": "2025-11-17"
+    }
+  },
+  "tt37593192": {
+    "fetchedAt": "2026-11-06T14:04:42.771Z",
+    "meta": {
+      "title": "Bad Day",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/5oWFImTHixV6KKGe6YftXVqBn8G.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=zHSYXDLH4io",
+      "trailerId": "zHSYXDLH4io",
+      "description": "On one of the worst and wildest days of her life, single mom Joy fights to keep one little promise to her daughter.",
+      "releaseDate": "2026-12-11"
+    }
+  },
+  "tt36415529": {
+    "fetchedAt": "2026-11-06T14:04:43.080Z",
+    "meta": {
+      "title": "Behemoth!",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/bcyGYWfcXr0GnXewaE5gkvYy1iQ.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=I6tMFYT9s7E",
+      "trailerId": "I6tMFYT9s7E",
+      "description": "Gifted cellist Alex Serian returns home to Los Angeles after 20 years on the road. Music, which has been the constant, all-consuming river of his life, begins to carry Alex on an adventure that will change him forever.",
+      "releaseDate": "2026-12-02"
+    }
+  },
+  "tt26735127": {
+    "fetchedAt": "2026-11-06T14:04:43.396Z",
+    "meta": {
+      "title": "Jumanji: Open World",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ntjF2gemedf3ZcWzARGt6cuZlnJ.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=nIw1O3zvOfE",
+      "trailerId": "nIw1O3zvOfE",
+      "description": "Our heroes have escaped the ever-changing jungles of Jumanji before, but this time the game comes to us—as Jumanji breaks free of its console, unleashing its chaos into our world.",
+      "releaseDate": "2026-12-23"
+    }
+  },
+  "tt37360759": {
+    "fetchedAt": "2026-11-06T14:04:43.702Z",
+    "meta": {
+      "title": "Slayground",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/tWeXlQQAQ9GQkZsOW8qxVv6Ki4M.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=XsReYk7AqPg",
+      "trailerId": "XsReYk7AqPg",
+      "description": "Scare-actor \"Metal Mike\" Graves wakes up in a haunted attraction surrounded by the dead bodies of his co-workers with no memory of how they got there. As a state-wide manhunt closes in, he races to uncover the truth — even if the trail leads straight back to himself.",
+      "releaseDate": "2027-01-28"
+    }
+  },
+  "tt27493572": {
+    "fetchedAt": "2026-11-06T14:04:44.013Z",
+    "meta": {
+      "title": "Criminal",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/vB9AEptQroQmZrPhwy5c0n45yuu.jpg",
+      "trailerUrl": "",
+      "trailerId": "",
+      "description": "Criminal is an animated musical documentary short film that confronts the injustice of people held at the Harris County Jail in Houston, Texas. The vast majority are there because they don’t have enough cash to pay their way out before trial. Because they are poor, thousands are held for months or even shipped to jails out of state when they are supposed to be presumed innocent.",
+      "releaseDate": "2024-08-01"
+    }
   }
 }

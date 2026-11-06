@@ -2,17 +2,6 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
-    "movie": "Ashiq Rang Rangeelay (Punjabi)",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "05:30 PM",
-    "screen": "Gold Screen",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
     "movie": "Carry On Jatta 4",
     "format": "2D",
     "date": "06-Nov-2026",
@@ -29,17 +18,6 @@
     "date": "06-Nov-2026",
     "time": "08:00 PM",
     "screen": "Gold Screen",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
-    "movie": "Hope (Urdu Dubbed)",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "05:45 PM",
-    "screen": "SILVER 3",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -126,17 +104,6 @@
     "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
-    "time": "06:15 PM",
-    "screen": "SCREEN2",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Soy (Subtitles)",
-    "format": "2D",
-    "date": "06-Nov-2026",
     "time": "11:15 PM",
     "screen": "SCREEN2",
     "city": "RWP/ISB",
@@ -166,45 +133,12 @@
   },
   {
     "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "The Cat In The Hat",
-    "format": "3D",
-    "date": "06-Nov-2026",
-    "time": "05:45 PM",
-    "screen": "SCREEN3",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "The Cat In The Hat",
-    "format": "3D",
-    "date": "06-Nov-2026",
-    "time": "05:15 PM",
-    "screen": "SCREEN 1- SILVER",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
     "movie": "Clayface",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "11:45 PM",
     "screen": "PLATINUM",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Drummer Boy",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "05:15 PM",
-    "screen": "GOLD-1",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -247,30 +181,8 @@
     "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
-    "time": "05:30 PM",
-    "screen": "GOLD-2",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Soy (Subtitles)",
-    "format": "2D",
-    "date": "06-Nov-2026",
     "time": "09:30 PM",
     "screen": "GOLD-2",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Spider-Man: Brand New Day",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "05:45 PM",
-    "screen": "PLATINUM",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -332,33 +244,11 @@
   {
     "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
-    "movie": "Kafirun (Urdu Dubbed)",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "05:40 PM",
-    "screen": "Platinum 2",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
     "movie": "Other Mommy",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "09:15 PM",
     "screen": "Platinum 2",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Patakka Guddiyan (Punjabi)",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "05:15 PM",
-    "screen": "Screen 5",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -407,17 +297,6 @@
     "source": "cinepax"
   },
   {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "The Cat In The Hat",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "06:00 PM",
-    "screen": "Screen 4",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
     "cinema": "Cinestar",
     "location": "Raya Golf Resort DHA Phase 6 LHR",
     "movie": "Clayface",
@@ -441,17 +320,6 @@
   },
   {
     "cinema": "Cinestar",
-    "location": "Raya Golf Resort DHA Phase 6 LHR",
-    "movie": "The Cat In The Hat",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "06:00 PM",
-    "screen": "",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
     "movie": "Clayface",
     "format": "2D",
@@ -467,29 +335,7 @@
     "movie": "Drummer Boy",
     "format": "2D",
     "date": "06-Nov-2026",
-    "time": "05:45 PM",
-    "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "Drummer Boy",
-    "format": "2D",
-    "date": "06-Nov-2026",
     "time": "10:00 PM",
-    "screen": "Screen 3",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "Hope (Urdu Dubbed)",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "06:00 PM",
     "screen": "Screen 3",
     "city": "Lahore",
     "source": "cinestar"
@@ -513,28 +359,6 @@
     "date": "06-Nov-2026",
     "time": "08:00 PM",
     "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Ashiq Rang Rangeelay (Punjabi)",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "06:30 PM",
-    "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "06:30 PM",
-    "screen": "Screen 1",
     "city": "Lahore",
     "source": "cinestar"
   },
@@ -1556,17 +1380,6 @@
     "movie": "Ashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "07-Nov-2026",
-    "time": "01:00 PM",
-    "screen": "SCREEN4",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Ashiq Rang Rangeelay (Punjabi)",
-    "format": "2D",
-    "date": "07-Nov-2026",
     "time": "05:30 PM",
     "screen": "SCREEN 2 - PLATINUM",
     "city": "RWP/ISB",
@@ -1600,7 +1413,7 @@
     "movie": "Clayface",
     "format": "2D",
     "date": "07-Nov-2026",
-    "time": "12:45 PM",
+    "time": "05:45 PM",
     "screen": "SCREEN3",
     "city": "RWP/ISB",
     "source": "cinepax"
@@ -1655,6 +1468,17 @@
     "movie": "Resident Evil",
     "format": "2D",
     "date": "07-Nov-2026",
+    "time": "11:15 PM",
+    "screen": "SCREEN2",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Resident Evil",
+    "format": "2D",
+    "date": "07-Nov-2026",
     "time": "06:45 PM",
     "screen": "SCREEN 1- SILVER",
     "city": "RWP/ISB",
@@ -1667,6 +1491,17 @@
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "01:15 PM",
+    "screen": "SCREEN2",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Soy (Subtitles)",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "06:15 PM",
     "screen": "SCREEN2",
     "city": "RWP/ISB",
     "source": "cinepax"
@@ -1718,6 +1553,17 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
+    "movie": "Drummer Boy",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "05:15 PM",
+    "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
     "movie": "Hope (Urdu Dubbed)",
     "format": "2D",
     "date": "07-Nov-2026",
@@ -1756,6 +1602,17 @@
     "date": "07-Nov-2026",
     "time": "12:15 AM",
     "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Soy (Subtitles)",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "05:30 PM",
+    "screen": "GOLD-2",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -1839,10 +1696,32 @@
   {
     "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
+    "movie": "Kafirun (Urdu Dubbed)",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "05:40 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
     "movie": "Meri Girlfriend Da Viyaah (Punjabi)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "03:45 PM",
+    "screen": "Screen 5",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Patakka Guddiyan (Punjabi)",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "05:15 PM",
     "screen": "Screen 5",
     "city": "Lahore",
     "source": "cinepax"
@@ -1865,6 +1744,17 @@
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "04:30 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "The Cat In The Hat",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "06:00 PM",
     "screen": "Screen 4",
     "city": "Lahore",
     "source": "cinepax"
@@ -3465,6 +3355,17 @@
     "source": "cinepax"
   },
   {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Carry On Jatta 4",
+    "format": "2D",
+    "date": "08-Nov-2026",
+    "time": "01:00 PM",
+    "screen": "SCREEN4",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
     "cinema": "Cinestar",
     "location": "Raya Golf Resort DHA Phase 6 LHR",
     "movie": "Clayface",
@@ -4908,6 +4809,17 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
+    "movie": "Ashiq Rang Rangeelay (Punjabi)",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "05:30 PM",
+    "screen": "Gold Screen",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Amanah Mall Lahore",
     "movie": "Carry On Jatta 4",
     "format": "2D",
     "date": "09-Nov-2026",
@@ -4988,8 +4900,19 @@
     "movie": "Clayface",
     "format": "2D",
     "date": "09-Nov-2026",
-    "time": "01:30 PM",
-    "screen": "SCREEN4",
+    "time": "10:15 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Resident Evil",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "11:00 PM",
+    "screen": "SCREEN2",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -5001,6 +4924,28 @@
     "date": "09-Nov-2026",
     "time": "08:30 PM",
     "screen": "SCREEN5",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Street Fighter",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "07:30 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "The Cat In The Hat",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "05:00 PM",
+    "screen": "SCREEN3",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -5117,6 +5062,17 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
+    "movie": "Spider-Man: Brand New Day",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "05:45 PM",
+    "screen": "PLATINUM",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
     "movie": "Street Fighter",
     "format": "2D",
     "date": "09-Nov-2026",
@@ -5153,7 +5109,40 @@
     "movie": "Drummer Boy",
     "format": "2D",
     "date": "09-Nov-2026",
-    "time": "01:15 PM",
+    "time": "01:10 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Hope (Urdu Dubbed)",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "05:20 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Kafirun (Urdu Dubbed)",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "03:30 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Other Mommy",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "09:30 PM",
     "screen": "Platinum 2",
     "city": "Lahore",
     "source": "cinepax"
@@ -5166,6 +5155,28 @@
     "date": "09-Nov-2026",
     "time": "01:00 PM",
     "screen": "Screen 5",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Soy (Subtitles)",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "07:45 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Soy (Subtitles)",
+    "format": "2D",
+    "date": "09-Nov-2026",
+    "time": "11:15 PM",
+    "screen": "Platinum 2",
     "city": "Lahore",
     "source": "cinepax"
   },
