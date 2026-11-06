@@ -16,6 +16,7 @@ export type TitleAliases = Record<string, string>;
 const LANG_URDU = '(Urdu Dubbed)';
 const LANG_PUNJABI = '(Punjabi)';
 const LANG_PAKISTANI = '(Pakistani)';
+const LANG_SUBTITLES = '(Subtitles)';
 
 export function cleanTitle(raw: string): string {
   let t = String(raw || '').replace(/\s+/g, ' ').trim();
@@ -25,8 +26,12 @@ export function cleanTitle(raw: string): string {
   if (/pakistani/i.test(t)) lang = LANG_PAKISTANI; // a Pakistani film: Urdu or Punjabi, audiences know which
   else if (/urdu/i.test(t)) lang = LANG_URDU;
   else if (/punjabi/i.test(t)) lang = LANG_PUNJABI;
+  else if (/subtitle/i.test(t)) lang = LANG_SUBTITLES;
 
   t = t
+    // Subtitle notes, however a cinema words them: "(Turkish With English Subtitles)", "(English Subtitles)"
+    .replace(/\([^)]*subtitle[^)]*\)/gi, ' ')
+    .replace(/\b(?:with\s+)?(?:(?:english|turkish)\s+)*subtitles?\b/gi, ' ')
     // Leading age ratings: "18+Clayface", "PG-13 Verity", "U/A Hope"
     .replace(/^(?:18|15|12)\+\s*/, '')
     .replace(/^(?:PG-1[35]|PG|TBC|U\/A|NC-17|R)\s+/i, '')
@@ -56,12 +61,12 @@ export function titleKey(title: string): string {
 }
 
 /**
- * Like titleKey, but ignores "(Punjabi)": Punjabi films are made in Punjabi,
- * so "Mango Jutt" and "Mango Jutt (Punjabi)" are the same show.
+ * Like titleKey, but ignores "(Punjabi)" and "(Subtitles)": these describe the one
+ * version of the film, so "Mango Jutt" = "Mango Jutt (Punjabi)" and "SOY" = "Soy (Subtitles)".
  * "(Urdu Dubbed)" stays significant because it's a different version of the film.
  */
 function mergeKey(title: string): string {
-  return titleKey(title.replace(/\(punjabi\)/i, ''));
+  return titleKey(title.replace(/\((?:punjabi|subtitles)\)/i, ''));
 }
 
 function isAllCaps(s: string): boolean {
@@ -122,9 +127,9 @@ export function unifyTitles(rawTitles: string[], aliases: TitleAliases = {}): Re
       const capsA = isAllCaps(a[0]) ? 1 : 0;
       const capsB = isAllCaps(b[0]) ? 1 : 0;
       if (capsA !== capsB) return capsA - capsB; // prefer normal casing over ALL CAPS
-      const tagA = /\(punjabi\)/i.test(a[0]) ? 0 : 1;
-      const tagB = /\(punjabi\)/i.test(b[0]) ? 0 : 1;
-      if (tagA !== tagB) return tagA - tagB;     // keep the "(Punjabi)" label if any cinema uses it
+      const tagA = /\((?:punjabi|subtitles)\)/i.test(a[0]) ? 0 : 1;
+      const tagB = /\((?:punjabi|subtitles)\)/i.test(b[0]) ? 0 : 1;
+      if (tagA !== tagB) return tagA - tagB;     // keep the "(Punjabi)"/"(Subtitles)" label if any cinema uses it
       return b[1] - a[1];                        // then the most common spelling
     });
     const best = ranked[0][0];
@@ -140,7 +145,7 @@ export function unifyTitles(rawTitles: string[], aliases: TitleAliases = {}): Re
 
 /** "Ghost School (Urdu Dubbed)" -> "Ghost School". */
 function stripLanguageTags(title: string): string {
-  return title.replace(/\((?:urdu dubbed|punjabi|pakistani)\)/gi, '').replace(/\s+/g, ' ').trim();
+  return title.replace(/\((?:urdu dubbed|punjabi|pakistani|subtitles)\)/gi, '').replace(/\s+/g, ' ').trim();
 }
 
 /** Title without the language tag, used for poster/trailer lookups and the Now Playing cards. */

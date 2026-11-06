@@ -1,0 +1,4 @@
+{
+  "_help": "Pin a Now Playing movie to its exact IMDb ID when the name search finds nothing or the wrong film. Left = movie name without any language label, right = the tt number from its IMDb link. Keys starting with _ are ignored. Edit this file on GitHub; the next run picks it up.",
+  "Soy": "tt42886802"
+}

@@ -15,7 +15,7 @@ import path from 'node:path';
 import type { MovieMetadata, ScrapeStatus, Show } from '../src/types';
 import { normalizeShow, resolveCinemaMapping } from '../src/lib/cinemaMapping';
 import { parseDisplayDate } from '../src/lib/normalize';
-import { searchTitle, TitleAliases, unifyTitles } from '../src/lib/titles';
+import { searchTitle, titleKey, TitleAliases, unifyTitles } from '../src/lib/titles';
 import { pktToday } from './lib/dates';
 import { readSheetTab } from './lib/sheet';
 import { getMetadata, tmdbEnabled, TmdbCache } from './lib/tmdb';
@@ -29,6 +29,7 @@ const ROOT = path.resolve(import.meta.dirname, '..');
 const OUT_DIR = path.join(ROOT, 'public', 'data');
 const CACHE_FILE = path.join(ROOT, 'data', 'tmdb-cache.json');
 const ALIASES_FILE = path.join(ROOT, 'config', 'title-aliases.json');
+const IMDB_IDS_FILE = path.join(ROOT, 'config', 'imdb-ids.json');
 
 const SCRAPERS: Record<string, () => Promise<Show[]>> = {
   cinepax: scrapeCinepax,
@@ -146,7 +147,13 @@ async function main() {
 
   // Now Playing shows one card per film: "Clayface" and "Clayface (Urdu Dubbed)" become one "Clayface" card.
   const nowTitles = [...new Set(shows.map(s => searchTitle(s.movie)))].sort();
-  const nowMeta = await getMetadata(nowTitles, cache);
+  const pinnedIds = await readJson<Record<string, string>>(IMDB_IDS_FILE, {});
+  const nowIds: Record<string, string> = {};
+  for (const t of nowTitles) {
+    const id = Object.entries(pinnedIds).find(([name]) => !name.startsWith('_') && titleKey(name) === titleKey(t))?.[1];
+    if (id) nowIds[t] = id;
+  }
+  const nowMeta = await getMetadata(nowTitles, cache, nowIds);
   const nowPlaying: Record<string, MovieMetadata> = {};
   for (const t of nowTitles) {
     nowPlaying[t.toUpperCase()] = nowMeta[t] ? { ...nowMeta[t]!, title: t } : { title: t, posterUrl: '', trailerUrl: '', trailerId: '' };

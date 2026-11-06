@@ -16,17 +16,6 @@
     "movie": "Carry On Jatta 4",
     "format": "2D",
     "date": "06-Nov-2026",
-    "time": "03:00 PM",
-    "screen": "SILVER 3",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
-    "movie": "Carry On Jatta 4",
-    "format": "2D",
-    "date": "06-Nov-2026",
     "time": "10:30 PM",
     "screen": "Gold Screen",
     "city": "Lahore",
@@ -68,22 +57,11 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
-    "movie": "Soy (Turkish Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "08:15 PM",
     "screen": "SILVER 3",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
-    "movie": "The Cat in the Hat (Urdu Dubbed)",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "03:15 PM",
-    "screen": "Gold Screen",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -112,44 +90,11 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
-    "movie": "Carry On Jatta 4",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "02:45 PM",
-    "screen": "SCREEN 1- SILVER",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
     "movie": "Clayface",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "11:00 PM",
     "screen": "SCREEN3",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Mango Jutt (Punjabi)",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "04:15 PM",
-    "screen": "SCREEN4",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Resident Evil",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "03:45 PM",
-    "screen": "SCREEN2",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -178,7 +123,7 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
-    "movie": "Soy (Turkish Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "06:15 PM",
@@ -189,7 +134,7 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
-    "movie": "Soy (Turkish Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "11:15 PM",
@@ -200,7 +145,7 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
-    "movie": "Soy (Turkish Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "09:00 PM",
@@ -211,32 +156,10 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
-    "movie": "Spider-Man: Brand New Day",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "08:00 PM",
-    "screen": "SCREEN5",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
     "movie": "Street Fighter",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "08:15 PM",
-    "screen": "SCREEN3",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "The Cat In The Hat",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "03:15 PM",
     "screen": "SCREEN3",
     "city": "RWP/ISB",
     "source": "cinepax"
@@ -261,17 +184,6 @@
     "time": "05:15 PM",
     "screen": "SCREEN 1- SILVER",
     "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "03:15 PM",
-    "screen": "PLATINUM",
-    "city": "Karachi",
     "source": "cinepax"
   },
   {
@@ -321,17 +233,6 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
-    "movie": "Kafirun (Urdu Dubbed)",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "03:30 PM",
-    "screen": "GOLD-2",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
     "movie": "Resident Evil",
     "format": "2D",
     "date": "06-Nov-2026",
@@ -343,7 +244,7 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
-    "movie": "Soy (Turkish Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "05:30 PM",
@@ -354,7 +255,7 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
-    "movie": "Soy (Turkish Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "09:30 PM",
@@ -381,17 +282,6 @@
     "date": "06-Nov-2026",
     "time": "09:00 PM",
     "screen": "PLATINUM",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "The Cat In The Hat",
-    "format": "3D",
-    "date": "06-Nov-2026",
-    "time": "03:00 PM",
-    "screen": "GOLD-1",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -431,17 +321,6 @@
   {
     "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
-    "movie": "Drummer Boy",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "03:15 PM",
-    "screen": "Platinum 2",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
     "movie": "Hope (Urdu Dubbed)",
     "format": "2D",
     "date": "06-Nov-2026",
@@ -458,17 +337,6 @@
     "date": "06-Nov-2026",
     "time": "05:40 PM",
     "screen": "Platinum 2",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Meri Girlfriend Da Viyaah (Punjabi)",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "03:45 PM",
-    "screen": "Screen 5",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -500,17 +368,6 @@
     "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
     "format": "2D",
     "date": "06-Nov-2026",
-    "time": "03:00 PM",
-    "screen": "Screen 4",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "format": "2D",
-    "date": "06-Nov-2026",
     "time": "04:30 PM",
     "screen": "Screen 4",
     "city": "Lahore",
@@ -530,7 +387,7 @@
   {
     "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
-    "movie": "Soy (Turkish Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "07:30 PM",
@@ -541,7 +398,7 @@
   {
     "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
-    "movie": "Soy (Turkish Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "11:00 PM",
@@ -596,55 +453,11 @@
   {
     "cinema": "Cinestar",
     "location": "Raya Golf Resort DHA Phase 6 LHR",
-    "movie": "Street Fighter",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "04:00 PM",
-    "screen": "",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Raya Golf Resort DHA Phase 6 LHR",
-    "movie": "The Cat In The Hat",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "02:00 PM",
-    "screen": "",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Raya Golf Resort DHA Phase 6 LHR",
     "movie": "The Cat In The Hat",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "06:00 PM",
     "screen": "",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "Aashiq Rang Rangeelay (Punjabi)",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "02:00 PM",
-    "screen": "Screen 3",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "02:30 PM",
-    "screen": "Screen 2",
     "city": "Lahore",
     "source": "cinestar"
   },
@@ -695,18 +508,7 @@
   {
     "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
-    "movie": "Resident Evil",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "04:15 PM",
-    "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "Soy",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "08:30 PM",
@@ -722,17 +524,6 @@
     "date": "06-Nov-2026",
     "time": "08:00 PM",
     "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "The Cat In The Hat",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "04:15 PM",
-    "screen": "Screen 3",
     "city": "Lahore",
     "source": "cinestar"
   },
@@ -786,17 +577,6 @@
     "movie": "Drummer Boy",
     "format": "2D",
     "date": "06-Nov-2026",
-    "time": "04:15 PM",
-    "screen": "Screen 1",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Drummer Boy",
-    "format": "2D",
-    "date": "06-Nov-2026",
     "time": "08:15 PM",
     "screen": "Screen 1",
     "city": "Lahore",
@@ -814,37 +594,15 @@
     "source": "cinestar"
   },
   {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Spider-Man: Brand New Day",
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Aashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "06-Nov-2026",
-    "time": "02:00 PM",
-    "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Street Fighter",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "04:30 PM",
-    "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "The Cat In The Hat",
-    "format": "2D",
-    "date": "06-Nov-2026",
-    "time": "02:30 PM",
-    "screen": "Screen 1",
-    "city": "Lahore",
-    "source": "cinestar"
+    "time": "10:15 PM",
+    "screen": "Cinema 11",
+    "city": "Karachi",
+    "source": "nueplex"
   },
   {
     "cinema": "Nueplex Askari IV",
@@ -1063,6 +821,17 @@
     "date": "06-Nov-2026",
     "time": "05:15 PM",
     "screen": "Cinema 3",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "The Cat in the Hat (Urdu Dubbed)",
+    "format": "2D",
+    "date": "06-Nov-2026",
+    "time": "06:05 PM",
+    "screen": "Cinema 11",
     "city": "Karachi",
     "source": "nueplex"
   },
@@ -1377,7 +1146,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "11:30 PM",
@@ -1520,7 +1289,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "04:45 PM",
@@ -1531,7 +1300,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "09:15 PM",
@@ -1608,7 +1377,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Ashiq Rang Rangeelay (Punjabi)",
+    "movie": "Aashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "06-Nov-2026",
     "time": "02:15 PM",
@@ -1773,7 +1542,7 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
-    "movie": "Soy (Turkish Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "06:45 PM",
@@ -1864,8 +1633,30 @@
     "movie": "Mango Jutt (Punjabi)",
     "format": "2D",
     "date": "07-Nov-2026",
+    "time": "04:15 PM",
+    "screen": "SCREEN4",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Mango Jutt (Punjabi)",
+    "format": "2D",
+    "date": "07-Nov-2026",
     "time": "01:00 PM",
     "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Resident Evil",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "03:45 PM",
+    "screen": "SCREEN2",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -1883,7 +1674,7 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
-    "movie": "Soy (Turkish Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "01:15 PM",
@@ -1894,11 +1685,22 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
-    "movie": "Soy (Turkish Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "08:45 PM",
     "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "The Cat In The Hat",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "03:15 PM",
+    "screen": "SCREEN3",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -2014,12 +1816,45 @@
   },
   {
     "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "The Cat In The Hat",
+    "format": "3D",
+    "date": "07-Nov-2026",
+    "time": "03:00 PM",
+    "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Drummer Boy",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "03:15 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
     "movie": "Hope (Urdu Dubbed)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "01:00 PM",
     "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Meri Girlfriend Da Viyaah (Punjabi)",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "03:45 PM",
+    "screen": "Screen 5",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -2191,7 +2026,7 @@
   {
     "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
-    "movie": "Soy",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "08:30 PM",
@@ -2330,6 +2165,17 @@
     "screen": "Screen 1",
     "city": "Lahore",
     "source": "cinestar"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "11:30 PM",
+    "screen": "Cinema 11",
+    "city": "Karachi",
+    "source": "nueplex"
   },
   {
     "cinema": "Nueplex Askari IV",
@@ -2603,6 +2449,17 @@
     "date": "07-Nov-2026",
     "time": "02:40 PM",
     "screen": "Cinema 3",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "The Cat in the Hat (Urdu Dubbed)",
+    "format": "2D",
+    "date": "07-Nov-2026",
+    "time": "04:45 PM",
+    "screen": "Cinema 11",
     "city": "Karachi",
     "source": "nueplex"
   },
@@ -3082,7 +2939,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "11:15 PM",
@@ -3258,7 +3115,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "04:45 PM",
@@ -3269,7 +3126,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "09:15 PM",
@@ -3379,7 +3236,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Ashiq Rang Rangeelay (Punjabi)",
+    "movie": "Aashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "02:15 PM",
@@ -3423,7 +3280,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Soy (Turkish With Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "07-Nov-2026",
     "time": "12:15 PM",
@@ -3588,7 +3445,7 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
-    "movie": "Soy (Turkish Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "08-Nov-2026",
     "time": "08:30 PM",
@@ -3742,7 +3599,7 @@
   {
     "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
-    "movie": "Soy",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "08-Nov-2026",
     "time": "08:30 PM",
@@ -3885,6 +3742,17 @@
   {
     "cinema": "Nueplex Askari IV",
     "location": "Askari IV",
+    "movie": "Aashiq Rang Rangeelay (Punjabi)",
+    "format": "2D",
+    "date": "08-Nov-2026",
+    "time": "11:30 PM",
+    "screen": "Cinema 11",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
     "movie": "Clayface",
     "format": "2D",
     "date": "08-Nov-2026",
@@ -3956,17 +3824,6 @@
     "date": "08-Nov-2026",
     "time": "02:30 PM",
     "screen": "Cinema 11",
-    "city": "Karachi",
-    "source": "nueplex"
-  },
-  {
-    "cinema": "Nueplex Askari IV",
-    "location": "Askari IV",
-    "movie": "Drummer Boy",
-    "format": "2D",
-    "date": "08-Nov-2026",
-    "time": "03:00 PM",
-    "screen": "Cinema 2",
     "city": "Karachi",
     "source": "nueplex"
   },
@@ -4119,6 +3976,17 @@
     "movie": "Street Fighter",
     "format": "2D",
     "date": "08-Nov-2026",
+    "time": "03:00 PM",
+    "screen": "Cinema 2",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Street Fighter",
+    "format": "2D",
+    "date": "08-Nov-2026",
     "time": "04:50 PM",
     "screen": "Cinema 10",
     "city": "Karachi",
@@ -4165,6 +4033,17 @@
     "date": "08-Nov-2026",
     "time": "02:40 PM",
     "screen": "Cinema 3",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "The Cat in the Hat (Urdu Dubbed)",
+    "format": "2D",
+    "date": "08-Nov-2026",
+    "time": "04:45 PM",
+    "screen": "Cinema 11",
     "city": "Karachi",
     "source": "nueplex"
   },
@@ -4600,7 +4479,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "08-Nov-2026",
     "time": "11:15 PM",
@@ -4776,7 +4655,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "08-Nov-2026",
     "time": "04:45 PM",
@@ -4787,7 +4666,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "08-Nov-2026",
     "time": "09:15 PM",
@@ -4897,7 +4776,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Ashiq Rang Rangeelay (Punjabi)",
+    "movie": "Aashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "08-Nov-2026",
     "time": "02:15 PM",
@@ -4941,7 +4820,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Soy (Turkish With Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "08-Nov-2026",
     "time": "12:15 PM",
@@ -5084,7 +4963,7 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
-    "movie": "Soy (Turkish Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "09-Nov-2026",
     "time": "08:00 PM",
@@ -5216,7 +5095,7 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
-    "movie": "Soy (Turkish Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "09-Nov-2026",
     "time": "05:15 PM",
@@ -5227,7 +5106,7 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
-    "movie": "Soy (Turkish Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "09-Nov-2026",
     "time": "09:15 PM",
@@ -5557,7 +5436,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "09-Nov-2026",
     "time": "11:15 PM",
@@ -5733,7 +5612,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "09-Nov-2026",
     "time": "04:45 PM",
@@ -5744,7 +5623,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "09-Nov-2026",
     "time": "09:15 PM",
@@ -5854,7 +5733,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Ashiq Rang Rangeelay (Punjabi)",
+    "movie": "Aashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "09-Nov-2026",
     "time": "02:15 PM",
@@ -5898,7 +5777,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Soy (Turkish With Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "09-Nov-2026",
     "time": "12:15 PM",
@@ -6239,7 +6118,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "10-Nov-2026",
     "time": "11:15 PM",
@@ -6415,7 +6294,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "10-Nov-2026",
     "time": "04:45 PM",
@@ -6426,7 +6305,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "10-Nov-2026",
     "time": "09:15 PM",
@@ -6536,7 +6415,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Ashiq Rang Rangeelay (Punjabi)",
+    "movie": "Aashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "10-Nov-2026",
     "time": "02:15 PM",
@@ -6580,7 +6459,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Soy (Turkish With Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "10-Nov-2026",
     "time": "12:15 PM",
@@ -6899,7 +6778,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "11-Nov-2026",
     "time": "11:15 PM",
@@ -7075,7 +6954,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "11-Nov-2026",
     "time": "04:45 PM",
@@ -7086,7 +6965,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "11-Nov-2026",
     "time": "09:15 PM",
@@ -7196,7 +7075,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Ashiq Rang Rangeelay (Punjabi)",
+    "movie": "Aashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "11-Nov-2026",
     "time": "02:15 PM",
@@ -7240,7 +7119,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Soy (Turkish With Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "11-Nov-2026",
     "time": "12:15 PM",
@@ -7559,7 +7438,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Karachi",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "12-Nov-2026",
     "time": "11:15 PM",
@@ -7735,7 +7614,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "12-Nov-2026",
     "time": "04:45 PM",
@@ -7746,7 +7625,7 @@
   {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Lahore",
-    "movie": "Soy ( Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "12-Nov-2026",
     "time": "09:15 PM",
@@ -7856,7 +7735,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Ashiq Rang Rangeelay (Punjabi)",
+    "movie": "Aashiq Rang Rangeelay (Punjabi)",
     "format": "2D",
     "date": "12-Nov-2026",
     "time": "02:15 PM",
@@ -7900,7 +7779,7 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Orchard",
-    "movie": "Soy (Turkish With Subtitles)",
+    "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "12-Nov-2026",
     "time": "12:15 PM",
