@@ -894,5 +894,17 @@
       "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "releaseDate": "2026-07-15"
     }
+  },
+  "ashiqrangrangeelay": {
+    "fetchedAt": "2026-11-06T02:00:32.580Z",
+    "meta": null
+  },
+  "soy(subtitles)": {
+    "fetchedAt": "2026-11-06T02:00:33.039Z",
+    "meta": null
+  },
+  "soy(turkishwithsubtitles)": {
+    "fetchedAt": "2026-11-06T02:00:33.364Z",
+    "meta": null
   }
 }

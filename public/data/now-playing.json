@@ -5,6 +5,12 @@
     "trailerUrl": "",
     "trailerId": ""
   },
+  "ASHIQ RANG RANGEELAY": {
+    "title": "Ashiq Rang Rangeelay",
+    "posterUrl": "",
+    "trailerUrl": "",
+    "trailerId": ""
+  },
   "CARRY ON JATTA 4": {
     "title": "Carry On Jatta 4",
     "posterUrl": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
@@ -36,6 +42,14 @@
     "trailerId": "UqISGrtizwQ",
     "description": "Rabia, a ten-year-old Pakistani girl sets out to find why her only school in the village is closed. This fable is a ghost story with a tinge of magical-realism that explores corruption from a child's perspective.",
     "releaseDate": "2026-07-30"
+  },
+  "HEART OF THE BEAST": {
+    "title": "Heart Of The Beast",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=UkMuGKqAux4",
+    "trailerId": "UkMuGKqAux4",
+    "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+    "releaseDate": "2026-09-19"
   },
   "HOPE": {
     "title": "Hope",
@@ -123,8 +137,20 @@
     "description": "An ancient curse with roots in Egypt resurfaces in a mysterious Istanbul mansion. Summoned to the estate by his dying grandfather, Can and his friends are soon forced to confront the mansion's dark secrets and a supernatural threat.",
     "releaseDate": "2026-10-09"
   },
+  "SOY ( SUBTITLES)": {
+    "title": "Soy ( Subtitles)",
+    "posterUrl": "",
+    "trailerUrl": "",
+    "trailerId": ""
+  },
   "SOY (TURKISH SUBTITLES)": {
     "title": "Soy (Turkish Subtitles)",
+    "posterUrl": "",
+    "trailerUrl": "",
+    "trailerId": ""
+  },
+  "SOY (TURKISH WITH SUBTITLES)": {
+    "title": "Soy (Turkish With Subtitles)",
     "posterUrl": "",
     "trailerUrl": "",
     "trailerId": ""
@@ -184,14 +210,6 @@
     "trailerId": "9PZN30QAmL8",
     "description": "Blending comedy with heartfelt family moments, this movie explores the clash between cultural pride and modern aspirations through characters every Punjabi household will recognise.",
     "releaseDate": "2026-09-25"
-  },
-  "VERITY": {
-    "title": "Verity",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/zPHfsaiMZT1HNz1ZS55iyLKZkFG.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=xdPMKhjMSFs",
-    "trailerId": "xdPMKhjMSFs",
-    "description": "Lowen Ashleigh, hired to ghostwrite for best-selling author Verity Crawford, uncovers Verity's autobiographical notes, and becomes involved in what may prove to be a lethal conspiracy.",
-    "releaseDate": "2026-09-30"
   },
   "WHALEFALL": {
     "title": "Whalefall",
