@@ -40,7 +40,7 @@ import { Show, MovieMetadata, ScrapeStatus } from './types';
 import { processRawNetworkData } from './lib/dataProcessor';
 import { unifyTitles, searchTitle, TitleAliases } from './lib/titles';
 import { resolveCinemaMapping, normalizeShow, CANONICAL_CINEMAS } from './lib/cinemaMapping';
-import { sheetGvizUrl, DATA_BASE_URL } from './config';
+import { sheetGvizUrl, DATA_BASE_URL, GOATCOUNTER_TOTAL_URL } from './config';
 import titleAliases from '../config/title-aliases.json';
 
 /**
@@ -654,40 +654,31 @@ export default function App() {
     try { localStorage.setItem('showtimepk_staging', JSON.stringify(pendingShows)); } catch { /* ignore */ }
   }, [pendingShows]);
 
-  // Fetch visitor count
+  // Visitor counting with GoatCounter (index.html loads its script with "no_onload").
+  // Public visits are counted; admin visits aren't (so they don't inflate the number),
+  // and only admins see the total.
   useEffect(() => {
-    const fetchVisitors = async () => {
-      // 1. Try CounterAPI
-      try {
-        const cRes = await fetch('https://counterapi.com/api/v1/counter/up?name=showtimepk_visits');
-        if (cRes.ok) {
-          const cData = await cRes.json();
-          if (cData && typeof cData.value === 'number') {
-            setVisitorCount(cData.value);
-            return;
-          }
+    const admin = new URLSearchParams(window.location.search).get('admin') === 'true';
+    if (!admin) {
+      let tries = 0;
+      const timer = setInterval(() => {
+        const gc = (window as any).goatcounter;
+        if (gc?.count) {
+          clearInterval(timer);
+          gc.count({ path: window.location.pathname });
+        } else if (++tries > 40) {
+          clearInterval(timer); // script blocked (e.g. ad blocker) or offline: skip this visit
         }
-      } catch (e) {
-        // ignore
-      }
-
-      // 2. Robust LocalStorage Fallback Counter
-      try {
-        const stored = localStorage.getItem('showtimepk_visit_count');
-        let count = stored ? parseInt(stored, 10) : 3840;
-        if (isNaN(count)) count = 3840;
-        if (!sessionStorage.getItem('showtimepk_visited_session')) {
-          count += 1;
-          sessionStorage.setItem('showtimepk_visited_session', 'true');
-          localStorage.setItem('showtimepk_visit_count', String(count));
-        }
-        setVisitorCount(count);
-      } catch (e) {
-        setVisitorCount(3840);
-      }
-    };
-
-    fetchVisitors();
+      }, 250);
+      return () => clearInterval(timer);
+    }
+    fetch(GOATCOUNTER_TOTAL_URL)
+      .then(r => (r.ok ? r.json() : null))
+      .then(d => {
+        const n = d ? parseInt(String(d.count).replace(/\D/g, ''), 10) : NaN; // e.g. "1,234"
+        if (!isNaN(n)) setVisitorCount(n);
+      })
+      .catch(() => { /* badge keeps showing "..." */ });
   }, []);
 
   // Grouped and filtered data
@@ -1103,10 +1094,13 @@ export default function App() {
         </div>
 
         <div className="flex items-center gap-6">
-          <div className="flex items-center gap-2 text-xs text-gray-500 font-medium bg-bg-secondary px-3 py-1.5 rounded-full border border-border-subtle">
-            <div className="w-1.5 h-1.5 rounded-full bg-green-500 animate-pulse"></div>
-            <span>{visitorCount ? visitorCount.toLocaleString() : '...'} VISITORS</span>
-          </div>
+          {/* Visits are counted by GoatCounter; the total is only shown in admin mode */}
+          {isAdmin && (
+            <div className="flex items-center gap-2 text-xs text-gray-500 font-medium bg-bg-secondary px-3 py-1.5 rounded-full border border-border-subtle">
+              <div className="w-1.5 h-1.5 rounded-full bg-green-500 animate-pulse"></div>
+              <span>{visitorCount ? visitorCount.toLocaleString() : '...'} VISITORS</span>
+            </div>
+          )}
           
           {isAdmin && (
             <button 

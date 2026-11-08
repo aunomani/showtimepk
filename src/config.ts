@@ -15,6 +15,13 @@ export const SPREADSHEET_ID = '1dxvgAYoynFbfuBn4sRRQ98IL4m1EFGrVxNc-zi-1QxM';
  */
 export const DATA_BASE_URL = 'https://raw.githubusercontent.com/aunomani/showtimepk/main/public/data';
 
+/**
+ * Visitor counting: https://showtimepk.goatcounter.com (dashboard, log in with your GoatCounter account).
+ * The script is loaded in index.html; the total needs "Allow using the visitor counter"
+ * switched on in GoatCounter's settings.
+ */
+export const GOATCOUNTER_TOTAL_URL = 'https://showtimepk.goatcounter.com/counter/TOTAL.json';
+
 export function sheetGvizUrl(sheetName: string): string {
   return `https://docs.google.com/spreadsheets/d/${SPREADSHEET_ID}/gviz/tq?tqx=out:json&sheet=${encodeURIComponent(sheetName)}`;
 }
