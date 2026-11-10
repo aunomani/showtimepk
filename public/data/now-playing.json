@@ -29,6 +29,14 @@
     "description": "As America’s fight for independence begins, a young drummer boy, an enslaved woman, and a divided family each search for freedom in a world built to deny it. With music carrying hope through battle and loss, Drummer Boy turns the Revolution into a deeply human story of faith, forgiveness, and the belief that no person is born to live in chains or be forgotten.",
     "releaseDate": "2026-11-05"
   },
+  "EBENEZER": {
+    "title": "Ebenezer",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=l_Ozo1xUgbU",
+    "trailerId": "l_Ozo1xUgbU",
+    "description": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+    "releaseDate": "2026-11-11"
+  },
   "GHOST SCHOOL": {
     "title": "Ghost School",
     "posterUrl": "https://image.tmdb.org/t/p/w500/d36eqygq3ReUBgS2ytmjrho26OH.jpg",
@@ -36,6 +44,20 @@
     "trailerId": "UqISGrtizwQ",
     "description": "Rabia, a ten-year-old Pakistani girl sets out to find why her only school in the village is closed. This fable is a ghost story with a tinge of magical-realism that explores corruption from a child's perspective.",
     "releaseDate": "2026-07-30"
+  },
+  "GHOST SOLDIER": {
+    "title": "Ghost Soldier",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/8Y4oJ5iUs3hgPcDB3SIEmsNYjZk.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=UKaWzMf9Ybc",
+    "trailerId": "UKaWzMf9Ybc",
+    "description": "Henry “Fitz” Fitzgerald has spent years living quietly off the grid, hiding from a past few people know anything about. But when a powerful foreign corporation moves into his hometown to seize his neighbors’ land for a massive payday, Fitz is forced to reveal who he really is: a former Special Forces soldier and advanced weapons developer. Armed with experimental technology, lethal combat skills, and an unwavering code of justice, Fitz wages a one-man war against an enemy that never saw him coming.",
+    "releaseDate": "2026-11-04"
+  },
+  "HAR MAIDAN FATEH": {
+    "title": "Har Maidan Fateh",
+    "posterUrl": "",
+    "trailerUrl": "",
+    "trailerId": ""
   },
   "HEART OF THE BEAST": {
     "title": "Heart Of The Beast",
@@ -52,6 +74,22 @@
     "trailerId": "OFaJzL83y0Q",
     "description": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
     "releaseDate": "2026-07-15"
+  },
+  "HOW TO ROB A BANK": {
+    "title": "How to Rob a Bank",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=MVvWKh336m4",
+    "trailerId": "MVvWKh336m4",
+    "description": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
+    "releaseDate": "2026-11-10"
+  },
+  "I PLAY ROCKY": {
+    "title": "I Play Rocky",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=jq5oCjhQtIc",
+    "trailerId": "jq5oCjhQtIc",
+    "description": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
+    "releaseDate": "2026-11-06"
   },
   "KAFIRUN": {
     "title": "Kafirun",
@@ -139,6 +177,14 @@
     "description": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
     "releaseDate": "2026-10-13"
   },
+  "THE CANVAS": {
+    "title": "The Canvas",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/93IYPILeLLbrs3BIQqG4tNJoPgF.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=NaXlGNNPmu0",
+    "trailerId": "NaXlGNNPmu0",
+    "description": "In an isolated house, a father and his son discover a painting that seems disturbingly alive. When their darkest nightmares begin bleeding into reality, a sinister presence emerges from the canvas, feeding on buried trauma and forgotten memories.",
+    "releaseDate": "2026-10-30"
+  },
   "THE CAT IN THE HAT": {
     "title": "The Cat in the Hat",
     "posterUrl": "https://image.tmdb.org/t/p/w500/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
@@ -163,6 +209,14 @@
     "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
     "releaseDate": "2026-07-15"
   },
+  "TUTT PAINI NE": {
+    "title": "Tutt Paini Ne",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/ad9jhXI8pXAK6uD1V5EhIMFbKFA.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=9PZN30QAmL8",
+    "trailerId": "9PZN30QAmL8",
+    "description": "Blending comedy with heartfelt family moments, this movie explores the clash between cultural pride and modern aspirations through characters every Punjabi household will recognise.",
+    "releaseDate": "2026-09-25"
+  },
   "WHALEFALL": {
     "title": "Whalefall",
     "posterUrl": "https://image.tmdb.org/t/p/w500/vjTYUTgh9nO88i6HZ4YPRhiFL05.jpg",
@@ -170,5 +224,13 @@
     "trailerId": "Dw-5ZGapGTQ",
     "description": "Following the death of his father, Jay Gardiner goes diving off the central Coast of California in search of his remains, but is swallowed by a massive sperm whale. While trapped inside its belly with only one hour of oxygen left, Jay comes to realize that the hard-earned lessons his father imparted may be the key to his escape.",
     "releaseDate": "2026-10-14"
+  },
+  "WILDWOOD": {
+    "title": "Wildwood",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=bJQGtSeLPII",
+    "trailerId": "bJQGtSeLPII",
+    "description": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+    "releaseDate": "2026-10-19"
   }
 }

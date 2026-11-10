@@ -896,7 +896,7 @@
     }
   },
   "ashiqrangrangeelay": {
-    "fetchedAt": "2026-11-08T13:43:06.377Z",
+    "fetchedAt": "2026-11-10T14:03:06.202Z",
     "meta": null
   },
   "soy(subtitles)": {
@@ -986,6 +986,65 @@
       "trailerId": "",
       "description": "Criminal is an animated musical documentary short film that confronts the injustice of people held at the Harris County Jail in Houston, Texas. The vast majority are there because they don’t have enough cash to pay their way out before trial. Because they are poor, thousands are held for months or even shipped to jails out of state when they are supposed to be presumed innocent.",
       "releaseDate": "2024-08-01"
+    }
+  },
+  "ebenezer": {
+    "fetchedAt": "2026-11-10T14:03:06.719Z",
+    "meta": {
+      "title": "Ebenezer",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/6H2N59jJW1hZEzn2ZdrMvJw5vNI.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=l_Ozo1xUgbU",
+      "trailerId": "l_Ozo1xUgbU",
+      "description": "An elderly miser embarks on a supernatural journey after visits from the ghost of his former business partner and the Spirits of Christmas Past, Present, and Yet to Come force him to confront his past and fight for a second chance at happiness.",
+      "releaseDate": "2026-11-11"
+    }
+  },
+  "harmaidanfateh": {
+    "fetchedAt": "2026-11-10T14:03:07.050Z",
+    "meta": null
+  },
+  "howtorobabank": {
+    "fetchedAt": "2026-11-10T14:03:07.348Z",
+    "meta": {
+      "title": "How to Rob a Bank",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=MVvWKh336m4",
+      "trailerId": "MVvWKh336m4",
+      "description": "A crew of social media-savvy bank robbers broadcasts their daring heists, unaware that their growing viral fame has put them in the crosshairs of a veteran FBI agent and a brilliant software engineer. Despite the unlikely duo closing in, the crime ring pushes past their limits, putting everything on the line for their most ambitious heist yet.",
+      "releaseDate": "2026-11-10"
+    }
+  },
+  "iplayrocky": {
+    "fetchedAt": "2026-11-10T14:03:07.674Z",
+    "meta": {
+      "title": "I Play Rocky",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/xE5tY3lppZUyG7WKKThsuYHuAHr.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=jq5oCjhQtIc",
+      "trailerId": "jq5oCjhQtIc",
+      "description": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
+      "releaseDate": "2026-11-06"
+    }
+  },
+  "thecanvas": {
+    "fetchedAt": "2026-11-10T14:03:07.998Z",
+    "meta": {
+      "title": "The Canvas",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/93IYPILeLLbrs3BIQqG4tNJoPgF.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=NaXlGNNPmu0",
+      "trailerId": "NaXlGNNPmu0",
+      "description": "In an isolated house, a father and his son discover a painting that seems disturbingly alive. When their darkest nightmares begin bleeding into reality, a sinister presence emerges from the canvas, feeding on buried trauma and forgotten memories.",
+      "releaseDate": "2026-10-30"
+    }
+  },
+  "wildwood": {
+    "fetchedAt": "2026-11-10T14:03:08.323Z",
+    "meta": {
+      "title": "Wildwood",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/snFM00mpNAfUzUtkdEW0uDEvXA0.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=bJQGtSeLPII",
+      "trailerId": "bJQGtSeLPII",
+      "description": "Prue and her classmate Curtis are drawn into a magical forest filled with enchanted creatures, loyal allies, and formidable adversaries as they embark on a desperate quest to rescue Prue's abducted baby brother from a murder of crows led by a mysterious woman named Alexandra.",
+      "releaseDate": "2026-10-19"
     }
   }
 }
