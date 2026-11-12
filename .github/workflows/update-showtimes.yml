@@ -2,9 +2,9 @@ name: Update showtimes
 
 on:
   schedule:
-    # Every 12 hours: 06:00 and 18:00 Pakistan time (01:00 and 13:00 UTC).
+    # 4 times a day: 12 AM, 6 AM, 12 PM and 6 PM Pakistan time (19:00, 01:00, 07:00, 13:00 UTC).
     # GitHub may start scheduled runs a few minutes late.
-    - cron: '0 1,13 * * *'
+    - cron: '0 1,7,13,19 * * *'
   # Adds a "Run workflow" button under the Actions tab for manual updates.
   workflow_dispatch:
 

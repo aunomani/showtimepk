@@ -8,7 +8,7 @@
  *   public/data/status.json       when this last ran and what each cinema returned
  *   data/tmdb-cache.json          TMDB results, so we don't look movies up every run
  *
- * Run locally with `npm run scrape`; GitHub Actions runs it every 12 hours.
+ * Run locally with `npm run scrape`; GitHub Actions runs it every 6 hours (12 AM, 6 AM, 12 PM, 6 PM PKT).
  */
 import { mkdir, readFile, writeFile } from 'node:fs/promises';
 import path from 'node:path';

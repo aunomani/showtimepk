@@ -6,7 +6,7 @@ Nueplex, Cinepax, The Arena, Raiha CineGold and CineStar.
 ## How it works
 
 ```
-GitHub Actions (every 12 h) ──► scripts/scrape.ts
+GitHub Actions (every 6 h)  ──► scripts/scrape.ts
      │   fetches all 5 cinema websites, cleans movie names,
      │   adds posters/trailers from TMDB
      ▼
@@ -18,7 +18,7 @@ Google Sheet ── prices, ratings, coming soon list, and Sheet1 as a manual fa
 No server, no AI, no paid services. Everything runs on free tiers.
 
 The website loads `public/data/*.json` straight from this (public) GitHub repo, so the
-twice-daily data commits do **not** trigger a Netlify deploy (`ignore` rule in `netlify.toml`).
+data commits (4 a day) do **not** trigger a Netlify deploy (`ignore` rule in `netlify.toml`).
 Netlify only rebuilds when you change the website code itself.
 
 | File | What it is |
@@ -31,11 +31,11 @@ Netlify only rebuilds when you change the website code itself.
 | `config/movie-overrides.json` | Set a poster/trailer by hand for movies TMDB doesn't have |
 | `public/data/` | Generated data the website loads (don't edit by hand) |
 | `data/tmdb-cache.json` | Saved TMDB results so movies aren't looked up every run |
-| `.github/workflows/update-showtimes.yml` | The 12-hour schedule |
+| `.github/workflows/update-showtimes.yml` | The schedule (every 6 hours) |
 
 ## Everyday use
 
-- **Nothing to do.** Data refreshes at about 6 AM and 6 PM Pakistan time.
+- **Nothing to do.** Data refreshes at about 12 AM, 6 AM, 12 PM and 6 PM Pakistan time.
 - **Update right now:** GitHub → **Actions** → **Update showtimes** → **Run workflow**.
 - **A movie name looks wrong or appears twice:** add a line to `config/title-aliases.json` on GitHub.
 - **A cinema stopped working:** open the site with `?admin=true` to see which one failed.

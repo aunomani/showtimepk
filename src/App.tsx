@@ -1832,7 +1832,7 @@ export default function App() {
                     <p className="text-[10px] text-gray-500">No scraper data found yet (public/data/status.json).</p>
                   )}
                   <p className="text-[9px] text-gray-500 leading-relaxed italic">
-                    Showtimes, posters and trailers update by themselves every 12 hours (GitHub Actions). To update now: GitHub → Actions → "Update showtimes" → Run workflow.
+                    Showtimes, posters and trailers update by themselves every 6 hours: 12 AM, 6 AM, 12 PM, 6 PM (GitHub Actions). To update now: GitHub → Actions → "Update showtimes" → Run workflow.
                     If a cinema fails, paste its data below, copy it into Sheet1, and the next run will use it for that cinema.
                   </p>
                   <button

@@ -8,7 +8,7 @@ export const SPREADSHEET_ID = '1dxvgAYoynFbfuBn4sRRQ98IL4m1EFGrVxNc-zi-1QxM';
 
 /**
  * Where visitors' browsers load the showtime data from: the public GitHub repo.
- * The scraper commits fresh files there every 12 hours, so the site shows new
+ * The scraper commits fresh files there every 6 hours, so the site shows new
  * data without a Netlify deploy (deploys cost Netlify credits). If GitHub can't
  * be reached, the site falls back to the copy bundled at /data/.
  * GitHub caches these files for up to 5 minutes.
