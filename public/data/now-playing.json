@@ -99,20 +99,6 @@
     "description": "",
     "releaseDate": "2024-08-30"
   },
-  "MANGO JUTT": {
-    "title": "Mango Jutt",
-    "posterUrl": "https://m.media-amazon.com/images/M/MV5BMGQ0Y2NkYWQtOGI1OS00NmFhLThmZmUtMDFmNmJkMDc4YTllXkEyXkFqcGc@._V1_FMjpg_UX500_.jpg",
-    "trailerUrl": "",
-    "trailerId": ""
-  },
-  "MERI GIRLFRIEND DA VIYAAH": {
-    "title": "Meri Girlfriend Da Viyaah",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/bIeCwdwwig0CzohFMeKybfhnAKT.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=ewbaODuDd0Q",
-    "trailerId": "ewbaODuDd0Q",
-    "description": "Bittu's peaceful life with his girlfriend Nimrat in Mumbai turns chaotic when his parents arrive unexpectedly. Unable to reveal their relationship, he introduces Nimrat as their housemaid. Their lie grows complicated when the male househelp falls for Nimrat and wants to marry her. As they struggle to keep their charade alive, family pressure and misunderstandings create chaos.",
-    "releaseDate": "2026-10-09"
-  },
   "OTHER MOMMY": {
     "title": "Other Mommy",
     "posterUrl": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
@@ -136,14 +122,6 @@
     "trailerId": "mNd1gb19A-c",
     "description": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
     "releaseDate": "2026-09-16"
-  },
-  "SHAUN THE SHEEP: THE BEAST OF MOSSY BOTTOM": {
-    "title": "Shaun the Sheep: The Beast of Mossy Bottom",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/mMOptSPBVGUA9GHgnpsC35GzZ7e.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=daZMq0AyOMc",
-    "trailerId": "daZMq0AyOMc",
-    "description": "On Halloween Eve at Mossy Bottom Farm, excitement turns to dismay when the clumsy Farmer ruins the pumpkin patch. Shaun tries fixing it with science experiments, but things go awry when a wild beast appears in the woods.",
-    "releaseDate": "2026-09-17"
   },
   "SINGH VS KAUR 2": {
     "title": "Singh vs Kaur 2",
@@ -186,7 +164,7 @@
     "releaseDate": "2026-10-30"
   },
   "THE CAT IN THE HAT": {
-    "title": "The Cat in the Hat",
+    "title": "The Cat In The Hat",
     "posterUrl": "https://image.tmdb.org/t/p/w500/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=tkZpcypT8Z4",
     "trailerId": "tkZpcypT8Z4",
