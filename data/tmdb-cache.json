@@ -1057,5 +1057,16 @@
       "description": "Zia Mohyeddin, Pakistan's most venerated actor, devotes his final years to resurrecting interest in Urdu poetry and passing it on to a new generation of South Asians.",
       "releaseDate": "2026-02-06"
     }
+  },
+  "thehungergamessunriseonthereaping": {
+    "fetchedAt": "2026-11-12T19:48:06.670Z",
+    "meta": {
+      "title": "The Hunger Games: Sunrise on the Reaping",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=Dr060OLTodE",
+      "trailerId": "Dr060OLTodE",
+      "description": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+      "releaseDate": "2026-11-18"
+    }
   }
 }

@@ -1,10 +1,4 @@
 {
-  "ASHIQ RANG RANGEELAY": {
-    "title": "Ashiq Rang Rangeelay",
-    "posterUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL44waqVxSoKuxlyJTuWLq0jJqID49xqVlKpkOBO7W_fwuHk3IR9psRfP1&s=10",
-    "trailerUrl": "https://www.youtube.com/watch?v=dOXjwr7p_Tw",
-    "trailerId": "dOXjwr7p_Tw"
-  },
   "CARRY ON JATTA 4": {
     "title": "Carry On Jatta 4",
     "posterUrl": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
@@ -60,7 +54,7 @@
     "trailerId": ""
   },
   "HEART OF THE BEAST": {
-    "title": "Heart Of The Beast",
+    "title": "Heart of the Beast",
     "posterUrl": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=UkMuGKqAux4",
     "trailerId": "UkMuGKqAux4",
@@ -76,7 +70,7 @@
     "releaseDate": "2026-07-15"
   },
   "HOW TO ROB A BANK": {
-    "title": "How to Rob a Bank",
+    "title": "How To Rob A Bank",
     "posterUrl": "https://image.tmdb.org/t/p/w500/ifYDZkr2qkHFz87TNVvlxajOxl5.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=MVvWKh336m4",
     "trailerId": "MVvWKh336m4",
@@ -98,22 +92,6 @@
     "trailerId": "",
     "description": "",
     "releaseDate": "2024-08-30"
-  },
-  "OTHER MOMMY": {
-    "title": "Other Mommy",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=-mnTITqqiT0",
-    "trailerId": "-mnTITqqiT0",
-    "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "releaseDate": "2026-10-07"
-  },
-  "PATAKKA GUDDIYAN": {
-    "title": "Patakka Guddiyan",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/iXzierTllivIAPYxwfQjcY6x5Ui.jpg",
-    "trailerUrl": "",
-    "trailerId": "",
-    "description": "Roohi, a simple girl, is the complete opposite of her twin sister Mahi, who is sharp, daring, and mischievous. As the story progresses, layers of suspense and drama unfold.",
-    "releaseDate": "2026-10-30"
   },
   "RESIDENT EVIL": {
     "title": "Resident Evil",
@@ -164,7 +142,7 @@
     "releaseDate": "2026-10-30"
   },
   "THE CAT IN THE HAT": {
-    "title": "The Cat In The Hat",
+    "title": "The Cat in the Hat",
     "posterUrl": "https://image.tmdb.org/t/p/w500/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=tkZpcypT8Z4",
     "trailerId": "tkZpcypT8Z4",
@@ -181,17 +159,11 @@
   },
   "THE HUNGER GAMES: SUNRISE ON THE REAPING": {
     "title": "The Hunger Games: Sunrise On The Reaping",
-    "posterUrl": "",
-    "trailerUrl": "",
-    "trailerId": ""
-  },
-  "THE ODYSSEY": {
-    "title": "The Odyssey",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
-    "trailerId": "AyIZ9tiiN8I",
-    "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-    "releaseDate": "2026-07-15"
+    "posterUrl": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=Dr060OLTodE",
+    "trailerId": "Dr060OLTodE",
+    "description": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
+    "releaseDate": "2026-11-18"
   },
   "TUTT PAINI NE": {
     "title": "Tutt Paini Ne",
