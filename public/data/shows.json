@@ -8999,11 +8999,143 @@
   },
   {
     "cinema": "The Arena",
+    "location": "Bahria Orchard",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "04:30 PM",
+    "screen": "",
+    "city": "Lahore",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Orchard",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "02:45 PM",
+    "screen": "",
+    "city": "Lahore",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Orchard",
+    "movie": "Har Maidan Fateh (Punjabi)",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "09:15 PM",
+    "screen": "",
+    "city": "Lahore",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Orchard",
+    "movie": "Har Maidan Fateh (Punjabi)",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "11:45 PM",
+    "screen": "",
+    "city": "Lahore",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Orchard",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "12:15 PM",
+    "screen": "",
+    "city": "Lahore",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Orchard",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "06:45 PM",
+    "screen": "",
+    "city": "Lahore",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Phase IV Bahria Town",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "01:30 PM",
+    "screen": "",
+    "city": "RWP/ISB",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Phase IV Bahria Town",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "06:15 PM",
+    "screen": "",
+    "city": "RWP/ISB",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Phase IV Bahria Town",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "11:00 PM",
+    "screen": "",
+    "city": "RWP/ISB",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
     "location": "Phase IV Bahria Town",
     "movie": "I Play Rocky",
     "format": "2D",
     "date": "19-Nov-2026",
     "time": "12:45 AM",
+    "screen": "",
+    "city": "RWP/ISB",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Phase IV Bahria Town",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "08:30 PM",
+    "screen": "",
+    "city": "RWP/ISB",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Phase IV Bahria Town",
+    "movie": "The Cat in the Hat",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "11:15 AM",
+    "screen": "",
+    "city": "RWP/ISB",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Phase IV Bahria Town",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "03:45 PM",
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
@@ -9095,6 +9227,17 @@
     "screen": "Red Lounge",
     "city": "Lahore",
     "source": "raiha"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Phase IV Bahria Town",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "20-Nov-2026",
+    "time": "12:45 AM",
+    "screen": "",
+    "city": "RWP/ISB",
+    "source": "arena"
   },
   {
     "cinema": "Cinestar",

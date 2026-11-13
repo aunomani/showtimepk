@@ -1,6 +1,6 @@
 {
-  "updatedAt": "2026-11-12T19:47:49.009Z",
-  "totalShows": 829,
+  "updatedAt": "2026-11-13T01:58:48.978Z",
+  "totalShows": 842,
   "sources": {
     "cinepax": {
       "count": 152,
@@ -11,7 +11,7 @@
       "from": "live"
     },
     "arena": {
-      "count": 76,
+      "count": 88,
       "from": "live"
     },
     "cinestar": {
@@ -21,6 +21,10 @@
     "raiha": {
       "count": 668,
       "from": "live"
+    },
+    "fallback:arena-khi": {
+      "count": 1,
+      "from": "previous"
     }
   }
 }
