@@ -1608,10 +1608,43 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Icon Tower",
-    "movie": "Clayface",
+    "movie": "Ebenezer",
     "format": "2D",
     "date": "13-Nov-2026",
-    "time": "12:30 AM",
+    "time": "10:30 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "13-Nov-2026",
+    "time": "03:00 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "13-Nov-2026",
+    "time": "08:00 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "13-Nov-2026",
+    "time": "05:30 PM",
     "screen": "",
     "city": "Karachi",
     "source": "arena"
@@ -3782,6 +3815,28 @@
     "screen": "Gold Lounge",
     "city": "Lahore",
     "source": "raiha"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "14-Nov-2026",
+    "time": "12:45 AM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "14-Nov-2026",
+    "time": "11:15 AM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
   },
   {
     "cinema": "The Arena",
