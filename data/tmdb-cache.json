@@ -1068,5 +1068,27 @@
       "description": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
       "releaseDate": "2026-11-18"
     }
+  },
+  "godzillaminuszero": {
+    "fetchedAt": "2026-11-13T19:47:24.315Z",
+    "meta": {
+      "title": "Godzilla Minus Zero",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/hSmIJluOJmTWvJs4d7kHRxjc8s8.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=Pu0pH5BuCPM",
+      "trailerId": "Pu0pH5BuCPM",
+      "description": "War reduced Japan to zero, and Godzilla plunged it into minus. Two years have passed since then, and the country has faced agonizing struggles to achieve recovery and finally reclaim its daily life. Just as humanity managed to cling to a hard-won peace, a new threat strikes, crushing hope in an instant. There is no third time. Everything ends here.",
+      "releaseDate": "2026-11-03"
+    }
+  },
+  "victorianpsycho": {
+    "fetchedAt": "2026-11-13T19:47:24.757Z",
+    "meta": {
+      "title": "Victorian Psycho",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/9LHVZevgdsdbjJdkFr6bk9EwX7q.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=sDiFol_2j2I",
+      "trailerId": "sDiFol_2j2I",
+      "description": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be—but the truth may be far more dangerous than they imagine.",
+      "releaseDate": "2026-11-11"
+    }
   }
 }
