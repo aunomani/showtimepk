@@ -93,6 +93,14 @@
     "description": "",
     "releaseDate": "2024-08-30"
   },
+  "OTHER MOMMY": {
+    "title": "Other Mommy",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=-mnTITqqiT0",
+    "trailerId": "-mnTITqqiT0",
+    "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
+    "releaseDate": "2026-10-07"
+  },
   "RESIDENT EVIL": {
     "title": "Resident Evil",
     "posterUrl": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
