@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T19:47:09.841Z",
+  "updatedAt": "2026-11-14T01:54:23.647Z",
   "totalShows": 698,
   "sources": {
     "cinepax": {
@@ -14,13 +14,26 @@
       "count": 53,
       "from": "live"
     },
-    "arena": {
-      "count": 81,
-      "from": "live"
-    },
     "raiha": {
       "count": 588,
       "from": "live"
+    },
+    "arena": {
+      "count": 0,
+      "from": "none",
+      "error": "every Arena request failed"
+    },
+    "fallback:arena-khi": {
+      "count": 2,
+      "from": "previous"
+    },
+    "fallback:arena-lhr": {
+      "count": 36,
+      "from": "previous"
+    },
+    "fallback:arena-isb": {
+      "count": 43,
+      "from": "previous"
     }
   }
 }
