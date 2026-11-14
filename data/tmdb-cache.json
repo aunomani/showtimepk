@@ -1090,5 +1090,16 @@
       "description": "When eccentric young governess Winifred Notty arrives at a remote Gothic manor, a string of unsettling events leads the household to suspect she isn't who she claims to be—but the truth may be far more dangerous than they imagine.",
       "releaseDate": "2026-11-11"
     }
+  },
+  "belkis": {
+    "fetchedAt": "2026-11-14T13:44:49.914Z",
+    "meta": {
+      "title": "Kıble: Bitlisli Belkıs",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/DTz2yByKsgLJHsVeKxc4ZSN4Pf.jpg",
+      "trailerUrl": "",
+      "trailerId": "",
+      "description": "",
+      "releaseDate": "2026-04-03"
+    }
   }
 }

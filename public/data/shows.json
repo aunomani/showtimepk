@@ -13,21 +13,10 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
-    "movie": "Ghost Soldier",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "04:45 PM",
-    "screen": "SILVER 3",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
     "movie": "Har Maidan Fateh (Punjabi)",
     "format": "2D",
     "date": "14-Nov-2026",
-    "time": "06:30 PM",
+    "time": "06:45 PM",
     "screen": "SILVER 3",
     "city": "Lahore",
     "source": "cinepax"
@@ -35,43 +24,10 @@
   {
     "cinema": "Cinepax",
     "location": "Amanah Mall Lahore",
-    "movie": "How To Rob A Bank",
+    "movie": "Hope (Urdu Dubbed)",
     "format": "2D",
     "date": "14-Nov-2026",
-    "time": "01:00 PM",
-    "screen": "Gold Screen",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "03:15 PM",
-    "screen": "Gold Screen",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
-    "movie": "Singh vs Kaur 2 (Punjabi)",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "01:45 PM",
-    "screen": "SILVER 3",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
-    "movie": "Singh vs Kaur 2 (Punjabi)",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "09:00 PM",
+    "time": "09:30 PM",
     "screen": "SILVER 3",
     "city": "Lahore",
     "source": "cinepax"
@@ -89,28 +45,6 @@
   },
   {
     "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
-    "movie": "Wildwood",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "05:45 PM",
-    "screen": "Gold Screen",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Carry On Jatta 4",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "04:15 PM",
-    "screen": "SCREEN4",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
     "movie": "Carry On Jatta 4",
     "format": "2D",
@@ -123,33 +57,11 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
-    "movie": "Carry On Jatta 4",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "05:45 PM",
-    "screen": "SCREEN 2 - PLATINUM",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
     "movie": "Ebenezer",
     "format": "2D",
     "date": "14-Nov-2026",
     "time": "11:00 PM",
     "screen": "SCREEN3",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Ebenezer",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "03:30 PM",
-    "screen": "SCREEN 2 - PLATINUM",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -170,30 +82,8 @@
     "movie": "Har Maidan Fateh (Punjabi)",
     "format": "2D",
     "date": "14-Nov-2026",
-    "time": "01:15 PM",
-    "screen": "SCREEN4",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Har Maidan Fateh (Punjabi)",
-    "format": "2D",
-    "date": "14-Nov-2026",
     "time": "07:30 PM",
     "screen": "SCREEN4",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Har Maidan Fateh (Punjabi)",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "06:15 PM",
-    "screen": "SCREEN 1- SILVER",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -205,50 +95,6 @@
     "date": "14-Nov-2026",
     "time": "08:30 PM",
     "screen": "SCREEN5",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "How To Rob A Bank",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "02:00 PM",
-    "screen": "SCREEN3",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "How To Rob A Bank",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "01:00 PM",
-    "screen": "SCREEN 2 - PLATINUM",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "04:45 PM",
-    "screen": "SCREEN3",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "01:15 PM",
-    "screen": "SCREEN 1- SILVER",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -287,56 +133,12 @@
   },
   {
     "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Wildwood",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "03:45 PM",
-    "screen": "SCREEN 1- SILVER",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "04:30 PM",
-    "screen": "PLATINUM",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Ebenezer",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "03:15 PM",
-    "screen": "GOLD-2",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
     "movie": "Ghost Soldier",
     "format": "2D",
     "date": "14-Nov-2026",
     "time": "10:00 PM",
     "screen": "GOLD-1",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Ghost Soldier",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "01:00 PM",
-    "screen": "GOLD-2",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -365,28 +167,6 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "01:15 PM",
-    "screen": "GOLD-1",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Resident Evil",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "04:00 PM",
-    "screen": "GOLD-1",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
     "movie": "Resident Evil",
     "format": "2D",
     "date": "14-Nov-2026",
@@ -409,44 +189,11 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
-    "movie": "Spider-Man: Brand New Day",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "01:30 PM",
-    "screen": "PLATINUM",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
     "movie": "Street Fighter",
     "format": "2D",
     "date": "14-Nov-2026",
     "time": "07:00 PM",
     "screen": "PLATINUM",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "The Canvas",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "05:30 PM",
-    "screen": "GOLD-2",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "The Colour of My Heart (Pakistani)",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "06:00 PM",
-    "screen": "GOLD-1",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -475,76 +222,10 @@
   {
     "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
-    "movie": "Drummer Boy",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "01:45 PM",
-    "screen": "Platinum 2",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Ebenezer",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "06:00 PM",
-    "screen": "Platinum 2",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Ghost Soldier",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "04:15 PM",
-    "screen": "Platinum 2",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Ghost Soldier",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "01:15 PM",
-    "screen": "Screen 5",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Har Maidan Fateh (Punjabi)",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "05:30 PM",
-    "screen": "Screen 5",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
     "movie": "Hope (Urdu Dubbed)",
     "format": "2D",
     "date": "14-Nov-2026",
     "time": "10:30 PM",
-    "screen": "Screen 4",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "How To Rob A Bank",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "04:00 PM",
     "screen": "Screen 4",
     "city": "Lahore",
     "source": "cinepax"
@@ -557,17 +238,6 @@
     "date": "14-Nov-2026",
     "time": "08:15 PM",
     "screen": "Platinum 2",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Singh vs Kaur 2 (Punjabi)",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "10:15 PM",
-    "screen": "Screen 5",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -590,61 +260,6 @@
     "date": "14-Nov-2026",
     "time": "08:00 PM",
     "screen": "Screen 4",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "The Canvas",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "06:15 PM",
-    "screen": "Screen 4",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "The Cat In The Hat",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "02:00 PM",
-    "screen": "Screen 4",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "The Colour of My Heart (Pakistani)",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "08:15 PM",
-    "screen": "Screen 5",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Tutt Paini Ne (Punjabi)",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "04:30 PM",
-    "screen": "C-Max",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Wildwood",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "03:00 PM",
-    "screen": "Screen 5",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -672,50 +287,6 @@
   },
   {
     "cinema": "Cinestar",
-    "location": "Raya Golf Resort DHA Phase 6 LHR",
-    "movie": "How To Rob A Bank",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "06:30 PM",
-    "screen": "",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Raya Golf Resort DHA Phase 6 LHR",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "04:15 PM",
-    "screen": "",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Raya Golf Resort DHA Phase 6 LHR",
-    "movie": "Wildwood",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "02:00 PM",
-    "screen": "",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "02:30 PM",
-    "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
     "movie": "Clayface",
     "format": "2D",
@@ -728,43 +299,10 @@
   {
     "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
-    "movie": "Ebenezer",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "02:00 PM",
-    "screen": "Screen 3",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "Ghost Soldier",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "06:30 PM",
-    "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
     "movie": "Ghost Soldier",
     "format": "2D",
     "date": "14-Nov-2026",
     "time": "08:30 PM",
-    "screen": "Screen 3",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "Har Maidan Fateh (Punjabi)",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "06:15 PM",
     "screen": "Screen 3",
     "city": "Lahore",
     "source": "cinestar"
@@ -786,40 +324,7 @@
     "movie": "I Play Rocky",
     "format": "2D",
     "date": "14-Nov-2026",
-    "time": "04:15 PM",
-    "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "14-Nov-2026",
     "time": "08:00 PM",
-    "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Township Commercial Area LHR",
-    "movie": "Wildwood",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "04:00 PM",
-    "screen": "Screen 3",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Clayface",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "04:15 PM",
     "screen": "Screen 2",
     "city": "Lahore",
     "source": "cinestar"
@@ -874,51 +379,7 @@
     "movie": "How To Rob A Bank",
     "format": "2D",
     "date": "14-Nov-2026",
-    "time": "04:45 PM",
-    "screen": "Screen 1",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "How To Rob A Bank",
-    "format": "2D",
-    "date": "14-Nov-2026",
     "time": "10:30 PM",
-    "screen": "Screen 1",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "02:00 PM",
-    "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "06:00 PM",
-    "screen": "Screen 2",
-    "city": "Lahore",
-    "source": "cinestar"
-  },
-  {
-    "cinema": "Cinestar",
-    "location": "Xinhua Mall Gulberg III LHR",
-    "movie": "Wildwood",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "02:30 PM",
     "screen": "Screen 1",
     "city": "Lahore",
     "source": "cinestar"
@@ -2268,11 +1729,110 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
+    "movie": "Carry On Jatta 4",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "04:15 PM",
+    "screen": "SCREEN4",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Carry On Jatta 4",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "05:45 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "03:30 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
     "movie": "Ghost Soldier",
     "format": "2D",
     "date": "15-Nov-2026",
     "time": "06:45 PM",
     "screen": "SCREEN2",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Har Maidan Fateh (Punjabi)",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "01:15 PM",
+    "screen": "SCREEN4",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Har Maidan Fateh (Punjabi)",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "06:15 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "How To Rob A Bank",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "02:00 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "How To Rob A Bank",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "01:00 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "04:45 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "01:15 PM",
+    "screen": "SCREEN 1- SILVER",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -2322,12 +1882,56 @@
   },
   {
     "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "03:45 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
     "movie": "Clayface",
     "format": "2D",
     "date": "15-Nov-2026",
     "time": "12:15 AM",
     "screen": "PLATINUM",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "04:30 PM",
+    "screen": "PLATINUM",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "03:15 PM",
+    "screen": "GOLD-2",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "01:00 PM",
+    "screen": "GOLD-2",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -2345,12 +1949,133 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "01:15 PM",
+    "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
     "movie": "Other Mommy",
     "format": "2D",
     "date": "15-Nov-2026",
     "time": "04:00 PM",
     "screen": "GOLD-1",
     "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Spider-Man: Brand New Day",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "01:30 PM",
+    "screen": "PLATINUM",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "The Canvas",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "05:30 PM",
+    "screen": "GOLD-2",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "The Colour of My Heart (Pakistani)",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "06:00 PM",
+    "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Drummer Boy",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "01:45 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "06:00 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "04:15 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "How To Rob A Bank",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "04:00 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "The Canvas",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "06:15 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "The Cat In The Hat",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "02:00 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Tutt Paini Ne (Punjabi)",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "04:30 PM",
+    "screen": "C-Max",
+    "city": "Lahore",
     "source": "cinepax"
   },
   {
@@ -2458,7 +2183,7 @@
     "movie": "Ghost Soldier",
     "format": "2D",
     "date": "15-Nov-2026",
-    "time": "08:30 PM",
+    "time": "10:30 PM",
     "screen": "Screen 3",
     "city": "Lahore",
     "source": "cinestar"
@@ -2469,7 +2194,7 @@
     "movie": "Har Maidan Fateh (Punjabi)",
     "format": "2D",
     "date": "15-Nov-2026",
-    "time": "06:15 PM",
+    "time": "08:15 PM",
     "screen": "Screen 3",
     "city": "Lahore",
     "source": "cinestar"
@@ -2480,7 +2205,7 @@
     "movie": "How To Rob A Bank",
     "format": "2D",
     "date": "15-Nov-2026",
-    "time": "10:00 PM",
+    "time": "06:15 PM",
     "screen": "Screen 3",
     "city": "Lahore",
     "source": "cinestar"
@@ -3830,76 +3555,10 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Icon Tower",
-    "movie": "Ebenezer",
-    "format": "2D",
-    "date": "15-Nov-2026",
-    "time": "10:45 PM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "Ghost Soldier",
-    "format": "2D",
-    "date": "15-Nov-2026",
-    "time": "01:30 PM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "How To Rob A Bank",
-    "format": "2D",
-    "date": "15-Nov-2026",
-    "time": "11:15 AM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
     "movie": "I Play Rocky",
     "format": "2D",
     "date": "15-Nov-2026",
     "time": "01:30 AM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "15-Nov-2026",
-    "time": "03:15 PM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "15-Nov-2026",
-    "time": "08:15 PM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "Wildwood",
-    "format": "2D",
-    "date": "15-Nov-2026",
-    "time": "05:45 PM",
     "screen": "",
     "city": "Karachi",
     "source": "arena"
@@ -4046,6 +3705,83 @@
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Amanah Mall Lahore",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "04:45 PM",
+    "screen": "SILVER 3",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Amanah Mall Lahore",
+    "movie": "Har Maidan Fateh (Punjabi)",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "06:30 PM",
+    "screen": "SILVER 3",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Amanah Mall Lahore",
+    "movie": "How To Rob A Bank",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "01:00 PM",
+    "screen": "Gold Screen",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Amanah Mall Lahore",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "03:15 PM",
+    "screen": "Gold Screen",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Amanah Mall Lahore",
+    "movie": "Singh vs Kaur 2 (Punjabi)",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "01:45 PM",
+    "screen": "SILVER 3",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Amanah Mall Lahore",
+    "movie": "Singh vs Kaur 2 (Punjabi)",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "09:00 PM",
+    "screen": "SILVER 3",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Amanah Mall Lahore",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "05:45 PM",
+    "screen": "Gold Screen",
+    "city": "Lahore",
+    "source": "cinepax"
   },
   {
     "cinema": "Cinepax",
@@ -4336,17 +4072,6 @@
   {
     "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
-    "movie": "Carry On Jatta 4",
-    "format": "2D",
-    "date": "16-Nov-2026",
-    "time": "02:45 PM",
-    "screen": "Screen 5",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
     "movie": "Drummer Boy",
     "format": "2D",
     "date": "16-Nov-2026",
@@ -4374,17 +4099,6 @@
     "date": "16-Nov-2026",
     "time": "04:00 PM",
     "screen": "Platinum 2",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Ghost Soldier",
-    "format": "2D",
-    "date": "16-Nov-2026",
-    "time": "08:00 PM",
-    "screen": "Screen 5",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -4424,17 +4138,6 @@
   {
     "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
-    "movie": "Singh vs Kaur 2 (Punjabi)",
-    "format": "2D",
-    "date": "16-Nov-2026",
-    "time": "09:45 PM",
-    "screen": "Screen 5",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
     "movie": "Soy (Subtitles)",
     "format": "2D",
     "date": "16-Nov-2026",
@@ -4468,17 +4171,6 @@
   {
     "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
-    "movie": "The Canvas",
-    "format": "2D",
-    "date": "16-Nov-2026",
-    "time": "01:00 PM",
-    "screen": "Screen 5",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
     "movie": "The Cat In The Hat",
     "format": "2D",
     "date": "16-Nov-2026",
@@ -4495,6 +4187,50 @@
     "date": "16-Nov-2026",
     "time": "12:20 AM",
     "screen": "Cinema 4",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "09:55 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "03:00 PM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "07:35 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "07:40 PM",
+    "screen": "Cinema 10",
     "city": "Karachi",
     "source": "nueplex"
   },
@@ -4523,11 +4259,88 @@
   {
     "cinema": "Nueplex Askari IV",
     "location": "Askari IV",
+    "movie": "How To Rob A Bank",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "03:05 PM",
+    "screen": "Cinema 11",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "05:30 PM",
+    "screen": "Cinema 11",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
     "movie": "Kafirun (Urdu Dubbed)",
     "format": "2D",
     "date": "16-Nov-2026",
     "time": "12:25 AM",
     "screen": "Cinema 2",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Kafirun (Urdu Dubbed)",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "03:00 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Kafirun (Urdu Dubbed)",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "09:45 PM",
+    "screen": "Cinema 11",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Street Fighter",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "05:15 PM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "05:00 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "09:35 PM",
+    "screen": "Cinema 10",
     "city": "Karachi",
     "source": "nueplex"
   },
@@ -5083,83 +4896,6 @@
   },
   {
     "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "Ebenezer",
-    "format": "2D",
-    "date": "16-Nov-2026",
-    "time": "01:30 PM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "Ebenezer",
-    "format": "2D",
-    "date": "16-Nov-2026",
-    "time": "08:15 PM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "16-Nov-2026",
-    "time": "01:00 AM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "16-Nov-2026",
-    "time": "03:15 PM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "16-Nov-2026",
-    "time": "05:45 PM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "16-Nov-2026",
-    "time": "10:30 PM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "Wildwood",
-    "format": "2D",
-    "date": "16-Nov-2026",
-    "time": "11:00 AM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
     "location": "Bahria Orchard",
     "movie": "Ebenezer",
     "format": "2D",
@@ -5241,7 +4977,7 @@
     "movie": "Ebenezer",
     "format": "2D",
     "date": "16-Nov-2026",
-    "time": "05:30 PM",
+    "time": "06:15 PM",
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
@@ -5252,7 +4988,7 @@
     "movie": "Ghost Soldier",
     "format": "2D",
     "date": "16-Nov-2026",
-    "time": "03:45 PM",
+    "time": "11:00 PM",
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
@@ -5274,18 +5010,7 @@
     "movie": "I Play Rocky",
     "format": "2D",
     "date": "16-Nov-2026",
-    "time": "07:45 PM",
-    "screen": "",
-    "city": "RWP/ISB",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Phase IV Bahria Town",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "16-Nov-2026",
-    "time": "10:15 PM",
+    "time": "08:30 PM",
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
@@ -5297,6 +5022,17 @@
     "format": "2D",
     "date": "16-Nov-2026",
     "time": "11:00 AM",
+    "screen": "",
+    "city": "RWP/ISB",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Phase IV Bahria Town",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "03:45 PM",
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
@@ -5344,6 +5080,127 @@
     "screen": "GOLD-2",
     "city": "Karachi",
     "source": "cinepax"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "09:55 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "03:00 PM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "12:10 AM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "07:35 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "07:40 PM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "04:50 PM",
+    "screen": "Cinema 11",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Kafirun (Urdu Dubbed)",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "12:10 AM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Kafirun (Urdu Dubbed)",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "03:00 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Street Fighter",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "05:15 PM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "05:00 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "09:35 PM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
   },
   {
     "cinema": "Raiha CineGold",
@@ -5913,17 +5770,6 @@
     "format": "2D",
     "date": "17-Nov-2026",
     "time": "11:15 AM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "17-Nov-2026",
-    "time": "01:00 AM",
     "screen": "",
     "city": "Karachi",
     "source": "arena"
@@ -6105,6 +5951,127 @@
     "source": "arena"
   },
   {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "09:55 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "03:00 PM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "12:10 AM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "07:35 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "07:40 PM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "How To Rob A Bank",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "03:05 PM",
+    "screen": "Cinema 11",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Kafirun (Urdu Dubbed)",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "12:10 AM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Kafirun (Urdu Dubbed)",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "03:00 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Street Fighter",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "05:15 PM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "05:00 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "09:35 PM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
     "cinema": "Raiha CineGold",
     "location": "Bahria Town Islamabad",
     "movie": "Ebenezer",
@@ -6646,76 +6613,10 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Icon Tower",
-    "movie": "Ebenezer",
-    "format": "2D",
-    "date": "18-Nov-2026",
-    "time": "01:30 PM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "Ebenezer",
-    "format": "2D",
-    "date": "18-Nov-2026",
-    "time": "08:15 PM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
     "movie": "I Play Rocky",
     "format": "2D",
     "date": "18-Nov-2026",
     "time": "01:00 AM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "18-Nov-2026",
-    "time": "03:15 PM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "18-Nov-2026",
-    "time": "05:45 PM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "18-Nov-2026",
-    "time": "10:30 PM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "Wildwood",
-    "format": "2D",
-    "date": "18-Nov-2026",
-    "time": "11:00 AM",
     "screen": "",
     "city": "Karachi",
     "source": "arena"
@@ -6803,7 +6704,7 @@
     "movie": "Ebenezer",
     "format": "2D",
     "date": "18-Nov-2026",
-    "time": "05:30 PM",
+    "time": "06:15 PM",
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
@@ -6814,7 +6715,7 @@
     "movie": "Ghost Soldier",
     "format": "2D",
     "date": "18-Nov-2026",
-    "time": "03:45 PM",
+    "time": "11:00 PM",
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
@@ -6836,18 +6737,7 @@
     "movie": "I Play Rocky",
     "format": "2D",
     "date": "18-Nov-2026",
-    "time": "07:45 PM",
-    "screen": "",
-    "city": "RWP/ISB",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Phase IV Bahria Town",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "18-Nov-2026",
-    "time": "10:15 PM",
+    "time": "08:30 PM",
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
@@ -6864,6 +6754,17 @@
     "source": "arena"
   },
   {
+    "cinema": "The Arena",
+    "location": "Phase IV Bahria Town",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "03:45 PM",
+    "screen": "",
+    "city": "RWP/ISB",
+    "source": "arena"
+  },
+  {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
     "movie": "Resident Evil",
@@ -6873,6 +6774,116 @@
     "screen": "SCREEN2",
     "city": "RWP/ISB",
     "source": "cinepax"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "09:55 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Clayface",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "03:00 PM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "12:10 AM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "07:35 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "07:40 PM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Kafirun (Urdu Dubbed)",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "12:10 AM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Kafirun (Urdu Dubbed)",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "03:00 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Street Fighter",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "05:15 PM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "05:00 PM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "09:35 PM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
   },
   {
     "cinema": "Raiha CineGold",
@@ -7412,17 +7423,6 @@
     "screen": "Gold Lounge",
     "city": "Lahore",
     "source": "raiha"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "19-Nov-2026",
-    "time": "01:00 AM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
   },
   {
     "cinema": "The Arena",
@@ -7581,6 +7581,39 @@
   {
     "cinema": "Nueplex Askari IV",
     "location": "Askari IV",
+    "movie": "Belkis (Urdu Dubbed)",
+    "format": "2D",
+    "date": "20-Nov-2026",
+    "time": "06:15 PM",
+    "screen": "Cinema 1",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Belkis (Urdu Dubbed)",
+    "format": "2D",
+    "date": "20-Nov-2026",
+    "time": "03:20 PM",
+    "screen": "Cinema 3",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "20-Nov-2026",
+    "time": "12:10 AM",
+    "screen": "Cinema 10",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
     "movie": "Godzilla Minus Zero",
     "format": "2D",
     "date": "20-Nov-2026",
@@ -7625,6 +7658,17 @@
   {
     "cinema": "Nueplex Askari IV",
     "location": "Askari IV",
+    "movie": "Kafirun (Urdu Dubbed)",
+    "format": "2D",
+    "date": "20-Nov-2026",
+    "time": "12:10 AM",
+    "screen": "Cinema 7",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex Askari IV",
+    "location": "Askari IV",
     "movie": "The Hunger Games: Sunrise on the Reaping",
     "format": "2D",
     "date": "20-Nov-2026",
@@ -7652,6 +7696,17 @@
     "date": "20-Nov-2026",
     "time": "05:10 PM",
     "screen": "Cinema 3",
+    "city": "Karachi",
+    "source": "nueplex"
+  },
+  {
+    "cinema": "Nueplex DHA",
+    "location": "DHA Phase 8",
+    "movie": "Belkis (Urdu Dubbed)",
+    "format": "2D",
+    "date": "20-Nov-2026",
+    "time": "05:30 PM",
+    "screen": "Cinema 4",
     "city": "Karachi",
     "source": "nueplex"
   },
