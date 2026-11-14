@@ -1758,13 +1758,13 @@ export default function App() {
           Showtime<span className="text-accent">PK</span>
         </div>
         <a 
-          href="https://www.instagram.com/show.timepk?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==" 
+          href="https://www.instagram.com/show.time.pk"
           target="_blank" 
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full bg-gradient-to-r from-purple-600/20 via-pink-600/20 to-amber-500/20 border border-pink-500/30 text-pink-400 hover:text-white hover:border-pink-500 text-xs font-bold transition-all shadow-lg hover:shadow-pink-500/10 group"
         >
           <Instagram size={16} className="text-pink-500 group-hover:scale-110 transition-transform" />
-          <span>@show.timepk</span>
+          <span>@show.time.pk</span>
         </a>
         <p className="text-[10px] text-gray-600 font-medium tracking-widest uppercase">© 2026 K-TOWN CINEMA HUB. ALL RIGHTS RESERVED.</p>
       </footer>
