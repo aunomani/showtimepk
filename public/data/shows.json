@@ -1600,7 +1600,7 @@
     "movie": "Ebenezer",
     "format": "2D",
     "date": "14-Nov-2026",
-    "time": "01:45 PM",
+    "time": "10:45 PM",
     "screen": "Red Lounge",
     "city": "RWP/ISB",
     "source": "raiha"
@@ -1611,7 +1611,7 @@
     "movie": "Ebenezer",
     "format": "2D",
     "date": "14-Nov-2026",
-    "time": "10:45 PM",
+    "time": "01:45 PM",
     "screen": "Red Lounge",
     "city": "RWP/ISB",
     "source": "raiha"
@@ -1666,17 +1666,6 @@
     "movie": "I Play Rocky",
     "format": "2D",
     "date": "14-Nov-2026",
-    "time": "11:15 AM",
-    "screen": "Red Lounge",
-    "city": "RWP/ISB",
-    "source": "raiha"
-  },
-  {
-    "cinema": "Raiha CineGold",
-    "location": "Bahria Town Islamabad",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "14-Nov-2026",
     "time": "04:00 PM",
     "screen": "Red Lounge",
     "city": "RWP/ISB",
@@ -1689,6 +1678,17 @@
     "format": "2D",
     "date": "14-Nov-2026",
     "time": "08:15 PM",
+    "screen": "Red Lounge",
+    "city": "RWP/ISB",
+    "source": "raiha"
+  },
+  {
+    "cinema": "Raiha CineGold",
+    "location": "Bahria Town Islamabad",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "14-Nov-2026",
+    "time": "11:15 AM",
     "screen": "Red Lounge",
     "city": "RWP/ISB",
     "source": "raiha"
@@ -1754,17 +1754,6 @@
     "movie": "Ebenezer",
     "format": "2D",
     "date": "14-Nov-2026",
-    "time": "06:00 PM",
-    "screen": "Red Lounge",
-    "city": "Karachi",
-    "source": "raiha"
-  },
-  {
-    "cinema": "Raiha CineGold",
-    "location": "Bahria Town Karachi",
-    "movie": "Ebenezer",
-    "format": "2D",
-    "date": "14-Nov-2026",
     "time": "11:30 AM",
     "screen": "Platinum Lounge",
     "city": "Karachi",
@@ -1798,30 +1787,8 @@
     "movie": "Ghost Soldier",
     "format": "2D",
     "date": "14-Nov-2026",
-    "time": "11:15 AM",
-    "screen": "Red Lounge",
-    "city": "Karachi",
-    "source": "raiha"
-  },
-  {
-    "cinema": "Raiha CineGold",
-    "location": "Bahria Town Karachi",
-    "movie": "Ghost Soldier",
-    "format": "2D",
-    "date": "14-Nov-2026",
     "time": "02:00 PM",
     "screen": "Platinum Lounge",
-    "city": "Karachi",
-    "source": "raiha"
-  },
-  {
-    "cinema": "Raiha CineGold",
-    "location": "Bahria Town Karachi",
-    "movie": "How To Rob A Bank",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "10:45 PM",
-    "screen": "Red Lounge",
     "city": "Karachi",
     "source": "raiha"
   },
@@ -1875,41 +1842,8 @@
     "movie": "I Play Rocky",
     "format": "2D",
     "date": "14-Nov-2026",
-    "time": "01:00 PM",
-    "screen": "Red Lounge",
-    "city": "Karachi",
-    "source": "raiha"
-  },
-  {
-    "cinema": "Raiha CineGold",
-    "location": "Bahria Town Karachi",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "08:15 PM",
-    "screen": "Red Lounge",
-    "city": "Karachi",
-    "source": "raiha"
-  },
-  {
-    "cinema": "Raiha CineGold",
-    "location": "Bahria Town Karachi",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "14-Nov-2026",
     "time": "10:45 PM",
     "screen": "Platinum Lounge",
-    "city": "Karachi",
-    "source": "raiha"
-  },
-  {
-    "cinema": "Raiha CineGold",
-    "location": "Bahria Town Karachi",
-    "movie": "Wildwood",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "03:30 PM",
-    "screen": "Red Lounge",
     "city": "Karachi",
     "source": "raiha"
   },
@@ -2059,10 +1993,43 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Icon Tower",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "14-Nov-2026",
+    "time": "01:45 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "14-Nov-2026",
+    "time": "08:45 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
     "movie": "I Play Rocky",
     "format": "2D",
     "date": "14-Nov-2026",
-    "time": "12:45 AM",
+    "time": "06:15 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "14-Nov-2026",
+    "time": "11:00 PM",
     "screen": "",
     "city": "Karachi",
     "source": "arena"
@@ -2173,17 +2140,6 @@
     "format": "2D",
     "date": "14-Nov-2026",
     "time": "03:45 PM",
-    "screen": "",
-    "city": "RWP/ISB",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Phase IV Bahria Town",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "14-Nov-2026",
-    "time": "12:45 AM",
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
@@ -3569,17 +3525,6 @@
     "movie": "Ebenezer",
     "format": "2D",
     "date": "15-Nov-2026",
-    "time": "01:00 AM",
-    "screen": "Red Lounge",
-    "city": "Karachi",
-    "source": "raiha"
-  },
-  {
-    "cinema": "Raiha CineGold",
-    "location": "Bahria Town Karachi",
-    "movie": "Ebenezer",
-    "format": "2D",
-    "date": "15-Nov-2026",
     "time": "02:00 PM",
     "screen": "Gold Lounge",
     "city": "Karachi",
@@ -3593,17 +3538,6 @@
     "date": "15-Nov-2026",
     "time": "11:00 PM",
     "screen": "Gold Lounge",
-    "city": "Karachi",
-    "source": "raiha"
-  },
-  {
-    "cinema": "Raiha CineGold",
-    "location": "Bahria Town Karachi",
-    "movie": "Ebenezer",
-    "format": "2D",
-    "date": "15-Nov-2026",
-    "time": "06:00 PM",
-    "screen": "Red Lounge",
     "city": "Karachi",
     "source": "raiha"
   },
@@ -3657,30 +3591,8 @@
     "movie": "Ghost Soldier",
     "format": "2D",
     "date": "15-Nov-2026",
-    "time": "11:15 AM",
-    "screen": "Red Lounge",
-    "city": "Karachi",
-    "source": "raiha"
-  },
-  {
-    "cinema": "Raiha CineGold",
-    "location": "Bahria Town Karachi",
-    "movie": "Ghost Soldier",
-    "format": "2D",
-    "date": "15-Nov-2026",
     "time": "02:00 PM",
     "screen": "Platinum Lounge",
-    "city": "Karachi",
-    "source": "raiha"
-  },
-  {
-    "cinema": "Raiha CineGold",
-    "location": "Bahria Town Karachi",
-    "movie": "How To Rob A Bank",
-    "format": "2D",
-    "date": "15-Nov-2026",
-    "time": "10:45 PM",
-    "screen": "Red Lounge",
     "city": "Karachi",
     "source": "raiha"
   },
@@ -3745,41 +3657,8 @@
     "movie": "I Play Rocky",
     "format": "2D",
     "date": "15-Nov-2026",
-    "time": "01:00 PM",
-    "screen": "Red Lounge",
-    "city": "Karachi",
-    "source": "raiha"
-  },
-  {
-    "cinema": "Raiha CineGold",
-    "location": "Bahria Town Karachi",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "15-Nov-2026",
-    "time": "08:15 PM",
-    "screen": "Red Lounge",
-    "city": "Karachi",
-    "source": "raiha"
-  },
-  {
-    "cinema": "Raiha CineGold",
-    "location": "Bahria Town Karachi",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "15-Nov-2026",
     "time": "10:45 PM",
     "screen": "Platinum Lounge",
-    "city": "Karachi",
-    "source": "raiha"
-  },
-  {
-    "cinema": "Raiha CineGold",
-    "location": "Bahria Town Karachi",
-    "movie": "Wildwood",
-    "format": "2D",
-    "date": "15-Nov-2026",
-    "time": "03:30 PM",
-    "screen": "Red Lounge",
     "city": "Karachi",
     "source": "raiha"
   },
@@ -3947,6 +3826,83 @@
     "screen": "Gold Lounge",
     "city": "Lahore",
     "source": "raiha"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "10:45 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "01:30 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "How To Rob A Bank",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "11:15 AM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "01:30 AM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "03:15 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "08:15 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "15-Nov-2026",
+    "time": "05:45 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
   },
   {
     "cinema": "The Arena",
@@ -4757,17 +4713,6 @@
     "movie": "Ebenezer",
     "format": "2D",
     "date": "16-Nov-2026",
-    "time": "01:00 AM",
-    "screen": "Red Lounge",
-    "city": "Karachi",
-    "source": "raiha"
-  },
-  {
-    "cinema": "Raiha CineGold",
-    "location": "Bahria Town Karachi",
-    "movie": "Ebenezer",
-    "format": "2D",
-    "date": "16-Nov-2026",
     "time": "02:00 PM",
     "screen": "Gold Lounge",
     "city": "Karachi",
@@ -5135,6 +5080,83 @@
     "screen": "Gold Lounge",
     "city": "Lahore",
     "source": "raiha"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "01:30 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "08:15 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "01:00 AM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "03:15 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "05:45 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "10:30 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "16-Nov-2026",
+    "time": "11:00 AM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
   },
   {
     "cinema": "The Arena",
@@ -5864,6 +5886,83 @@
   },
   {
     "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "10:45 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "Ghost Soldier",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "01:30 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "How To Rob A Bank",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "11:15 AM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "01:00 AM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "03:15 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "08:15 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "05:45 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
     "location": "Bahria Orchard",
     "movie": "Ebenezer",
     "format": "2D",
@@ -6543,6 +6642,83 @@
     "screen": "Gold Lounge",
     "city": "Lahore",
     "source": "raiha"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "01:30 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "Ebenezer",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "08:15 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "01:00 AM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "03:15 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "05:45 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "10:30 PM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "11:00 AM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
   },
   {
     "cinema": "The Arena",
@@ -7236,6 +7412,17 @@
     "screen": "Gold Lounge",
     "city": "Lahore",
     "source": "raiha"
+  },
+  {
+    "cinema": "The Arena",
+    "location": "Bahria Icon Tower",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "01:00 AM",
+    "screen": "",
+    "city": "Karachi",
+    "source": "arena"
   },
   {
     "cinema": "The Arena",
