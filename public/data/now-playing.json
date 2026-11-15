@@ -109,14 +109,6 @@
     "description": "",
     "releaseDate": "2024-08-30"
   },
-  "OTHER MOMMY": {
-    "title": "Other Mommy",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/fGRNCssTRrhYZxNzykGGCoMsAVq.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=-mnTITqqiT0",
-    "trailerId": "-mnTITqqiT0",
-    "description": "Young Bela forms a relationship with a sinister entity in her home that looks uncannily like her own mother, drawing her into a terrifying and increasingly dark world.",
-    "releaseDate": "2026-10-07"
-  },
   "RESIDENT EVIL": {
     "title": "Resident Evil",
     "posterUrl": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
@@ -166,7 +158,7 @@
     "releaseDate": "2026-10-30"
   },
   "THE CAT IN THE HAT": {
-    "title": "The Cat in the Hat",
+    "title": "The Cat In The Hat",
     "posterUrl": "https://image.tmdb.org/t/p/w500/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=tkZpcypT8Z4",
     "trailerId": "tkZpcypT8Z4",
@@ -188,14 +180,6 @@
     "trailerId": "Dr060OLTodE",
     "description": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "releaseDate": "2026-11-18"
-  },
-  "TUTT PAINI NE": {
-    "title": "Tutt Paini Ne",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/ad9jhXI8pXAK6uD1V5EhIMFbKFA.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=9PZN30QAmL8",
-    "trailerId": "9PZN30QAmL8",
-    "description": "Blending comedy with heartfelt family moments, this movie explores the clash between cultural pride and modern aspirations through characters every Punjabi household will recognise.",
-    "releaseDate": "2026-09-25"
   },
   "VICTORIAN PSYCHO": {
     "title": "Victorian Psycho",
