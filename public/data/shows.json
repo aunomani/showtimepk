@@ -2073,17 +2073,6 @@
     "movie": "I Play Rocky",
     "format": "2D",
     "date": "15-Nov-2026",
-    "time": "01:30 AM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "15-Nov-2026",
     "time": "03:15 PM",
     "screen": "",
     "city": "Karachi",
@@ -2206,17 +2195,6 @@
     "format": "2D",
     "date": "15-Nov-2026",
     "time": "11:00 PM",
-    "screen": "",
-    "city": "RWP/ISB",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Phase IV Bahria Town",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "15-Nov-2026",
-    "time": "12:45 AM",
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
@@ -2614,17 +2592,6 @@
     "date": "16-Nov-2026",
     "time": "08:45 PM",
     "screen": "PLATINUM",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "The Canvas",
-    "format": "2D",
-    "date": "16-Nov-2026",
-    "time": "11:45 PM",
-    "screen": "GOLD-1",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -3852,6 +3819,28 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
+    "movie": "The Canvas",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "12:00 AM",
+    "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "The Canvas",
+    "format": "2D",
+    "date": "17-Nov-2026",
+    "time": "11:45 PM",
+    "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
     "movie": "Wildwood",
     "format": "2D",
     "date": "17-Nov-2026",
@@ -4903,6 +4892,17 @@
     "time": "02:00 PM",
     "screen": "SCREEN5",
     "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "The Canvas",
+    "format": "2D",
+    "date": "18-Nov-2026",
+    "time": "11:30 PM",
+    "screen": "GOLD-1",
+    "city": "Karachi",
     "source": "cinepax"
   },
   {
