@@ -15,6 +15,12 @@
     "description": "A romantic deception spirals into household chaos when a family must construct an elaborate web of lies to conceal a secret relationship.",
     "releaseDate": "2026-06-25"
   },
+  "CHAKKVEN": {
+    "title": "Chakkven",
+    "posterUrl": "",
+    "trailerUrl": "",
+    "trailerId": ""
+  },
   "CLAYFACE": {
     "title": "Clayface",
     "posterUrl": "https://image.tmdb.org/t/p/w500/9l1NuFjel2j89hiuiJbsxfblqjy.jpg",
@@ -93,6 +99,14 @@
     "description": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
     "releaseDate": "2026-11-06"
   },
+  "INDIA VS PAKISTAN": {
+    "title": "India Vs Pakistan",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/yqLODRtuvqm9jIGAeH4a37OdBwn.jpg",
+    "trailerUrl": "",
+    "trailerId": "",
+    "description": "It is only after moving in to their shared office space do Karthick and Mellina realize that they are in the same profession — law. So, they decide that whoever gets a case first will stay in the place and fight tooth-and-nail to get a case. Meanwhile, a cop, who is searching for a DVD containing video of his illegal encounter, is after Mellina thinking that she is in possession of it.",
+    "releaseDate": "2015-05-08"
+  },
   "KAFIRUN": {
     "title": "Kafirun",
     "posterUrl": "https://image.tmdb.org/t/p/w500/1OHtBiPprK9jRzPj0tieCr8xFBA.jpg",
@@ -164,6 +178,14 @@
     "trailerId": "Dr060OLTodE",
     "description": "Return to the world of Panem 24 years before the events of The Hunger Games, starting on the morning of the reaping of the 50th Hunger Games, also known as the Second Quarter Quell.",
     "releaseDate": "2026-11-18"
+  },
+  "THE ODYSSEY": {
+    "title": "The Odyssey",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=AyIZ9tiiN8I",
+    "trailerId": "AyIZ9tiiN8I",
+    "description": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+    "releaseDate": "2026-07-15"
   },
   "VICTORIAN PSYCHO": {
     "title": "Victorian Psycho",
