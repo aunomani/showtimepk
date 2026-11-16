@@ -99,14 +99,6 @@
     "description": "The electrifying true story about an unknown actor with an unshakable belief that he wasn't just meant to write Rocky—he was meant to be Rocky Balboa. Told \"no\" at every turn, Sylvester Stallone bets everything on himself, holding the line on playing the lead against seemingly impossible odds.",
     "releaseDate": "2026-11-06"
   },
-  "INDIA VS PAKISTAN": {
-    "title": "India Vs Pakistan",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/yqLODRtuvqm9jIGAeH4a37OdBwn.jpg",
-    "trailerUrl": "",
-    "trailerId": "",
-    "description": "It is only after moving in to their shared office space do Karthick and Mellina realize that they are in the same profession — law. So, they decide that whoever gets a case first will stay in the place and fight tooth-and-nail to get a case. Meanwhile, a cop, who is searching for a DVD containing video of his illegal encounter, is after Mellina thinking that she is in possession of it.",
-    "releaseDate": "2015-05-08"
-  },
   "KAFIRUN": {
     "title": "Kafirun",
     "posterUrl": "https://image.tmdb.org/t/p/w500/1OHtBiPprK9jRzPj0tieCr8xFBA.jpg",
@@ -114,6 +106,12 @@
     "trailerId": "",
     "description": "",
     "releaseDate": "2024-08-30"
+  },
+  "PAKISTAN VS INDIA SAFF CHAMPIONSHIP FINALE": {
+    "title": "Pakistan Vs India SAFF Championship Finale",
+    "posterUrl": "",
+    "trailerUrl": "",
+    "trailerId": ""
   },
   "RESIDENT EVIL": {
     "title": "Resident Evil",
