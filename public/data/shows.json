@@ -1509,17 +1509,6 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Icon Tower",
-    "movie": "Ghost Soldier",
-    "format": "2D",
-    "date": "16-Nov-2026",
-    "time": "01:00 AM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
     "movie": "I Play Rocky",
     "format": "2D",
     "date": "16-Nov-2026",
@@ -1656,17 +1645,6 @@
     "format": "2D",
     "date": "16-Nov-2026",
     "time": "11:00 PM",
-    "screen": "",
-    "city": "RWP/ISB",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Phase IV Bahria Town",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "16-Nov-2026",
-    "time": "12:45 AM",
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
