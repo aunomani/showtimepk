@@ -1556,17 +1556,6 @@
     "movie": "How To Rob A Bank",
     "format": "2D",
     "date": "17-Nov-2026",
-    "time": "01:00 AM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "How To Rob A Bank",
-    "format": "2D",
-    "date": "17-Nov-2026",
     "time": "11:15 AM",
     "screen": "",
     "city": "Karachi",
@@ -1700,17 +1689,6 @@
     "format": "2D",
     "date": "17-Nov-2026",
     "time": "11:00 PM",
-    "screen": "",
-    "city": "RWP/ISB",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Phase IV Bahria Town",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "17-Nov-2026",
-    "time": "12:45 AM",
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
