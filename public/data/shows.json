@@ -398,17 +398,6 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "18-Nov-2026",
-    "time": "12:45 PM",
-    "screen": "GOLD-1",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
     "movie": "Resident Evil",
     "format": "2D",
     "date": "18-Nov-2026",
@@ -446,17 +435,6 @@
     "format": "2D",
     "date": "18-Nov-2026",
     "time": "03:30 PM",
-    "screen": "PLATINUM",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Street Fighter",
-    "format": "2D",
-    "date": "18-Nov-2026",
-    "time": "01:00 PM",
     "screen": "PLATINUM",
     "city": "Karachi",
     "source": "cinepax"
@@ -1813,6 +1791,28 @@
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "I Play Rocky",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "12:45 PM",
+    "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Street Fighter",
+    "format": "2D",
+    "date": "19-Nov-2026",
+    "time": "01:00 PM",
+    "screen": "PLATINUM",
+    "city": "Karachi",
+    "source": "cinepax"
   },
   {
     "cinema": "Cinepax",
@@ -3305,17 +3305,6 @@
     "movie": "Godzilla Minus Zero (Subtitles)",
     "format": "2D",
     "date": "20-Nov-2026",
-    "time": "06:00 PM",
-    "screen": "SCREEN 1- SILVER",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Godzilla Minus Zero (Subtitles)",
-    "format": "2D",
-    "date": "20-Nov-2026",
     "time": "08:45 PM",
     "screen": "SCREEN 2 - PLATINUM",
     "city": "RWP/ISB",
@@ -3371,7 +3360,7 @@
     "movie": "The Hunger Games: Sunrise on the Reaping",
     "format": "2D",
     "date": "20-Nov-2026",
-    "time": "08:30 PM",
+    "time": "09:00 PM",
     "screen": "SCREEN 1- SILVER",
     "city": "RWP/ISB",
     "source": "cinepax"
@@ -4259,6 +4248,17 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
+    "movie": "The Hunger Games: Sunrise on the Reaping",
+    "format": "2D",
+    "date": "21-Nov-2026",
+    "time": "06:00 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
     "movie": "The Odyssey",
     "format": "2D",
     "date": "21-Nov-2026",
@@ -4341,17 +4341,6 @@
     "date": "21-Nov-2026",
     "time": "03:00 PM",
     "screen": "GOLD-2",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Spider-Man: Brand New Day",
-    "format": "2D",
-    "date": "21-Nov-2026",
-    "time": "12:45 PM",
-    "screen": "PLATINUM",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -4884,6 +4873,17 @@
     "source": "cinepax"
   },
   {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Spider-Man: Brand New Day",
+    "format": "2D",
+    "date": "22-Nov-2026",
+    "time": "12:45 PM",
+    "screen": "PLATINUM",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
     "cinema": "Cinestar",
     "location": "Raya Golf Resort DHA Phase 6 LHR",
     "movie": "Godzilla Minus Zero (Subtitles)",
@@ -5238,6 +5238,17 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
+    "movie": "Godzilla Minus Zero (Subtitles)",
+    "format": "2D",
+    "date": "23-Nov-2026",
+    "time": "06:00 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
     "movie": "Spider-Man: Brand New Day",
     "format": "2D",
     "date": "23-Nov-2026",
@@ -5276,6 +5287,17 @@
     "date": "23-Nov-2026",
     "time": "11:00 PM",
     "screen": "SCREEN4",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "The Hunger Games: Sunrise on the Reaping",
+    "format": "2D",
+    "date": "23-Nov-2026",
+    "time": "08:30 PM",
+    "screen": "SCREEN 1- SILVER",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
