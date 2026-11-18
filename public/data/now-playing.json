@@ -17,9 +17,11 @@
   },
   "CHAKKVEN": {
     "title": "Chakkven",
-    "posterUrl": "",
+    "posterUrl": "https://image.tmdb.org/t/p/w500/lmgM5V9izLecJ3XUTqnJsiejwLa.jpg",
     "trailerUrl": "",
-    "trailerId": ""
+    "trailerId": "",
+    "description": "Written and Directed by Happy Rode",
+    "releaseDate": "2026-11-20"
   },
   "CLAYFACE": {
     "title": "Clayface",
@@ -63,9 +65,11 @@
   },
   "HAR MAIDAN FATEH": {
     "title": "Har Maidan Fateh",
-    "posterUrl": "",
-    "trailerUrl": "",
-    "trailerId": ""
+    "posterUrl": "https://image.tmdb.org/t/p/w500/auk7yr5TftIiDQvmgY3Aj2meiT8.jpg",
+    "trailerUrl": "https://www.youtube.com/watch?v=gIGMqLBZVj8",
+    "trailerId": "gIGMqLBZVj8",
+    "description": "The story follows five troubled youths who unite after participating in a reality show to build a startup. They face mounting challenges, harsh realities, family expectations, and rising ambitions as they try to carve out a path to success.",
+    "releaseDate": "2026-11-13"
   },
   "HEART OF THE BEAST": {
     "title": "Heart of the Beast",
@@ -164,7 +168,7 @@
     "releaseDate": "2026-10-30"
   },
   "THE CAT IN THE HAT": {
-    "title": "The Cat In The Hat",
+    "title": "The Cat in the Hat",
     "posterUrl": "https://image.tmdb.org/t/p/w500/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=tkZpcypT8Z4",
     "trailerId": "tkZpcypT8Z4",

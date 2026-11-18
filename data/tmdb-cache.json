@@ -1000,8 +1000,15 @@
     }
   },
   "harmaidanfateh": {
-    "fetchedAt": "2026-11-16T19:50:42.002Z",
-    "meta": null
+    "fetchedAt": "2026-11-18T19:51:47.994Z",
+    "meta": {
+      "title": "Har Maidan Fateh",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/auk7yr5TftIiDQvmgY3Aj2meiT8.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=gIGMqLBZVj8",
+      "trailerId": "gIGMqLBZVj8",
+      "description": "The story follows five troubled youths who unite after participating in a reality show to build a startup. They face mounting challenges, harsh realities, family expectations, and rising ambitions as they try to carve out a path to success.",
+      "releaseDate": "2026-11-13"
+    }
   },
   "howtorobabank": {
     "fetchedAt": "2026-11-10T14:03:07.348Z",
@@ -1103,8 +1110,15 @@
     }
   },
   "chakkven": {
-    "fetchedAt": "2026-11-16T15:48:00.788Z",
-    "meta": null
+    "fetchedAt": "2026-11-18T19:51:47.591Z",
+    "meta": {
+      "title": "Chakkven",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lmgM5V9izLecJ3XUTqnJsiejwLa.jpg",
+      "trailerUrl": "",
+      "trailerId": "",
+      "description": "Written and Directed by Happy Rode",
+      "releaseDate": "2026-11-20"
+    }
   },
   "indiavspakistan": {
     "fetchedAt": "2026-11-16T15:48:01.169Z",
