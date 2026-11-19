@@ -69,22 +69,6 @@
     "trailerUrl": "",
     "trailerId": ""
   },
-  "HAR MAIDAN FATEH": {
-    "title": "Har Maidan Fateh",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/auk7yr5TftIiDQvmgY3Aj2meiT8.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=gIGMqLBZVj8",
-    "trailerId": "gIGMqLBZVj8",
-    "description": "The story follows five troubled youths who unite after participating in a reality show to build a startup. They face mounting challenges, harsh realities, family expectations, and rising ambitions as they try to carve out a path to success.",
-    "releaseDate": "2026-11-13"
-  },
-  "HEART OF THE BEAST": {
-    "title": "Heart of the Beast",
-    "posterUrl": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-    "trailerUrl": "https://www.youtube.com/watch?v=UkMuGKqAux4",
-    "trailerId": "UkMuGKqAux4",
-    "description": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-    "releaseDate": "2026-09-19"
-  },
   "HOPE": {
     "title": "Hope",
     "posterUrl": "https://image.tmdb.org/t/p/w500/6VY1ZKgpsc8CfGsQcCGiYEgHdH0.jpg",
@@ -174,7 +158,7 @@
     "releaseDate": "2026-10-30"
   },
   "THE CAT IN THE HAT": {
-    "title": "The Cat in the Hat",
+    "title": "The Cat In The Hat",
     "posterUrl": "https://image.tmdb.org/t/p/w500/tYH4rQZlHtuFSeDS0bsV17khvJC.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=tkZpcypT8Z4",
     "trailerId": "tkZpcypT8Z4",
@@ -182,7 +166,7 @@
     "releaseDate": "2026-11-04"
   },
   "THE HUNGER GAMES: SUNRISE ON THE REAPING": {
-    "title": "The Hunger Games: Sunrise on the Reaping",
+    "title": "The Hunger Games: Sunrise On The Reaping",
     "posterUrl": "https://image.tmdb.org/t/p/w500/j1MNyNNgNQL6f27cb3m3uKaPKd6.jpg",
     "trailerUrl": "https://www.youtube.com/watch?v=Dr060OLTodE",
     "trailerId": "Dr060OLTodE",
