@@ -104,8 +104,8 @@
     "movie": "Carry On Jatta 4",
     "format": "2D",
     "date": "19-Nov-2026",
-    "time": "04:00 PM",
-    "screen": "SCREEN 2 - PLATINUM",
+    "time": "08:00 PM",
+    "screen": "SCREEN 1- SILVER",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -115,8 +115,8 @@
     "movie": "Carry On Jatta 4",
     "format": "2D",
     "date": "19-Nov-2026",
-    "time": "08:00 PM",
-    "screen": "SCREEN 1- SILVER",
+    "time": "04:00 PM",
+    "screen": "SCREEN 2 - PLATINUM",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -566,6 +566,17 @@
     "movie": "The Canvas",
     "format": "2D",
     "date": "19-Nov-2026",
+    "time": "06:00 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "The Canvas",
+    "format": "2D",
+    "date": "19-Nov-2026",
     "time": "01:00 PM",
     "screen": "Screen 5",
     "city": "Lahore",
@@ -579,17 +590,6 @@
     "date": "19-Nov-2026",
     "time": "08:00 PM",
     "screen": "Screen 5",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "The Canvas",
-    "format": "2D",
-    "date": "19-Nov-2026",
-    "time": "06:00 PM",
-    "screen": "Screen 4",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -1600,17 +1600,6 @@
     "movie": "How To Rob A Bank",
     "format": "2D",
     "date": "19-Nov-2026",
-    "time": "01:00 AM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "How To Rob A Bank",
-    "format": "2D",
-    "date": "19-Nov-2026",
     "time": "11:15 AM",
     "screen": "",
     "city": "Karachi",
@@ -1754,17 +1743,6 @@
     "movie": "I Play Rocky",
     "format": "2D",
     "date": "19-Nov-2026",
-    "time": "12:45 AM",
-    "screen": "",
-    "city": "RWP/ISB",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Phase IV Bahria Town",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "19-Nov-2026",
     "time": "08:30 PM",
     "screen": "",
     "city": "RWP/ISB",
@@ -1886,28 +1864,6 @@
     "movie": "Belkis (Urdu Dubbed)",
     "format": "2D",
     "date": "20-Nov-2026",
-    "time": "06:00 PM",
-    "screen": "SCREEN2",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Belkis (Urdu Dubbed)",
-    "format": "2D",
-    "date": "20-Nov-2026",
-    "time": "11:30 PM",
-    "screen": "SCREEN2",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Belkis (Urdu Dubbed)",
-    "format": "2D",
-    "date": "20-Nov-2026",
     "time": "02:30 PM",
     "screen": "SCREEN 2 - PLATINUM",
     "city": "RWP/ISB",
@@ -1932,17 +1888,6 @@
     "date": "20-Nov-2026",
     "time": "07:30 PM",
     "screen": "SCREEN4",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Chakkven (Punjabi)",
-    "format": "2D",
-    "date": "20-Nov-2026",
-    "time": "08:15 PM",
-    "screen": "SCREEN2",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -2051,41 +1996,8 @@
     "movie": "The Hunger Games: Sunrise on the Reaping",
     "format": "2D",
     "date": "20-Nov-2026",
-    "time": "06:00 PM",
-    "screen": "SCREEN 1- SILVER",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "The Hunger Games: Sunrise on the Reaping",
-    "format": "2D",
-    "date": "20-Nov-2026",
     "time": "09:00 PM",
     "screen": "SCREEN 1- SILVER",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "The Odyssey",
-    "format": "2D",
-    "date": "20-Nov-2026",
-    "time": "10:00 PM",
-    "screen": "SCREEN5",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Wildwood",
-    "format": "2D",
-    "date": "20-Nov-2026",
-    "time": "03:15 PM",
-    "screen": "SCREEN2",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -2150,8 +2062,8 @@
     "movie": "Godzilla Minus Zero (Subtitles)",
     "format": "2D",
     "date": "20-Nov-2026",
-    "time": "05:30 PM",
-    "screen": "PLATINUM",
+    "time": "09:00 PM",
+    "screen": "GOLD-1",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -2161,8 +2073,8 @@
     "movie": "Godzilla Minus Zero (Subtitles)",
     "format": "2D",
     "date": "20-Nov-2026",
-    "time": "09:00 PM",
-    "screen": "GOLD-1",
+    "time": "05:30 PM",
+    "screen": "PLATINUM",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -2216,8 +2128,8 @@
     "movie": "The Hunger Games: Sunrise on the Reaping",
     "format": "2D",
     "date": "20-Nov-2026",
-    "time": "03:45 PM",
-    "screen": "GOLD-1",
+    "time": "08:15 PM",
+    "screen": "PLATINUM",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -2227,20 +2139,9 @@
     "movie": "The Hunger Games: Sunrise on the Reaping",
     "format": "2D",
     "date": "20-Nov-2026",
-    "time": "08:15 PM",
-    "screen": "PLATINUM",
+    "time": "03:45 PM",
+    "screen": "GOLD-1",
     "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Belkis (Urdu Dubbed)",
-    "format": "2D",
-    "date": "20-Nov-2026",
-    "time": "03:15 PM",
-    "screen": "Platinum 2",
-    "city": "Lahore",
     "source": "cinepax"
   },
   {
@@ -2251,6 +2152,17 @@
     "date": "20-Nov-2026",
     "time": "11:00 PM",
     "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Belkis (Urdu Dubbed)",
+    "format": "2D",
+    "date": "20-Nov-2026",
+    "time": "03:15 PM",
+    "screen": "Platinum 2",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -2917,11 +2829,44 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
+    "movie": "Belkis (Urdu Dubbed)",
+    "format": "2D",
+    "date": "21-Nov-2026",
+    "time": "06:00 PM",
+    "screen": "SCREEN2",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Belkis (Urdu Dubbed)",
+    "format": "2D",
+    "date": "21-Nov-2026",
+    "time": "11:30 PM",
+    "screen": "SCREEN2",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
     "movie": "Carry On Jatta 4",
     "format": "2D",
     "date": "21-Nov-2026",
     "time": "07:45 PM",
     "screen": "SCREEN4",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Chakkven (Punjabi)",
+    "format": "2D",
+    "date": "21-Nov-2026",
+    "time": "08:15 PM",
+    "screen": "SCREEN2",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -2943,17 +2888,6 @@
     "format": "2D",
     "date": "21-Nov-2026",
     "time": "04:30 PM",
-    "screen": "SCREEN3",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Godzilla Minus Zero (Subtitles)",
-    "format": "2D",
-    "date": "21-Nov-2026",
-    "time": "10:45 PM",
     "screen": "SCREEN3",
     "city": "RWP/ISB",
     "source": "cinepax"
@@ -3008,8 +2942,30 @@
     "movie": "The Hunger Games: Sunrise on the Reaping",
     "format": "2D",
     "date": "21-Nov-2026",
-    "time": "11:00 PM",
-    "screen": "SCREEN4",
+    "time": "06:00 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "The Odyssey",
+    "format": "2D",
+    "date": "21-Nov-2026",
+    "time": "10:00 PM",
+    "screen": "SCREEN5",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Wildwood",
+    "format": "2D",
+    "date": "21-Nov-2026",
+    "time": "03:15 PM",
+    "screen": "SCREEN2",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -3052,8 +3008,8 @@
     "movie": "Godzilla Minus Zero (Subtitles)",
     "format": "2D",
     "date": "21-Nov-2026",
-    "time": "06:00 PM",
-    "screen": "PLATINUM",
+    "time": "01:15 PM",
+    "screen": "GOLD-1",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -3063,8 +3019,8 @@
     "movie": "Godzilla Minus Zero (Subtitles)",
     "format": "2D",
     "date": "21-Nov-2026",
-    "time": "01:15 PM",
-    "screen": "GOLD-1",
+    "time": "06:00 PM",
+    "screen": "PLATINUM",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -3096,8 +3052,8 @@
     "movie": "The Hunger Games: Sunrise on the Reaping",
     "format": "2D",
     "date": "21-Nov-2026",
-    "time": "04:00 PM",
-    "screen": "GOLD-1",
+    "time": "08:45 PM",
+    "screen": "PLATINUM",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -3107,20 +3063,9 @@
     "movie": "The Hunger Games: Sunrise on the Reaping",
     "format": "2D",
     "date": "21-Nov-2026",
-    "time": "08:45 PM",
-    "screen": "PLATINUM",
+    "time": "04:00 PM",
+    "screen": "GOLD-1",
     "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Belkis (Urdu Dubbed)",
-    "format": "2D",
-    "date": "21-Nov-2026",
-    "time": "09:00 PM",
-    "screen": "Platinum 2",
-    "city": "Lahore",
     "source": "cinepax"
   },
   {
@@ -3131,6 +3076,17 @@
     "date": "21-Nov-2026",
     "time": "01:00 PM",
     "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Belkis (Urdu Dubbed)",
+    "format": "2D",
+    "date": "21-Nov-2026",
+    "time": "09:00 PM",
+    "screen": "Platinum 2",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -3173,8 +3129,8 @@
     "movie": "Godzilla Minus Zero (Subtitles)",
     "format": "2D",
     "date": "21-Nov-2026",
-    "time": "10:45 PM",
-    "screen": "Platinum 2",
+    "time": "05:30 PM",
+    "screen": "Screen 4",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -3184,8 +3140,8 @@
     "movie": "Godzilla Minus Zero (Subtitles)",
     "format": "2D",
     "date": "21-Nov-2026",
-    "time": "05:30 PM",
-    "screen": "Screen 4",
+    "time": "10:45 PM",
+    "screen": "Platinum 2",
     "city": "Lahore",
     "source": "cinepax"
   },
@@ -4336,44 +4292,11 @@
   {
     "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
-    "movie": "Belkis (Urdu Dubbed)",
-    "format": "2D",
-    "date": "23-Nov-2026",
-    "time": "02:45 PM",
-    "screen": "SCREEN2",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Belkis (Urdu Dubbed)",
-    "format": "2D",
-    "date": "23-Nov-2026",
-    "time": "10:30 PM",
-    "screen": "SCREEN2",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
     "movie": "Carry On Jatta 4",
     "format": "2D",
     "date": "23-Nov-2026",
     "time": "08:15 PM",
     "screen": "SCREEN4",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Chakkven (Punjabi)",
-    "format": "2D",
-    "date": "23-Nov-2026",
-    "time": "07:15 PM",
-    "screen": "SCREEN2",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -4395,6 +4318,17 @@
     "format": "2D",
     "date": "23-Nov-2026",
     "time": "04:45 PM",
+    "screen": "SCREEN3",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Godzilla Minus Zero (Subtitles)",
+    "format": "2D",
+    "date": "23-Nov-2026",
+    "time": "10:45 PM",
     "screen": "SCREEN3",
     "city": "RWP/ISB",
     "source": "cinepax"
@@ -4439,6 +4373,17 @@
     "format": "2D",
     "date": "23-Nov-2026",
     "time": "05:15 PM",
+    "screen": "SCREEN4",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "The Hunger Games: Sunrise on the Reaping",
+    "format": "2D",
+    "date": "23-Nov-2026",
+    "time": "11:00 PM",
     "screen": "SCREEN4",
     "city": "RWP/ISB",
     "source": "cinepax"
@@ -4515,17 +4460,6 @@
     "movie": "Godzilla Minus Zero (Subtitles)",
     "format": "2D",
     "date": "23-Nov-2026",
-    "time": "08:15 PM",
-    "screen": "PLATINUM",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Godzilla Minus Zero (Subtitles)",
-    "format": "2D",
-    "date": "23-Nov-2026",
     "time": "01:45 PM",
     "screen": "GOLD-1",
     "city": "Karachi",
@@ -4539,6 +4473,17 @@
     "date": "23-Nov-2026",
     "time": "06:30 PM",
     "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Godzilla Minus Zero (Subtitles)",
+    "format": "2D",
+    "date": "23-Nov-2026",
+    "time": "08:15 PM",
+    "screen": "PLATINUM",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -4661,6 +4606,39 @@
     "time": "05:45 PM",
     "screen": "GOLD-1",
     "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Belkis (Urdu Dubbed)",
+    "format": "2D",
+    "date": "26-Nov-2026",
+    "time": "02:45 PM",
+    "screen": "SCREEN2",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Belkis (Urdu Dubbed)",
+    "format": "2D",
+    "date": "26-Nov-2026",
+    "time": "10:30 PM",
+    "screen": "SCREEN2",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Chakkven (Punjabi)",
+    "format": "2D",
+    "date": "26-Nov-2026",
+    "time": "07:15 PM",
+    "screen": "SCREEN2",
+    "city": "RWP/ISB",
     "source": "cinepax"
   }
 ]
