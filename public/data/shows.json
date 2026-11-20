@@ -563,11 +563,33 @@
   {
     "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
+    "movie": "Chakkven (Punjabi)",
+    "format": "2D",
+    "date": "20-Nov-2026",
+    "time": "02:30 PM",
+    "screen": "Screen 3",
+    "city": "Lahore",
+    "source": "cinestar"
+  },
+  {
+    "cinema": "Cinestar",
+    "location": "Township Commercial Area LHR",
     "movie": "Godzilla Minus Zero (Subtitles)",
     "format": "2D",
     "date": "20-Nov-2026",
     "time": "03:15 PM",
     "screen": "Screen 2",
+    "city": "Lahore",
+    "source": "cinestar"
+  },
+  {
+    "cinema": "Cinestar",
+    "location": "Township Commercial Area LHR",
+    "movie": "Godzilla Minus Zero (Subtitles)",
+    "format": "2D",
+    "date": "20-Nov-2026",
+    "time": "05:00 PM",
+    "screen": "Screen 3",
     "city": "Lahore",
     "source": "cinestar"
   },
@@ -599,7 +621,7 @@
     "movie": "The Hunger Games: Sunrise On The Reaping",
     "format": "2D",
     "date": "20-Nov-2026",
-    "time": "12:30 PM",
+    "time": "05:30 PM",
     "screen": "Screen 2",
     "city": "Lahore",
     "source": "cinestar"
@@ -610,8 +632,19 @@
     "movie": "The Hunger Games: Sunrise On The Reaping",
     "format": "2D",
     "date": "20-Nov-2026",
-    "time": "05:30 PM",
-    "screen": "Screen 2",
+    "time": "07:15 PM",
+    "screen": "Screen 3",
+    "city": "Lahore",
+    "source": "cinestar"
+  },
+  {
+    "cinema": "Cinestar",
+    "location": "Township Commercial Area LHR",
+    "movie": "The Hunger Games: Sunrise On The Reaping",
+    "format": "2D",
+    "date": "20-Nov-2026",
+    "time": "10:00 PM",
+    "screen": "Screen 3",
     "city": "Lahore",
     "source": "cinestar"
   },
@@ -2257,11 +2290,55 @@
   {
     "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
+    "movie": "Belkis (Urdu Dubbed)",
+    "format": "2D",
+    "date": "21-Nov-2026",
+    "time": "01:00 PM",
+    "screen": "Screen 3",
+    "city": "Lahore",
+    "source": "cinestar"
+  },
+  {
+    "cinema": "Cinestar",
+    "location": "Township Commercial Area LHR",
+    "movie": "Chakkven (Punjabi)",
+    "format": "2D",
+    "date": "21-Nov-2026",
+    "time": "02:30 PM",
+    "screen": "Screen 3",
+    "city": "Lahore",
+    "source": "cinestar"
+  },
+  {
+    "cinema": "Cinestar",
+    "location": "Township Commercial Area LHR",
+    "movie": "Godzilla Minus Zero (Subtitles)",
+    "format": "2D",
+    "date": "21-Nov-2026",
+    "time": "12:45 AM",
+    "screen": "Screen 3",
+    "city": "Lahore",
+    "source": "cinestar"
+  },
+  {
+    "cinema": "Cinestar",
+    "location": "Township Commercial Area LHR",
     "movie": "Godzilla Minus Zero (Subtitles)",
     "format": "2D",
     "date": "21-Nov-2026",
     "time": "03:15 PM",
     "screen": "Screen 2",
+    "city": "Lahore",
+    "source": "cinestar"
+  },
+  {
+    "cinema": "Cinestar",
+    "location": "Township Commercial Area LHR",
+    "movie": "Godzilla Minus Zero (Subtitles)",
+    "format": "2D",
+    "date": "21-Nov-2026",
+    "time": "05:00 PM",
+    "screen": "Screen 3",
     "city": "Lahore",
     "source": "cinestar"
   },
@@ -2317,6 +2394,28 @@
     "date": "21-Nov-2026",
     "time": "05:30 PM",
     "screen": "Screen 2",
+    "city": "Lahore",
+    "source": "cinestar"
+  },
+  {
+    "cinema": "Cinestar",
+    "location": "Township Commercial Area LHR",
+    "movie": "The Hunger Games: Sunrise On The Reaping",
+    "format": "2D",
+    "date": "21-Nov-2026",
+    "time": "07:15 PM",
+    "screen": "Screen 3",
+    "city": "Lahore",
+    "source": "cinestar"
+  },
+  {
+    "cinema": "Cinestar",
+    "location": "Township Commercial Area LHR",
+    "movie": "The Hunger Games: Sunrise On The Reaping",
+    "format": "2D",
+    "date": "21-Nov-2026",
+    "time": "10:00 PM",
+    "screen": "Screen 3",
     "city": "Lahore",
     "source": "cinestar"
   },
@@ -3984,11 +4083,55 @@
   {
     "cinema": "Cinestar",
     "location": "Township Commercial Area LHR",
+    "movie": "Belkis (Urdu Dubbed)",
+    "format": "2D",
+    "date": "22-Nov-2026",
+    "time": "01:00 PM",
+    "screen": "Screen 3",
+    "city": "Lahore",
+    "source": "cinestar"
+  },
+  {
+    "cinema": "Cinestar",
+    "location": "Township Commercial Area LHR",
+    "movie": "Chakkven (Punjabi)",
+    "format": "2D",
+    "date": "22-Nov-2026",
+    "time": "02:30 PM",
+    "screen": "Screen 3",
+    "city": "Lahore",
+    "source": "cinestar"
+  },
+  {
+    "cinema": "Cinestar",
+    "location": "Township Commercial Area LHR",
+    "movie": "Godzilla Minus Zero (Subtitles)",
+    "format": "2D",
+    "date": "22-Nov-2026",
+    "time": "12:45 AM",
+    "screen": "Screen 3",
+    "city": "Lahore",
+    "source": "cinestar"
+  },
+  {
+    "cinema": "Cinestar",
+    "location": "Township Commercial Area LHR",
     "movie": "Godzilla Minus Zero (Subtitles)",
     "format": "2D",
     "date": "22-Nov-2026",
     "time": "03:15 PM",
     "screen": "Screen 2",
+    "city": "Lahore",
+    "source": "cinestar"
+  },
+  {
+    "cinema": "Cinestar",
+    "location": "Township Commercial Area LHR",
+    "movie": "Godzilla Minus Zero (Subtitles)",
+    "format": "2D",
+    "date": "22-Nov-2026",
+    "time": "05:00 PM",
+    "screen": "Screen 3",
     "city": "Lahore",
     "source": "cinestar"
   },
@@ -4044,6 +4187,28 @@
     "date": "22-Nov-2026",
     "time": "05:30 PM",
     "screen": "Screen 2",
+    "city": "Lahore",
+    "source": "cinestar"
+  },
+  {
+    "cinema": "Cinestar",
+    "location": "Township Commercial Area LHR",
+    "movie": "The Hunger Games: Sunrise On The Reaping",
+    "format": "2D",
+    "date": "22-Nov-2026",
+    "time": "07:15 PM",
+    "screen": "Screen 3",
+    "city": "Lahore",
+    "source": "cinestar"
+  },
+  {
+    "cinema": "Cinestar",
+    "location": "Township Commercial Area LHR",
+    "movie": "The Hunger Games: Sunrise On The Reaping",
+    "format": "2D",
+    "date": "22-Nov-2026",
+    "time": "10:00 PM",
+    "screen": "Screen 3",
     "city": "Lahore",
     "source": "cinestar"
   },
