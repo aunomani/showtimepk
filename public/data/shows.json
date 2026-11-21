@@ -441,6 +441,17 @@
   },
   {
     "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "The Hunger Games: Sunrise On The Reaping",
+    "format": "2D",
+    "date": "21-Nov-2026",
+    "time": "07:05 PM",
+    "screen": "GOLD-2",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
     "movie": "Belkis (Urdu Dubbed)",
     "format": "2D",
@@ -1993,17 +2004,6 @@
   {
     "cinema": "The Arena",
     "location": "Bahria Icon Tower",
-    "movie": "I Play Rocky",
-    "format": "2D",
-    "date": "21-Nov-2026",
-    "time": "12:00 AM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
     "movie": "The Hunger Games: Sunrise On The Reaping",
     "format": "2D",
     "date": "21-Nov-2026",
@@ -2051,17 +2051,6 @@
     "movie": "Godzilla Minus Zero Japanese (Subtitles)",
     "format": "2D",
     "date": "21-Nov-2026",
-    "time": "12:30 AM",
-    "screen": "",
-    "city": "Lahore",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Orchard",
-    "movie": "Godzilla Minus Zero Japanese (Subtitles)",
-    "format": "2D",
-    "date": "21-Nov-2026",
     "time": "02:00 PM",
     "screen": "",
     "city": "Lahore",
@@ -2087,17 +2076,6 @@
     "time": "04:30 PM",
     "screen": "",
     "city": "Lahore",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Phase IV Bahria Town",
-    "movie": "Godzilla Minus Zero Japanese (Subtitles)",
-    "format": "2D",
-    "date": "21-Nov-2026",
-    "time": "01:00 AM",
-    "screen": "",
-    "city": "RWP/ISB",
     "source": "arena"
   },
   {
