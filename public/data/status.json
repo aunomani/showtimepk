@@ -1,55 +1,26 @@
 {
-  "updatedAt": "2026-11-22T08:07:01.985Z",
-  "totalShows": 606,
+  "updatedAt": "2026-11-22T13:51:20.352Z",
+  "totalShows": 653,
   "sources": {
+    "cinepax": {
+      "count": 82,
+      "from": "live"
+    },
     "cinestar": {
-      "count": 22,
+      "count": 90,
       "from": "live"
     },
     "nueplex": {
       "count": 181,
       "from": "live"
     },
+    "arena": {
+      "count": 90,
+      "from": "live"
+    },
     "raiha": {
       "count": 420,
       "from": "live"
-    },
-    "cinepax": {
-      "count": 0,
-      "from": "none"
-    },
-    "arena": {
-      "count": 0,
-      "from": "none",
-      "error": "every Arena request failed"
-    },
-    "fallback:cinepax-amanah-lhr": {
-      "count": 20,
-      "from": "previous"
-    },
-    "fallback:cinepax-jinnah-rwp": {
-      "count": 43,
-      "from": "previous"
-    },
-    "fallback:cinepax-ocean-khi": {
-      "count": 31,
-      "from": "previous"
-    },
-    "fallback:cinepax-packages-lhr": {
-      "count": 14,
-      "from": "previous"
-    },
-    "fallback:arena-khi": {
-      "count": 31,
-      "from": "previous"
-    },
-    "fallback:arena-lhr": {
-      "count": 24,
-      "from": "previous"
-    },
-    "fallback:arena-isb": {
-      "count": 30,
-      "from": "previous"
     }
   }
 }
