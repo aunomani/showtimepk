@@ -1,37 +1,54 @@
 {
-  "updatedAt": "2026-11-22T01:59:44.779Z",
-  "totalShows": 566,
+  "updatedAt": "2026-11-22T08:07:01.985Z",
+  "totalShows": 606,
   "sources": {
-    "cinepax": {
-      "count": 108,
+    "cinestar": {
+      "count": 22,
       "from": "live"
     },
     "nueplex": {
       "count": 181,
       "from": "live"
     },
-    "cinestar": {
-      "count": 24,
+    "raiha": {
+      "count": 420,
       "from": "live"
+    },
+    "cinepax": {
+      "count": 0,
+      "from": "none"
     },
     "arena": {
-      "count": 54,
-      "from": "live"
+      "count": 0,
+      "from": "none",
+      "error": "every Arena request failed"
     },
-    "raiha": {
-      "count": 96,
-      "from": "live"
-    },
-    "fallback:raiha-isb": {
-      "count": 60,
+    "fallback:cinepax-amanah-lhr": {
+      "count": 20,
       "from": "previous"
     },
-    "fallback:raiha-lhr": {
-      "count": 60,
+    "fallback:cinepax-jinnah-rwp": {
+      "count": 43,
+      "from": "previous"
+    },
+    "fallback:cinepax-ocean-khi": {
+      "count": 31,
+      "from": "previous"
+    },
+    "fallback:cinepax-packages-lhr": {
+      "count": 14,
       "from": "previous"
     },
     "fallback:arena-khi": {
       "count": 31,
+      "from": "previous"
+    },
+    "fallback:arena-lhr": {
+      "count": 24,
+      "from": "previous"
+    },
+    "fallback:arena-isb": {
+      "count": 30,
       "from": "previous"
     }
   }
