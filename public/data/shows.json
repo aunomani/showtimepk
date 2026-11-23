@@ -1512,17 +1512,6 @@
     "movie": "The Hunger Games: Sunrise On The Reaping",
     "format": "2D",
     "date": "23-Nov-2026",
-    "time": "12:30 AM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "The Hunger Games: Sunrise On The Reaping",
-    "format": "2D",
-    "date": "23-Nov-2026",
     "time": "04:00 PM",
     "screen": "",
     "city": "Karachi",
@@ -1567,17 +1556,6 @@
     "movie": "Godzilla Minus Zero Japanese (Subtitles)",
     "format": "2D",
     "date": "23-Nov-2026",
-    "time": "12:30 AM",
-    "screen": "",
-    "city": "Lahore",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Orchard",
-    "movie": "Godzilla Minus Zero Japanese (Subtitles)",
-    "format": "2D",
-    "date": "23-Nov-2026",
     "time": "02:00 PM",
     "screen": "",
     "city": "Lahore",
@@ -1603,17 +1581,6 @@
     "time": "04:30 PM",
     "screen": "",
     "city": "Lahore",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Phase IV Bahria Town",
-    "movie": "Godzilla Minus Zero Japanese (Subtitles)",
-    "format": "2D",
-    "date": "23-Nov-2026",
-    "time": "01:00 AM",
-    "screen": "",
-    "city": "RWP/ISB",
     "source": "arena"
   },
   {
