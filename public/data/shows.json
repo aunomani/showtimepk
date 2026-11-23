@@ -60,17 +60,6 @@
     "movie": "Singh vs Kaur 2 (Punjabi)",
     "format": "2D",
     "date": "23-Nov-2026",
-    "time": "01:15 PM",
-    "screen": "Gold Screen",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Amanah Mall Lahore",
-    "movie": "Singh vs Kaur 2 (Punjabi)",
-    "format": "2D",
-    "date": "23-Nov-2026",
     "time": "09:00 PM",
     "screen": "SILVER 3",
     "city": "Lahore",
@@ -128,17 +117,6 @@
     "date": "23-Nov-2026",
     "time": "11:00 PM",
     "screen": "SCREEN2",
-    "city": "RWP/ISB",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Jinnah Park Rawalpindi",
-    "movie": "Belkis (Urdu Dubbed)",
-    "format": "2D",
-    "date": "23-Nov-2026",
-    "time": "01:15 PM",
-    "screen": "SCREEN 2 - PLATINUM",
     "city": "RWP/ISB",
     "source": "cinepax"
   },
@@ -302,17 +280,6 @@
     "movie": "Belkis (Urdu Dubbed)",
     "format": "2D",
     "date": "23-Nov-2026",
-    "time": "01:15 PM",
-    "screen": "GOLD-2",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Belkis (Urdu Dubbed)",
-    "format": "2D",
-    "date": "23-Nov-2026",
     "time": "06:00 PM",
     "screen": "GOLD-2",
     "city": "Karachi",
@@ -357,8 +324,8 @@
     "movie": "Godzilla Minus Zero (Subtitles)",
     "format": "2D",
     "date": "23-Nov-2026",
-    "time": "12:45 PM",
-    "screen": "GOLD-1",
+    "time": "08:15 PM",
+    "screen": "PLATINUM",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -376,33 +343,11 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
-    "movie": "Godzilla Minus Zero (Subtitles)",
-    "format": "2D",
-    "date": "23-Nov-2026",
-    "time": "08:15 PM",
-    "screen": "PLATINUM",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
     "movie": "Resident Evil",
     "format": "2D",
     "date": "23-Nov-2026",
     "time": "03:30 PM",
     "screen": "GOLD-1",
-    "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Ocean Mall Karachi",
-    "movie": "Spider-Man: Brand New Day",
-    "format": "2D",
-    "date": "23-Nov-2026",
-    "time": "01:00 PM",
-    "screen": "PLATINUM",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -437,17 +382,6 @@
     "time": "08:00 PM",
     "screen": "GOLD-2",
     "city": "Karachi",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Belkis (Urdu Dubbed)",
-    "format": "2D",
-    "date": "23-Nov-2026",
-    "time": "01:00 PM",
-    "screen": "Screen 4",
-    "city": "Lahore",
     "source": "cinepax"
   },
   {
@@ -523,17 +457,6 @@
     "format": "2D",
     "date": "23-Nov-2026",
     "time": "10:45 PM",
-    "screen": "Platinum 2",
-    "city": "Lahore",
-    "source": "cinepax"
-  },
-  {
-    "cinema": "Cinepax",
-    "location": "Packages Mall Lahore",
-    "movie": "Hope (Urdu Dubbed)",
-    "format": "2D",
-    "date": "23-Nov-2026",
-    "time": "01:15 PM",
     "screen": "Platinum 2",
     "city": "Lahore",
     "source": "cinepax"
@@ -1684,6 +1607,17 @@
   },
   {
     "cinema": "Cinepax",
+    "location": "Amanah Mall Lahore",
+    "movie": "Singh vs Kaur 2 (Punjabi)",
+    "format": "2D",
+    "date": "24-Nov-2026",
+    "time": "01:15 PM",
+    "screen": "Gold Screen",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
     "location": "Jinnah Park Rawalpindi",
     "movie": "Godzilla Minus Zero (Subtitles)",
     "format": "2D",
@@ -1707,11 +1641,44 @@
   {
     "cinema": "Cinepax",
     "location": "Ocean Mall Karachi",
+    "movie": "Belkis (Urdu Dubbed)",
+    "format": "2D",
+    "date": "24-Nov-2026",
+    "time": "01:15 PM",
+    "screen": "GOLD-2",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Godzilla Minus Zero (Subtitles)",
+    "format": "2D",
+    "date": "24-Nov-2026",
+    "time": "12:45 PM",
+    "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
     "movie": "Other Mommy",
     "format": "2D",
     "date": "24-Nov-2026",
     "time": "11:30 PM",
     "screen": "GOLD-1",
+    "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Ocean Mall Karachi",
+    "movie": "Spider-Man: Brand New Day",
+    "format": "2D",
+    "date": "24-Nov-2026",
+    "time": "01:00 PM",
+    "screen": "PLATINUM",
     "city": "Karachi",
     "source": "cinepax"
   },
@@ -1724,6 +1691,28 @@
     "time": "05:45 PM",
     "screen": "GOLD-1",
     "city": "Karachi",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Belkis (Urdu Dubbed)",
+    "format": "2D",
+    "date": "24-Nov-2026",
+    "time": "01:00 PM",
+    "screen": "Screen 4",
+    "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Packages Mall Lahore",
+    "movie": "Hope (Urdu Dubbed)",
+    "format": "2D",
+    "date": "24-Nov-2026",
+    "time": "01:15 PM",
+    "screen": "Platinum 2",
+    "city": "Lahore",
     "source": "cinepax"
   },
   {
@@ -2913,6 +2902,17 @@
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Belkis (Urdu Dubbed)",
+    "format": "2D",
+    "date": "25-Nov-2026",
+    "time": "01:15 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
   },
   {
     "cinema": "Cinestar",
