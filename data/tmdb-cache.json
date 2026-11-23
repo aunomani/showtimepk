@@ -1138,5 +1138,71 @@
   "godzillaminuszerojapanese": {
     "fetchedAt": "2026-11-21T19:41:28.154Z",
     "meta": null
+  },
+  "babilinlaneti": {
+    "fetchedAt": "2026-11-23T14:21:02.458Z",
+    "meta": {
+      "title": "Babil'in Laneti",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/lmgChSkRJuj3oJEEhNlWrf7qrBu.jpg",
+      "trailerUrl": "",
+      "trailerId": "",
+      "description": "",
+      "releaseDate": "2026-05-08"
+    }
+  },
+  "fockerinlaw": {
+    "fetchedAt": "2026-11-23T14:21:02.904Z",
+    "meta": {
+      "title": "Focker In-Law",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/iHJhSfqFpDMOyeMc6h6BOeHxse2.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=9CKu3WoMYCg",
+      "trailerId": "9CKu3WoMYCg",
+      "description": "Henry, son of Greg and Pam Focker, aims to marry Olivia, a strong-willed former hostage negotiator who appears to be his complete mismatch. To Greg's shock, father-in-law Jack Byrnes takes a liking to Olivia, and her unprecedented rise into his Circle of Trust sparks chaos in the family before Jack's 80th birthday party.",
+      "releaseDate": "2026-11-21"
+    }
+  },
+  "hershey": {
+    "fetchedAt": "2026-11-23T14:21:03.265Z",
+    "meta": {
+      "title": "Hershey",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/ojd8Gu2bPsOzdMz6Ip5AYDu4Vki.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=NsHJw58wWRg",
+      "trailerId": "NsHJw58wWRg",
+      "description": "Based on the life of Milton Hershey, founder of the iconic Hershey chocolate company. Milton's grit and determination to conquer the world of candy-making propel him from bankruptcy to monumental success, and the love of his life, Kitty, helps him build a legacy sweeter than any candy bar. But when Kitty falls ill, Milton’s wild optimism teeters on the edge of destruction, and she sparks an even bolder dream: to leave their fortune in the hands of America’s children in need.",
+      "releaseDate": "2026-11-25"
+    }
+  },
+  "hexed": {
+    "fetchedAt": "2026-11-23T14:21:03.620Z",
+    "meta": {
+      "title": "Hexed",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/yykeYKbDBM9eUMJUucaaDo2mi1p.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=9ke5KSOUl-U",
+      "trailerId": "9ke5KSOUl-U",
+      "description": "An impulsive and unconventional teenage girl named Billie discovers secret magical abilities which, once unleashed, hurtle her into a spectacle-filled journey out of suburbia and into a vast witch realm called Hexe. Forced to team up with her cautious mother, Alice, they uncover family mysteries that could change the world of witches forever.",
+      "releaseDate": "2026-11-25"
+    }
+  },
+  "papertiger": {
+    "fetchedAt": "2026-11-23T14:21:03.990Z",
+    "meta": {
+      "title": "Paper Tiger",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/p6oLmq5KmuWY6uRXBQBL2q30jia.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=MLwTyQOhBkw",
+      "trailerId": "MLwTyQOhBkw",
+      "description": "Two brothers become entangled in a scheme that turns out to be too good to be true. As they try to navigate their way through the dangerous world of the Russian mafia, family bonds begin to fray with life-altering consequences.",
+      "releaseDate": "2026-11-13"
+    }
+  },
+  "sanjog": {
+    "fetchedAt": "2026-11-23T14:21:04.346Z",
+    "meta": {
+      "title": "Sanjog",
+      "posterUrl": "https://image.tmdb.org/t/p/w500/qzYMDTnAvH19dmR1lI3jCHJ2PuN.jpg",
+      "trailerUrl": "https://www.youtube.com/watch?v=Xzn_71fpTS8",
+      "trailerId": "Xzn_71fpTS8",
+      "description": "Sanjog explores how destiny brings people together through unexpected circumstances, emotional bonds, and difficult choices. As love and relationships are tested, the characters must navigate life's twists and turns.",
+      "releaseDate": "2026-11-27"
+    }
   }
 }
