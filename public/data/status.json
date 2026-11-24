@@ -1,11 +1,7 @@
 {
-  "updatedAt": "2026-11-24T02:10:42.269Z",
+  "updatedAt": "2026-11-24T08:24:53.781Z",
   "totalShows": 447,
   "sources": {
-    "nueplex": {
-      "count": 84,
-      "from": "live"
-    },
     "cinepax": {
       "count": 124,
       "from": "live"
@@ -16,6 +12,10 @@
     },
     "arena": {
       "count": 54,
+      "from": "live"
+    },
+    "nueplex": {
+      "count": 84,
       "from": "live"
     },
     "raiha": {
