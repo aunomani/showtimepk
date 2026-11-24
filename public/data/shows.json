@@ -1347,17 +1347,6 @@
     "movie": "Belkis",
     "format": "2D",
     "date": "24-Nov-2026",
-    "time": "12:30 AM",
-    "screen": "",
-    "city": "Karachi",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Icon Tower",
-    "movie": "Belkis",
-    "format": "2D",
-    "date": "24-Nov-2026",
     "time": "11:45 AM",
     "screen": "",
     "city": "Karachi",
@@ -1435,17 +1424,6 @@
     "movie": "Godzilla Minus Zero Japanese (Subtitles)",
     "format": "2D",
     "date": "24-Nov-2026",
-    "time": "12:30 AM",
-    "screen": "",
-    "city": "Lahore",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Bahria Orchard",
-    "movie": "Godzilla Minus Zero Japanese (Subtitles)",
-    "format": "2D",
-    "date": "24-Nov-2026",
     "time": "02:00 PM",
     "screen": "",
     "city": "Lahore",
@@ -1502,17 +1480,6 @@
     "format": "3D",
     "date": "24-Nov-2026",
     "time": "11:45 AM",
-    "screen": "",
-    "city": "RWP/ISB",
-    "source": "arena"
-  },
-  {
-    "cinema": "The Arena",
-    "location": "Phase IV Bahria Town",
-    "movie": "The Hunger Games: Sunrise On The Reaping",
-    "format": "2D",
-    "date": "24-Nov-2026",
-    "time": "01:00 AM",
     "screen": "",
     "city": "RWP/ISB",
     "source": "arena"
@@ -4346,6 +4313,83 @@
   },
   {
     "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Babil in Laneti (Urdu Dubbed)",
+    "format": "2D",
+    "date": "27-Nov-2026",
+    "time": "07:15 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Belkis (Urdu Dubbed)",
+    "format": "2D",
+    "date": "27-Nov-2026",
+    "time": "09:00 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Carry On Jatta 4",
+    "format": "2D",
+    "date": "27-Nov-2026",
+    "time": "04:40 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Sanjog (Punjabi)",
+    "format": "2D",
+    "date": "27-Nov-2026",
+    "time": "08:45 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "The Hunger Games: Sunrise On The Reaping",
+    "format": "2D",
+    "date": "27-Nov-2026",
+    "time": "03:00 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "The Hunger Games: Sunrise On The Reaping",
+    "format": "2D",
+    "date": "27-Nov-2026",
+    "time": "06:00 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Victorian Psycho",
+    "format": "2D",
+    "date": "27-Nov-2026",
+    "time": "02:45 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
     "location": "Packages Mall Lahore",
     "movie": "Babil in Laneti (Urdu Dubbed)",
     "format": "2D",
@@ -4672,6 +4716,50 @@
     "time": "03:15 PM",
     "screen": "Gold Screen",
     "city": "Lahore",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Carry On Jatta 4",
+    "format": "2D",
+    "date": "28-Nov-2026",
+    "time": "04:30 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Focker-in-Law",
+    "format": "2D",
+    "date": "28-Nov-2026",
+    "time": "12:30 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Paper Tiger",
+    "format": "2D",
+    "date": "28-Nov-2026",
+    "time": "12:45 PM",
+    "screen": "SCREEN 1- SILVER",
+    "city": "RWP/ISB",
+    "source": "cinepax"
+  },
+  {
+    "cinema": "Cinepax",
+    "location": "Jinnah Park Rawalpindi",
+    "movie": "Victorian Psycho",
+    "format": "2D",
+    "date": "28-Nov-2026",
+    "time": "02:30 PM",
+    "screen": "SCREEN 2 - PLATINUM",
+    "city": "RWP/ISB",
     "source": "cinepax"
   },
   {
